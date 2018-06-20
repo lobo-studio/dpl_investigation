@@ -14,7 +14,7 @@ function scrollNav() {
     var theClass = $(this).attr("class");
     //Animate
     $('html, body').stop().animate({
-        scrollTop: $( $(this).attr('href') ).offset().top - 160
+        scrollTop: $( $(this).attr('href') ).offset().top - 75
     }, 400);
     return false;
   });
