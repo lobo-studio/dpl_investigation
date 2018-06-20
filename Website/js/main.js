@@ -4,3 +4,20 @@ $(document).ready(function() {
       $("body").toggleClass("nav_open");
   });
 });
+
+
+
+
+function scrollNav() {
+  $('.anchor').click(function(){  
+    //Toggle Class
+    var theClass = $(this).attr("class");
+    //Animate
+    $('html, body').stop().animate({
+        scrollTop: $( $(this).attr('href') ).offset().top - 160
+    }, 400);
+    return false;
+  });
+  $('.scrollTop a').scrollTop();
+}
+scrollNav();
