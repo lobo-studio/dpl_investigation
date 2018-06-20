@@ -120,6 +120,11 @@
   section {
     padding: 55px 0;
   }
+  section.banner {
+    height: 100vh;
+    padding-top: 110px;
+    padding-bottom: 120px;
+  }
   .banner .banner-holder {
     padding-top: 10px;
   }
