@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-@@include('../../components/header/html-head/head.html', {
-"title": "DLP_investigation"
-})
+{% include head.html %}
 
 <body>
 
@@ -12,17 +10,17 @@
     <div class="header-holder d-flex justify-content-between align-items-center">
       <div class="logo">
         <a href="">
-          <img src="img/logo.svg" alt="">
+          <img src="assets/img/logo.svg" alt="">
         </a>
       </div>
       <div class="navigation d-flex">
         <ul class="nav-list">
-          <a href="" class="burger-btn close-btn d-block d-lg-none"><img src="img/ico-cancel.svg" alt=""></a>
+          <a href="" class="burger-btn close-btn d-block d-lg-none"><img src="assets/img/ico-cancel.svg" alt=""></a>
           <li><a href="">Home</a></li>
           <li><a href="blog.html">Blog</a></li>
           <li><a class="anchor" href="#contact">Contact</a></li>
         </ul>
-        <a class="burger-btn" href=""><img src="img/burger.svg" alt=""></a>
+        <a class="burger-btn" href=""><img src="assets/img/burger.svg" alt=""></a>
       </div>
     </div>
   </div>
