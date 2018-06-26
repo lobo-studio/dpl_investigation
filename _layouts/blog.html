@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /blog/
 ---
 
 <div class="main header-margin">
@@ -8,106 +9,89 @@ layout: default
 			<div class="blog-page-holder">
 				<h2 class="text-center">ALL BLOGS</h2>
 				<div class="blog-list">
+				
+					{% for post in paginator.posts %}
 					<div class="blog-post">
 						<div class="row align-items-center">
 							<div class="col-md-5">
 								<div class="post-date-img">
 									<div class="post-date">
 										<div class="date">
-											<p class="day">05</p>
-											<p class="month-year">OCT, 18</p>
+											<p class="day">{{post.date | date: '%d' }}</p>
+											<p class="month-year">{{post.date | date: '%b, %y' }}</p>
 										</div>
 									</div>
 									<div class="post-img">
-									<a href="">
-										<img src="assets/img/blog-1.jpg" alt="">
+									<a href="{{ post.url }}">
+										<img src="{{ post.image_preview_image_path }}" alt="">
 									</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-7">
 								<div class="post-info">
-								<h4>The admissibility of an investigation report in court</h4>
+								<h4>{{ post.title }}</h4>
 								<hr class="line">
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris elementum mauris vitae tortor. Fusce consectetuer risus a nunc. Etiam neque. Sed vel lectus donec odio tempus molestie.</p>
-								<a class="custom-link" href="">Read more <img src="assets/img/arrow-orange.svg" alt=""></a>
+								<p>{{post.text_preview}}</p>
+								<a class="custom-link" href="{{ post.url }}">Read more <img src="{{site.url}}/assets/img/arrow-orange.svg" alt=""></a>
 							</div>
 							</div>
 						</div>
 					</div>
-					<div class="blog-post">
-						<div class="row align-items-center">
-							<div class="col-md-5">
-								<div class="post-date-img">
-									<div class="post-date">
-										<div class="date">
-											<p class="day">05</p>
-											<p class="month-year">OCT, 18</p>
-										</div>
-									</div>
-									<div class="post-img">
-									<a href="">
-										<img src="assets/img/blog-1.jpg" alt="">
-									</a>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-7">
-								<div class="post-info">
-								<h4>The admissibility of an investigation report in court</h4>
-								<hr class="line">
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris elementum mauris vitae tortor. Fusce consectetuer risus a nunc. Etiam neque. Sed vel lectus donec odio tempus molestie.</p>
-								<a class="custom-link" href="">Read more <img src="assets/img/arrow-orange.svg" alt=""></a>
-							</div>
-							</div>
-						</div>
-					</div>
-					<div class="blog-post">
-						<div class="row align-items-center">
-							<div class="col-md-5">
-								<div class="post-date-img">
-									<div class="post-date">
-										<div class="date">
-											<p class="day">05</p>
-											<p class="month-year">OCT, 18</p>
-										</div>
-									</div>
-									<div class="post-img">
-									<a href="">
-										<img src="assets/img/blog-1.jpg" alt="">
-									</a>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-7">
-								<div class="post-info">
-								<h4>The admissibility of an investigation report in court</h4>
-								<hr class="line">
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris elementum mauris vitae tortor. Fusce consectetuer risus a nunc. Etiam neque. Sed vel lectus donec odio tempus molestie.</p>
-								<a class="custom-link" href="">Read more <img src="assets/img/arrow-orange.svg" alt=""></a>
-							</div>
-							</div>
-						</div>
-					</div>
+					{% endfor %}
+
 				</div>
+
 				<div class="pagination-wrap">
 					<nav class="d-flex justify-content-center">
+
+
+
+					{% if paginator.total_pages > 1 %}
 					  <ul class="pagination">
+					  	 {% if paginator.previous_page %}
 					    <li class="page-item">
-					    	<a class="page-link" href="#">
-					    		<img src="assets/img/chevron-left.svg" alt="">
+					    	<a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+					    		<img src="{{site.url}}/assets/img/chevron-left.svg" alt="">
 					    	</a>
 					    </li>
-					    <li class="page-item"><a class="page-link" href="#">1</a></li>
-					    <li class="page-item"><a class="page-link" href="#">2</a></li>
-					    <li class="page-item"><a class="page-link" href="#">3</a></li>
-						<li class="page-item"><a class="page-link" href="#">4</a></li>
-					    <li class="page-item">
+					    {% else %}
+					     <li class="page-item">
 					    	<a class="page-link" href="#">
-					    		<img src="assets/img/chevron-right.svg" alt="">
+					    		<img src="{{site.url}}/assets/img/chevron-left.svg" alt="">
 					    	</a>
 					    </li>
+  						{% endif %}
+
+						  {% for page in (1..paginator.total_pages) %}
+					    	{% if page == paginator.page %}
+					      		<li class="page-item"><a class="page-link" href="#">{{ page }}</a></li>
+					    	{% elsif page == 1 %}
+					    	<li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+					      		{{ page }}</a></li>
+					    	{% else %}
+					    		<li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+					    	{% endif %}
+					 	{% endfor %}
+
+
+						{% if paginator.next_page %}
+					    <li class="page-item">
+					    	<a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+					    		<img src="{{site.url}}/assets/img/chevron-right.svg" alt="">
+					    	</a>
+					    </li>
+					    {% else %}
+					        <li class="page-item">
+					    	<a class="page-link" href="#">
+					    		<img src="{{site.url}}/assets/img/chevron-right.svg" alt="">
+					    	</a>
+					    </li>
+					    {% endif %}
 					  </ul>
+
+					 {% endif %}
+
 					</nav>
 				</div>
 			</div>

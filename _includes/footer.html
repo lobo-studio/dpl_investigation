@@ -1,50 +1,54 @@
 
-
+<footer>
 	<section id="contact" class="section-contact">
 		<div class="container">
 			<div class="section-contact-holder">
-				<h2 class="white text-center">
+				<h2 class="white text-center editable">
 					CONTACT US
 				</h2>
-				<form action="">
+				<form action="" method="post" id="form-contact">
 					<div class="row">
 						<div class="col-12 col-md-6">
 							<div class="form-item">
-								<label for="">First Name</label>
-								<input type="text" placeholder="First Name">
+								<label for="name">First Name</label>
+								<input type="text" name="name" placeholder="First Name">
 							</div>
 						</div>
 						<div class="col-12 col-md-6">
 							<div class="form-item">
-								<label for="">Last Name</label>
-								<input type="text" placeholder="Last Name">
+								<label for="Last">Last Name</label>
+								<input type="text" name="last" id="Last" placeholder="Last Name">
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-12 col-md-6">
 							<div class="form-item">
-								<label for="">E-mail</label>
-								<input type="email" placeholder="E-mail">
+								<label for="email">E-mail</label>
+								<input type="email" name="email" id="email" placeholder="E-mail">
 							</div>
 						</div>
 						<div class="col-12 col-md-6">
 							<div class="form-item">
-								<label for="">Phone</label>
-								<input type="phone" placeholder="+420">
+								<label for="phone">Phone</label>
+								<input type="text" name="phone" id="phone" placeholder="+420">
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-12 col-md-12">
 							<div class="form-item">
-								<label for="">Message</label>
-								<textarea name="" id="" cols="20" rows="3" placeholder="Your message..."></textarea>
+								<label for="message">Message</label>
+								<textarea name="message" id="message" cols="20" rows="3" placeholder="Your message..."></textarea>
 							</div>
 						</div>
 					</div>
+					<input type="hidden" name="_to" value="levanton21@gmail.com">
+				 	<input type="hidden" name="_cc" value="contact@example.com">
+				    <input type="text" name="_gotcha" style="display: none;">
+
 					<p class="text-center mt-4">
-								<button class="btn-primary">SEND MESSAGE</button>
+								<button type="submit" class="btn-primary">SEND MESSAGE</button>
 					</p>
 				</form>
 			</div>
@@ -58,7 +62,7 @@
 			</div>
 		</div>
 	</div>
-
+</footer>
 
  {%- include scripts.html -%}
   

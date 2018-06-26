@@ -84,6 +84,13 @@ blockquote{
   border-left: 3px solid #ff4b2d;
   margin: 80px 0;
 }
+blockquote p{
+  color: #02023a;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 30px;
+}
 h1{
   color: #ffffff;
   font-size: 50px;
@@ -399,6 +406,7 @@ section.section-download{
     letter-spacing: 0.8px;
     display: block;
     margin-bottom: 5px;
+    text-align: left;
   }
   input,textarea{
     border: none;
