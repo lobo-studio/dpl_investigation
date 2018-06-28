@@ -8,6 +8,10 @@
     min-height: unset;
     padding-top: 100px;
   }
+  .corner-blocks .block-item{
+    padding: 30px 20px;
+  }
+
 }
 
 /* Large Devices, Wide Screens */
@@ -87,6 +91,14 @@
   .next-blogs{
     padding: 0;
   }
+  .corner-blocks{
+    flex-direction: column;
+  }
+  .corner-blocks .block-item{
+    padding: 30px 20px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
 }
 
 /* Small Devices, Tablets */
@@ -103,7 +115,7 @@
     padding: 55px 0;
   }
   section.banner{
-    height: 100vh;
+    min-height: 100vh;
     padding-top: 110px;
     padding-bottom: 120px;
   }
