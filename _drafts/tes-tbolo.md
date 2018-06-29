@@ -6,3 +6,4 @@ text_preview: Some text
 permalink: '/blog/:title'
 ---
 
+j'aime le chocolat balla
