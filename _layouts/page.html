@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/:title/
---- 
+---
 
 <div class="main header-margin dots-background">
 	<section class="page-post">
@@ -47,7 +47,7 @@ permalink: /blog/:title/
 								{{ content }}
 
 
-							</div>	
+							</div>
 						</div>
 					</div>
 					<div class="row justify-content-center hare-btns mt-4">
@@ -82,13 +82,13 @@ permalink: /blog/:title/
 				<div class="row">
 
 
-					
+
 					{% for post in site.posts limit:3 %}
 					<div class="col-md-4">
 						<div class="post-preview">
 							<div class="img-header">
 								<a href="">
-									<img src="{{site.url}}/{{ post.image_preview_image_path }}" alt="">
+									<img src="{{site.url}}/{{ page.image_preview_image_path }}" alt="">
 								</a>
 							</div>
 							<div class="d-flex justify-content-end">
@@ -104,7 +104,7 @@ permalink: /blog/:title/
 						</div>
 					</div>
 					{% endfor %}
-					
+
 
 
 
