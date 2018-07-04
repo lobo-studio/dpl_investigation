@@ -45,12 +45,12 @@ var formEl = document.getElementById("form-contact");
 formEl.addEventListener("submit", function (e) {
   e.preventDefault();
 
-  // if (grecaptcha) {
-  //   var recaptchaResponse = grecaptcha.getResponse();
-  //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
-  //     return false;
-  //   }
-  // }
+  if (grecaptcha) {
+    var recaptchaResponse = grecaptcha.getResponse();
+    if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+      return false;
+    }
+  }
 
   var request = new XMLHttpRequest();
 
