@@ -23,7 +23,6 @@ scrollNav();
 
 
 
-// Helper function to get form data in the supported format
 function getFormDataString(formEl) {
   var formData = new FormData(formEl),
       data = [];
@@ -36,13 +35,18 @@ function getFormDataString(formEl) {
 }
 
 // Fetch the form element
-var formEl = document.getElementById("contact-form");
+var formEl = document.getElementById("form-contact");
 
 // Override the submit event
 formEl.addEventListener("submit", function (e) {
   e.preventDefault();
 
-
+  if (grecaptcha) {
+    var recaptchaResponse = grecaptcha.getResponse();
+    if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+      return false;
+    }
+  }
 
   var request = new XMLHttpRequest();
 
