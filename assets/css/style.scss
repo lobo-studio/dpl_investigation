@@ -492,7 +492,7 @@ section.section-download{
     color: #fff;
     letter-spacing: 0.75px;
     width: 100%;
-    transition: all 0.6 ease;
+    transition: all 0.6s ease;
     &:placeholder{
       color: #707290;
     }
@@ -501,6 +501,12 @@ section.section-download{
       outline: none;
       border-color: #ff4b2d;
     }
+  }
+  input[type="checkbox"]{
+    float: left;
+    width: auto;
+    margin-top: 5px;
+    margin-right: 10px;
   }
   textarea{
     resize: none;

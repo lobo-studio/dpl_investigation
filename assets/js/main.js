@@ -48,6 +48,10 @@ formEl.addEventListener("submit", function (e) {
     }
   }
 
+  if ($('#grpg').is(':checked')) {  
+    return false;
+  }
+
   var request = new XMLHttpRequest();
 
   request.addEventListener("load", function () {
