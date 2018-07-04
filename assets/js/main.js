@@ -35,7 +35,7 @@ function getFormDataString(formEl) {
 }
 
 // Fetch the form element
-var formEl = document.getElementById("form-contact");
+var formEl = document.getElementById("contact-form");
 
 // Override the submit event
 formEl.addEventListener("submit", function (e) {
