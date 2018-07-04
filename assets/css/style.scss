@@ -507,6 +507,9 @@ section.section-download{
     width: auto;
     margin-top: 5px;
     margin-right: 10px;
+    &.error+label{
+      color: #e84646;
+    }
   }
   textarea{
     resize: none;

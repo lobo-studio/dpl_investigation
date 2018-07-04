@@ -21,6 +21,19 @@ scrollNav();
 
 
 
+$("#contact-form").validate({
+  rules: {
+    // simple rule, converted to {required:true}
+    name: "required",
+   
+  },
+  errorPlacement: function(){
+        return false;
+    },
+  submitHandler: function(form) {
+    form.submit();
+  }
+ });
 
 
 function getFormDataString(formEl) {
@@ -49,6 +62,7 @@ formEl.addEventListener("submit", function (e) {
   }
 
   if ($('#grpg').is(':checked')) {  
+    console.log('error');
     return false;
   }
 
