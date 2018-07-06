@@ -6,7 +6,7 @@ $(document).ready(function() {
   });
 });
 function scrollNav() {
-  $('.anchor').click(function(){  
+  $('.anchor').click(function(){
     //Toggle Class
     var theClass = $(this).attr("class");
     //Animate
@@ -25,7 +25,7 @@ $("#contact-form").validate({
   rules: {
     // simple rule, converted to {required:true}
     name: "required",
-   
+
   },
   errorPlacement: function(){
         return false;
@@ -61,8 +61,7 @@ formEl.addEventListener("submit", function (e) {
     }
   }
 
-  if ($('#grpg').is(':checked')) {  
-    console.log('error');
+  if ($('#grpg').is(':checked')) {
     return false;
   }
 
@@ -78,5 +77,3 @@ formEl.addEventListener("submit", function (e) {
   request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   request.send(getFormDataString(formEl));
 });
-
-
