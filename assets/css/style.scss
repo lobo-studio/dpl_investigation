@@ -93,7 +93,7 @@ blockquote p{
 }
 h1{
   color: #ffffff;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 2.5px;
   text-transform: uppercase;
@@ -321,6 +321,7 @@ section.blocks-info{
   background-position: center top, center bottom, center bottom;;
   background-size: 100% auto;
   background-repeat: no-repeat, no-repeat;
+  padding: 250px 0;
 }
 .corner-blocks{
   display: flex;

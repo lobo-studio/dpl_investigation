@@ -11,7 +11,9 @@
   .corner-blocks .block-item{
     padding: 30px 20px;
   }
-
+  section.blocks-info{
+    padding: 166px 0;
+  }
 }
 
 /* Large Devices, Wide Screens */
@@ -99,6 +101,9 @@
     width: 100%;
     margin-bottom: 30px;
   }
+  section.blocks-info{
+    padding: 120px 0;
+  }
 }
 
 /* Small Devices, Tablets */
@@ -183,6 +188,9 @@
   }
   .post-date .date .month-year{
     margin-bottom: 0;
+  }
+  section.blocks-info{
+    padding: 60px 0;
   }
 }
 
