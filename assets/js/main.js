@@ -13,6 +13,7 @@ function scrollNav() {
     $('html, body').stop().animate({
         scrollTop: $( $(this).attr('href') ).offset().top - 75
     }, 400);
+    $("body").toggleClass("nav_open");
     return false;
   });
   $('.scrollTop a').scrollTop();
