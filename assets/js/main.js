@@ -1,5 +1,10 @@
 
 $(document).ready(function() {
+    $("body").children().each(function() {
+        $(this).html($(this).html().replace(/&#8232;/g," "));
+    });
+});
+$(document).ready(function() {
   $(".burger-btn").click(function(){
       event.preventDefault();
       $("body").toggleClass("nav_open");
