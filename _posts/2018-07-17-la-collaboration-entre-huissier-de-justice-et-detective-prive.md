@@ -3,17 +3,9 @@ id: 295
 title: La collaboration entre huissier de justice et détective privé
 date: 2018-07-17T10:00:51+00:00
 author: Delphine
-layout: post
+layout: page
 guid: https://dlp-investigations.fr/?p=295
 permalink: /la-collaboration-entre-huissier-de-justice-et-detective-prive/
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
-categories:
-  - Blog
 ---
 <p style="text-align: justify;">
   Dans beaucoup de dossier, un huissier de justice et un détective privé peuvent collaborer. Ces collaborations sont présentes dans le cas d’une recherche adresse-téléphone, pour trouver le meilleur créneau horaire afin d’effectuer une constatation ou encore lors d’une ordonnance sur requête.
