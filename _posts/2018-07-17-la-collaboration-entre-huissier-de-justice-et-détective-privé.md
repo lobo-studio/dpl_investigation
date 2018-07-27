@@ -8,7 +8,7 @@ permalink: /la-collaboration-entre-huissier-de-justice-et-detective-prive/
 
 Dans beaucoup de dossier, un huissier de justice et un d&eacute;tective priv&eacute; peuvent collaborer. Ces collaborations sont pr&eacute;sentes dans le cas d’une recherche adresse-t&eacute;l&eacute;phone, pour trouver le meilleur cr&eacute;neau horaire afin d’effectuer une constatation ou encore lors d’une ordonnance sur requ&ecirc;te.
 
-**Comment se passent et se pr&eacute;parent les diff&eacute;rentes collaborations entre huissier de justice et d&eacute;tective priv&eacute; ? **
+\*\*Comment se passent et se pr&eacute;parent les diff&eacute;rentes collaborations entre huissier de justice et d&eacute;tective priv&eacute; ? \*\*
 
 # La recherche d’adresse-t&eacute;l&eacute;phone et la constatation
 
@@ -40,7 +40,9 @@ Ainsi l’huissier pourra effectuer cette prestation dans les meilleures conditi
 
 Afin de cristalliser des preuves avant qu’elles ne disparaissent pas, il existe l’ordonnance sur requ&ecirc;te. Celle-ci se trouve dans l’article 145 du Code civil.<br>&laquo; S’il existe un motif l&eacute;gitime de conserver ou d’&eacute;tablir avant tout proc&egrave;s la preuve de faits dont pourrait d&eacute;pendre la solution d’un litige, les mesures d’instruction l&eacute;galement admissibles peuvent &ecirc;tre ordonn&eacute;es &agrave; la demande de tout int&eacute;ress&eacute;, sur requ&ecirc;te ou en r&eacute;f&eacute;r&eacute;. &raquo;
 
-![](/uploads/images-1.jpeg){: .size-full.wp-image-296.alignleft}La jurisprudence de la 2&egrave;me chambre civile de la Cour de Cassation du 7 mai 2008 n&deg;07-14858, explicite que l’ordonnance sur requ&ecirc;te, si elle permet une instruction avant l’engagement de tout proc&egrave;s, doit &ecirc;tre utilis&eacute;e que pour &eacute;viter la disparition de pi&egrave;ces et non pour pallier un manque d’&eacute;l&eacute;ments en vue d’un proc&egrave;s.
+![](/uploads/images-1.jpeg){: .size-full.wp-image-296.alignleft}
+
+La jurisprudence de la 2&egrave;me chambre civile de la Cour de Cassation du 7 mai 2008 n&deg;07-14858, explicite que l’ordonnance sur requ&ecirc;te, si elle permet une instruction avant l’engagement de tout proc&egrave;s, doit &ecirc;tre utilis&eacute;e que pour &eacute;viter la disparition de pi&egrave;ces et non pour pallier un manque d’&eacute;l&eacute;ments en vue d’un proc&egrave;s.
 
 La comp&eacute;tence revient au pr&eacute;sident du Tribunal de Commerce du lieu du si&egrave;ge social de la soci&eacute;t&eacute; si l’adversaire est un commer&ccedil;ant. Dans le cas d’un non-commer&ccedil;ant, la comp&eacute;tence territoriale revient au pr&eacute;sident du Tribunal de Grande Instance soit le TGI.
 
