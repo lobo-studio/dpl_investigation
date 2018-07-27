@@ -3,7 +3,7 @@ id: 42
 title: La science-fiction vs le réel
 date: 2017-10-16T10:10:14+00:00
 author: Delphine
-layout: post
+layout: page
 guid: https://dlp-investigations.fr/?p=42
 permalink: /science-fiction-vs-reel/
 ampforwp_custom_content_editor:

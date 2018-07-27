@@ -1,0 +1,112 @@
+---
+layout: default
+permalink: /blog/:title/
+---
+
+<div class="main header-margin dots-background">
+	<section class="page-post">
+		<div class="container">
+			<div class="page-post-holder">
+				<h2 class="text-center">{{ page.title }}</h2>
+				<div class="header-img">
+					<img src="{{ page.image_preview_image_path }}" alt="">
+				</div>
+				<div class="post-content">
+					<div class="row">
+						<div class=" col-sm-2">
+							<div class="left-menu-post">
+								<div class="post-date">
+									<div class="date">
+										<p class="day">{{page.date | date: '%d' }}</p>
+										<p class="month-year">{{page.date | date: '%b, %y' }}</p>
+									</div>
+								</div>
+								<ul class="share-btns">
+									<li>
+										<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" target="_blank">
+											<img src="{{site.url}}/assets/img/facebook.svg" alt="">
+										</a>
+									</li>
+									<li>
+										<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" target="_blank">
+											<img src="{{site.url}}/assets/img/twitter.svg" alt="">
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="{{site.url}}/assets/img/link.svg" alt="">
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class=" col-sm-8">
+							<div class="post-text">
+
+
+								{{ content }}
+
+
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-center hare-btns mt-4">
+						<div class="col-md-8">
+							<ul class="share-btns">
+								<li>
+									<a href="">
+										<img src="{{site.url}}/assets/img/facebook.svg" alt="">
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="{{site.url}}/assets/img/twitter.svg" alt="">
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="{{site.url}}/assets/img/link.svg" alt="">
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="next-blogs">
+		<div class="container">
+			<h2 class="text-center">NEXT BLOGS</h2>
+			<div class="next-blogs-holder">
+				<div class="row">
+
+
+
+					{% for post in site.posts limit:3 %}
+					<div class="col-md-4">
+						<div class="post-preview">
+							<div class="img-header">
+								<a href="">
+									<img src="{{site.url}}{{ post.image_preview_image_path }}" alt="">
+								</a>
+							</div>
+							<div class="d-flex justify-content-end">
+								<div class="date">
+									<p>{{post.date | date: '%b %d, %Y' }}</p>
+								</div>
+							</div>
+							<div class="post-info">
+								<h4>{{ post.title }}</h4>
+								<p>{{ post.text_preview }}</p>
+								<a class="custom-link" href="">Read more <img src="{{site.url}}/assets/img/arrow-orange.svg" alt=""></a>
+							</div>
+						</div>
+					</div>
+					{% endfor %}
+
+				</div>
+			</div>
+		</div>
+	</section>
+</div>

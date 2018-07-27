@@ -3,7 +3,7 @@ id: 299
 title: La concurrence déloyale
 date: 2018-07-03T09:55:45+00:00
 author: Delphine
-layout: post
+layout: page
 guid: https://dlp-investigations.fr/?p=299
 permalink: /la-concurrence-deloyale/
 ampforwp_custom_content_editor:
