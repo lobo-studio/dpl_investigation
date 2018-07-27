@@ -24,7 +24,9 @@ Selon, un des grands assureurs fran&ccedil;ais, il y a eu une augmentation des a
 
 ### Les arr&ecirc;ts maladie
 
-Par la presse, par nos relations et autres, nous pouvons entendre le cas de nombreux abus de la part de salari&eacute;. L’arr&ecirc;t maladie peut &ecirc;tre vu comme ![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1){: .size-medium.wp-image-288.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?w=570&amp;ssl=1 570w" sizes="(max-width: 300px) 100vw, 300px"}
+Par la presse, par nos relations et autres, nous pouvons entendre le cas de nombreux abus de la part de salari&eacute;. L’arr&ecirc;t maladie peut &ecirc;tre vu comme
+
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1){: .size-medium.wp-image-288.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?w=570&amp;ssl=1 570w" sizes="(max-width: 300px) 100vw, 300px"}
 
 un proc&eacute;d&eacute; pour augmenter la dur&eacute;e de ses &laquo; jours off &raquo;, ou encore exercer une activit&eacute; professionnelle &agrave; son nom propre ou chez le concurrent par exemple. Cela peut entrainer une perte de productivit&eacute;, un report de charge au sein de la soci&eacute;t&eacute; concern&eacute;e.
 
