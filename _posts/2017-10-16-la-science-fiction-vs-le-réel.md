@@ -16,17 +16,17 @@ categories:
   - Blog
 ---
 
-D&egrave;s que vous rencontrez quelqu’un, l’une des premi&egrave;res questions pos&eacute;e est &laquo; Qu’est-ce-que tu fais dans la vie ?&nbsp;&raquo;.
+D&egrave;s que vous rencontrez quelqu’un, l’une des premi&egrave;res questions pos&eacute;e est &laquo; Qu’est-ce-que tu fais dans la vie ? &raquo;.
 
 La majorit&eacute; du temps, les termes pour d&eacute;crire une activit&eacute; professionnelle sont ing&eacute;nieur, commercial, d&eacute;veloppeur, startup etc.
 
-A cette question je r&eacute;ponds, d&eacute;tective priv&eacute;. Une m&ecirc;me expression apparait sur de nombreux visages : la stup&eacute;faction suivie par l’&eacute;tonnement voire le rire. Tr&egrave;s rapidement, des questions sont pos&eacute;es: &laquo; Comme Hercule Poirot ou Sherlock Holmes ?&nbsp;&raquo;, &laquo; Tu es arm&eacute;e ?&nbsp;&raquo;, &laquo; O&ugrave; sont ton trench et ta loupe ?&nbsp;&raquo;
+A cette question je r&eacute;ponds, d&eacute;tective priv&eacute;. Une m&ecirc;me expression apparait sur de nombreux visages : la stup&eacute;faction suivie par l’&eacute;tonnement voire le rire. Tr&egrave;s rapidement, des questions sont pos&eacute;es: &laquo; Comme Hercule Poirot ou Sherlock Holmes ? &raquo;, &laquo; Tu es arm&eacute;e ? &raquo;, &laquo; O&ugrave; sont ton trench et ta loupe ? &raquo;
 
 Vous arrive-t-il souvent de voir un homme habill&eacute; d’un long trench, coiff&eacute; d’un chapeau, fumant sa pipe et lisant un journal qui a 2 trous au niveaux des yeux, avec sa loupe dans la poche droite et les jumelles dans la poche gauche ?
 
 Mais quelle est la diff&eacute;rence entre ce que nous pouvons voir &agrave; la t&eacute;l&eacute;vision via des films et s&eacute;ries et de ce que nous pouvons lire face &agrave; la r&eacute;alit&eacute; ?
 
-**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-dnqq4t8-base32-->
+**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
 
 # <u>La science-fiction vs le r&eacute;el</u>
 
