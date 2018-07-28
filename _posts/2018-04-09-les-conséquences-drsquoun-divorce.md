@@ -4,6 +4,7 @@ title: 'Les conséquences d&rsquo;un divorce'
 date: 2018-04-09T10:00:01+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=249
 permalink: /les-consequences-dun-divorce/
 ampforwp_custom_content_editor:

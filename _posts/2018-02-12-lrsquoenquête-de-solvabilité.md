@@ -4,6 +4,7 @@ title: 'L&rsquo;enquête de solvabilité'
 date: 2018-02-12T09:55:34+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=214
 permalink: /l-enquete-de-solvabilite/
 ampforwp_custom_content_editor:

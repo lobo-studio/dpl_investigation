@@ -4,6 +4,7 @@ title: La collaboration entre les professionnels de droit et un détective
 date: 2018-02-26T10:00:13+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=226
 permalink: /la-collaboration-entre-les-professionnels-de-droit-et-un-detective/
 ampforwp_custom_content_editor:

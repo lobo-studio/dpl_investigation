@@ -4,6 +4,7 @@ title: 'Le divorce par consentement mutuel ou à l&rsquo;amiable'
 date: 2018-03-26T10:00:15+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=244
 permalink: /le-divorce-par-consentement-mutuel-ou-a-l-amiable/
 ampforwp_custom_content_editor:

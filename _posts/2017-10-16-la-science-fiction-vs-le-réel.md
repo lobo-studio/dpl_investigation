@@ -4,6 +4,7 @@ title: La science-fiction vs le réel
 date: 2017-10-16T10:10:14+00:00
 author: Delphine
 layout: page
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=42
 permalink: /science-fiction-vs-reel/
 ampforwp_custom_content_editor:

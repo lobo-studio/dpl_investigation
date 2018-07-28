@@ -4,6 +4,7 @@ title: 'Le processus d&rsquo;une mission'
 date: 2018-01-15T10:00:59+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=190
 permalink: /le-processus-dune-mission/
 ampforwp_custom_content_editor:

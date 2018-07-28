@@ -4,6 +4,7 @@ title: Les arrêts maladie
 date: 2018-06-19T09:58:28+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=287
 permalink: /les-arrets-maladie/
 ampforwp_custom_content_editor:

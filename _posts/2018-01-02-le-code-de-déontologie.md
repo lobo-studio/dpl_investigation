@@ -4,6 +4,7 @@ title: Le code de Déontologie
 date: 2018-01-02T10:00:55+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=172
 permalink: /le-code-de-deontologie/
 ampforwp_custom_content_editor:

@@ -2,6 +2,7 @@
 title: La collaboration entre huissier de justice et détective privé
 date: 2018-07-17T10:00:51+00:00
 layout: page
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=295
 permalink: /la-collaboration-entre-huissier-de-justice-et-detective-prive/
 ---

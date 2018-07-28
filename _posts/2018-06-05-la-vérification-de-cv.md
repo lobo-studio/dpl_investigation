@@ -4,6 +4,7 @@ title: La vérification de CV
 date: 2018-06-05T10:00:16+00:00
 author: Delphine
 layout: post
+image_preview_image_path: /assets/img/blog-1.jpg
 guid: https://dlp-investigations.fr/?p=280
 permalink: /la-verification-de-cv/
 ampforwp_custom_content_editor:
