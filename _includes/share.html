@@ -1,0 +1,17 @@
+							<ul class="share-btns">
+								<li>
+									<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" target="_blank">
+										<img src="{{site.url}}/assets/img/facebook.svg" alt="">
+									</a>
+								</li>
+								<li>
+									<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" target="_blank">
+										<img src="{{site.url}}/assets/img/twitter.svg" alt="">
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="{{site.url}}/assets/img/link.svg" alt="">
+									</a>
+								</li>
+							</ul>
