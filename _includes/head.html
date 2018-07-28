@@ -7,6 +7,13 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   
+  <meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
+  <meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
+
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png" sizes="32x32">
   <!-- <meta property="og:image" content="/{{ site,photos }}"> -->
 
