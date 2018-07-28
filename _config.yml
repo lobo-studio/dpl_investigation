@@ -46,7 +46,8 @@ paginate_path: "/blog/page:num/"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+#Facebook Sharing
+facebook_app_id: 0011038251882641
 _options:
   image_preview_image_path:
     width: 1060
