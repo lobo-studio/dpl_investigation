@@ -23,8 +23,6 @@ permalink: /blog/:title/
 								</div>
 								<ul class="share-btns">
 									<li>
-										<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url}}"  title="Share on Facebook" target="_blank"><i class="icon icon-social-facebook medium-icon"></i></a>
-										<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank">
 										<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" target="_blank">
 											<img src="{{site.url}}/assets/img/facebook.svg" alt="">
 										</a>
