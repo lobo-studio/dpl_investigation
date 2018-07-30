@@ -21,7 +21,8 @@ permalink: /blog/:title/
 										<p class="month-year">{{page.date | date: '%b, %y' }}</p>
 									</div>
 								</div>
-								<ul class="share-btns">
+								{% include share.html %}
+								<!-- <ul class="share-btns">
 									<li>
 										<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" target="_blank">
 											<img src="{{site.url}}/assets/img/facebook.svg" alt="">
@@ -36,7 +37,7 @@ permalink: /blog/:title/
 										<a href="">
 											<img src="{{site.url}}/assets/img/link.svg" alt="">
 										</a>
-									</li>
+									</li> -->
 								</ul>
 							</div>
 						</div>
@@ -52,7 +53,8 @@ permalink: /blog/:title/
 					</div>
 					<div class="row justify-content-center hare-btns mt-4">
 						<div class="col-md-8">
-							<ul class="share-btns">
+							{% include share.html %}
+							<!-- <ul class="share-btns">
 								<li>
 									<a href="">
 										<img src="{{site.url}}/assets/img/facebook.svg" alt="">
@@ -67,7 +69,7 @@ permalink: /blog/:title/
 									<a href="">
 										<img src="{{site.url}}/assets/img/link.svg" alt="">
 									</a>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 					</div>
