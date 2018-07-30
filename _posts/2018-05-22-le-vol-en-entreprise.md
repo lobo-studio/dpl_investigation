@@ -61,4 +61,3 @@ Le rapport sera recevable en justice, pour porter plainte et pour proc&eacute;de
 
 Enfin le l’agence pourra proposer des solutions et des conseils afin de r&eacute;duire le risque de vol au sein de l’entreprise.
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

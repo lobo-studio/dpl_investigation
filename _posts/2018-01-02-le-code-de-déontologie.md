@@ -83,5 +83,3 @@ Ces derni&egrave;res sont
 * La **justification des r&eacute;mun&eacute;rations** qui est un &eacute;tat pr&eacute;cis des heures effectu&eacute;s avec la somme re&ccedil;ue et &agrave; venir (R631-31)
 
 &nbsp;
-
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

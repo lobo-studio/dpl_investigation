@@ -67,4 +67,3 @@ Les visites domiciliaires et surveillances seront factur&eacute;es au forfait ou
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

@@ -53,4 +53,3 @@ En moyenne, la pension alimentaire est de 150 euros, soit environ 10% du salaire
 
 Vous pouvez lire l’article concernant la garde d’enfant qui est plus complet via ce [lien](https://dlp-investigations.fr/la-garde-d-enfant/).
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

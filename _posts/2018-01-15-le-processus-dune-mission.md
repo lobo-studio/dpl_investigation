@@ -134,6 +134,3 @@ categories:
 
 &nbsp;
 
-<p style="text-align: center;">
-  <a class="maxbutton-1 maxbutton maxbutton-contact" title="Contact" href="https://dlp-investigations.fr/contact/"><span class='mb-text'>Contact</span></a>
-</p>

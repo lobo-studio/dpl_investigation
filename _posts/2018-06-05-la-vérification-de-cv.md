@@ -74,4 +74,3 @@ Et enfin, ce qui est tr&egrave;s important, tous les moyens de contr&ocirc;le du
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

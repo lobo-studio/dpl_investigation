@@ -59,8 +59,3 @@ Le d&eacute;lai de cette enqu&ecirc;te est entre 1 et 4 semaines, en fonction de
 
 La facturation est selon les &eacute;l&eacute;ments demand&eacute;s soit au forfait. Une estimation pourra vous &ecirc;tre donn&eacute;e. Durant l’enqu&ecirc;te et selon les r&eacute;sultats, nous vous tiendrons au courant de la facture finale.
 
-&nbsp;
-
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}
-
-&nbsp;

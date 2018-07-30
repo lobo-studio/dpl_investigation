@@ -71,4 +71,3 @@ Il y a aussi les conditions de vie de l’enfant. Il peut &ecirc;tre cit&eacute;
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

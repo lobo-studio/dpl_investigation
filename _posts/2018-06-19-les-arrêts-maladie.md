@@ -57,4 +57,3 @@ Dans les deux cas, le d&eacute;tective fournira un rapport pr&eacute;alablement 
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

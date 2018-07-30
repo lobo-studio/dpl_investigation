@@ -66,5 +66,3 @@ Les annexes qui font l’objet d’un d&eacute;p&ocirc;t sont les suivantes :
 * Acte d’attribution d’un bien si la prestation compensatoire est en nature
 * Formulaire de demande d’audition de tous les enfants mineurs
 * Conventions r&eacute;dig&eacute;es en langue &eacute;trang&egrave;re
-
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

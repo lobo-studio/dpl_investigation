@@ -78,4 +78,3 @@ C’est uniquement en cas de patrimoine &agrave; partager ou dettes &agrave; fai
 
 Le rapport d’enqu&ecirc;te final pourra &ecirc;tre utilis&eacute; par les professionnels de droit durant toute la proc&eacute;dure de divorce, dans le respect de la confidentialit&eacute; et respect des libert&eacute;s fondamentales.
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

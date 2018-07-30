@@ -55,7 +55,7 @@ Aujourd’hui, il existe quatre centres de formations : Paris (Ecole Sup&eacute;
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}
+
 
 <div class="csRow"><div class="csColumnGap" style="margin: 0px; padding: 0px; float: left; width: 1.15%;"><img style="border: none;" data-recalc-dims="1" src="https://i2.wp.com/dlp-investigations.fr/wp-content/plugins/advanced-wp-columns/assets/js/plugins/views/img/1x1-pixel.png?w=634&amp;ssl=1" /></div></div>
 

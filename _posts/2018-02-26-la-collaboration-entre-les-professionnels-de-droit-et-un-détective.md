@@ -71,4 +71,3 @@ Ces recommandations sont importantes, car nous fonctionnons beaucoup en r&eacute
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

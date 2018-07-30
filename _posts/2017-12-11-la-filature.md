@@ -52,5 +52,3 @@ Enfin, l’un des &eacute;quipements importants du fileur, surtout le fileur mot
 Bien s&ucirc;r, tous les mat&eacute;riels &eacute;lectroniques doivent &ecirc;tre recharg&eacute;s et entretenus avant tout d&eacute;part de mission afin d’&eacute;viter toutes surprises mal venues.
 
 &nbsp;
-
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

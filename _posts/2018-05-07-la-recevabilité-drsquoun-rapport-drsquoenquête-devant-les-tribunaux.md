@@ -71,4 +71,3 @@ Le rapport du d&eacute;tective priv&eacute; sera donc recevable pour le c&ocirc;
 
 &nbsp;
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}

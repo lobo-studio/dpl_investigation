@@ -91,4 +91,3 @@ Les enqu&ecirc;tes types des films, des s&eacute;ries et des livres relatent des
 
 Ainsi, les d&eacute;tectives de l’&eacute;cran et des &eacute;critures sont tr&egrave;s int&eacute;ressants, mais il ne faut pas les confondre avec ceux de la vraie vie.
 
-[Contact](https://dlp-investigations.fr/contact/ "Contact"){: .maxbutton-1.maxbutton.maxbutton-contact}
