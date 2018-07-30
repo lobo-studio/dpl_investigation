@@ -1,7 +1,6 @@
 							<ul class="share-btns">
 								<li>
-									<a class="f" href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" onclick="window.open(this.href, 'mywin',
-'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa fa-facebook-official fa"></i><span> facebook</span></a>
+									<a class="f"  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" ><i class="fa fa-facebook-official fa"></i><span> facebook</span></a>
 									<a hhref="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" target="_blank">
 										<img src="{{site.url}}/assets/img/facebook.svg" alt="">
 									</a>
