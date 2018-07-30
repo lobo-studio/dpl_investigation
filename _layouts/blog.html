@@ -32,7 +32,7 @@ permalink: /blog/
 								<div class="post-info">
 								<h4>{{ post.title }}</h4>
 								<hr class="line">
-								<p>{{post.text_preview}}</p>
+								<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
 								<a class="custom-link editable" href="{{ post.url }}">Plus <img src="{{site.url}}/assets/img/arrow-orange.svg" alt=""></a>
 							</div>
 							</div>
