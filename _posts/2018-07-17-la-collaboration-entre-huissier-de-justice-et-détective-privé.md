@@ -7,58 +7,58 @@ guid: 'https://dlp-investigations.fr/?p=295'
 permalink: /la-collaboration-entre-huissier-de-justice-et-detective-prive/
 ---
 
-Dans beaucoup de dossier, un huissier de justice et un détective privé peuvent collaborer. Ces collaborations sont présentes dans le cas d’une recherche adresse-téléphone, pour trouver le meilleur créneau horaire afin d’effectuer une constatation ou encore lors d’une ordonnance sur requête.
+Dans beaucoup de dossier, un huissier de justice et un d&eacute;tective priv&eacute; peuvent collaborer. Ces collaborations sont pr&eacute;sentes dans le cas d’une recherche adresse-t&eacute;l&eacute;phone, pour trouver le meilleur cr&eacute;neau horaire afin d’effectuer une constatation ou encore lors d’une ordonnance sur requ&ecirc;te.
 
-\*\*Comment se passent et se préparent les différentes collaborations entre huissier de justice et détective privé ? \*\*
+**Comment se passent et se pr&eacute;parent les diff&eacute;rentes collaborations entre huissier de justice et d&eacute;tective priv&eacute; ?**
 
-# La recherche d’adresse-téléphone et la constatation
+## La recherche d’adresse-t&eacute;l&eacute;phone et la constatation
 
-### La recherche d’adresse-téléphone
+### La recherche d’adresse-t&eacute;l&eacute;phone
 
-Une entreprise qui a des factures impayées, un propriétaire qui a des loyers impayés etc … peuvent recouvrer leurs dettes lorsqu’une adresse postale est connue avec un téléphone pour joindre la personne morale ou physique.
+Une entreprise qui a des factures impay&eacute;es, un propri&eacute;taire qui a des loyers impay&eacute;s etc … peuvent recouvrer leurs dettes lorsqu’une adresse postale est connue avec un t&eacute;l&eacute;phone pour joindre la personne morale ou physique.
 
-Afin que l’huissier de justice intervienne, il faut que ce dernier possède cette adresse. Sinon le recouvrement ne pourra pas s’effectuer de la meilleure manière.
+Afin que l’huissier de justice intervienne, il faut que ce dernier poss&egrave;de cette adresse. Sinon le recouvrement ne pourra pas s’effectuer de la meilleure mani&egrave;re.
 
-L’agence DLP Investigations peut réaliser des recherches d’adresse-téléphone pour la France, l’Italie et le Maroc.
+L’agence DLP Investigations peut r&eacute;aliser des recherches d’adresse-t&eacute;l&eacute;phone pour la France, l’Italie et le Maroc.
 
-Toutes recherches d’adresse-téléphone sont vérifiées afin de vous garantir le résultat. Dans le cas d’un déménagement de dernière minute, une 2nde vérification sera possible.
+Toutes recherches d’adresse-t&eacute;l&eacute;phone sont v&eacute;rifi&eacute;es afin de vous garantir le r&eacute;sultat. Dans le cas d’un d&eacute;m&eacute;nagement de derni&egrave;re minute, une 2nde v&eacute;rification sera possible.
 
-Dès que l’adresse-téléphone est trouvée, elle sera transmise à l’huissier de justice afin qu’il puisse procéder à une visite domiciliaire pour recouvrer la somme due.
+D&egrave;s que l’adresse-t&eacute;l&eacute;phone est trouv&eacute;e, elle sera transmise &agrave; l’huissier de justice afin qu’il puisse proc&eacute;der &agrave; une visite domiciliaire pour recouvrer la somme due.
 
-### Le créneau horaire pour une constatation
+### Le cr&eacute;neau horaire pour une constatation
 
-Afin d’effectuer une constatation efficace, il faut connaitre le créneau horaire idéal. En effet, afin d’éviter 36.000 allers-retours de la part de l’huissier, il faut savoir quel jour, quelle heure et où.
+Afin d’effectuer une constatation efficace, il faut connaitre le cr&eacute;neau horaire id&eacute;al. En effet, afin d’&eacute;viter 36.000 allers-retours de la part de l’huissier, il faut savoir quel jour, quelle heure et o&ugrave;.
 
-Pour connaitre ces détails, une filature pourra être organisée. Cette dernière respectera les diverses règlementations en vigueur, dont la vie privée. Tous les détails seront retranscris dans un rapport d’enquête, soumis à la confidentialité et au secret professionnel.
+Pour connaitre ces d&eacute;tails, une filature pourra &ecirc;tre organis&eacute;e. Cette derni&egrave;re respectera les diverses r&egrave;glementations en vigueur, dont la vie priv&eacute;e. Tous les d&eacute;tails seront retranscris dans un rapport d’enqu&ecirc;te, soumis &agrave; la confidentialit&eacute; et au secret professionnel.
 
-Grâce à la répétition, nous pourrons déterminer facilement les moments propices à une constation. Cela pourra augmenter le taux de réussite de cette dernière.
+Gr&acirc;ce &agrave; la r&eacute;p&eacute;tition, nous pourrons d&eacute;terminer facilement les moments propices &agrave; une constation. Cela pourra augmenter le taux de r&eacute;ussite de cette derni&egrave;re.
 
 Ainsi l’huissier pourra effectuer cette prestation dans les meilleures conditions.
 
-# L’ordonnance sur requête
+## L’ordonnance sur requ&ecirc;te
 
-### La règlementation et la jurisprudence
+### La r&egrave;glementation et la jurisprudence
 
-Afin de cristalliser des preuves avant qu’elles ne disparaissent pas, il existe l’ordonnance sur requête. Celle-ci se trouve dans l’article 145 du Code civil.<br>« S’il existe un motif légitime de conserver ou d’établir avant tout procès la preuve de faits dont pourrait dépendre la solution d’un litige, les mesures d’instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
+Afin de cristalliser des preuves avant qu’elles ne disparaissent pas, il existe l’ordonnance sur requ&ecirc;te. Celle-ci se trouve dans l’article 145 du Code civil.<br>&laquo; S’il existe un motif l&eacute;gitime de conserver ou d’&eacute;tablir avant tout proc&egrave;s la preuve de faits dont pourrait d&eacute;pendre la solution d’un litige, les mesures d’instruction l&eacute;galement admissibles peuvent &ecirc;tre ordonn&eacute;es &agrave; la demande de tout int&eacute;ress&eacute;, sur requ&ecirc;te ou en r&eacute;f&eacute;r&eacute;. &raquo;
 
 ![](/uploads/images-1.jpeg){: .size-full.wp-image-296.alignleft}
 
-La jurisprudence de la 2ème chambre civile de la Cour de Cassation du 7 mai 2008 n°07-14858, explicite que l’ordonnance sur requête, si elle permet une instruction avant l’engagement de tout procès, doit être utilisée que pour éviter la disparition de pièces et non pour pallier un manque d’éléments en vue d’un procès.
+La jurisprudence de la 2&egrave;me chambre civile de la Cour de Cassation du 7 mai 2008 n&deg;07-14858, explicite que l’ordonnance sur requ&ecirc;te, si elle permet une instruction avant l’engagement de tout proc&egrave;s, doit &ecirc;tre utilis&eacute;e que pour &eacute;viter la disparition de pi&egrave;ces et non pour pallier un manque d’&eacute;l&eacute;ments en vue d’un proc&egrave;s.
 
-La compétence revient au président du Tribunal de Commerce du lieu du siège social de la société si l’adversaire est un commerçant. Dans le cas d’un non-commerçant, la compétence territoriale revient au président du Tribunal de Grande Instance soit le TGI.
+La comp&eacute;tence revient au pr&eacute;sident du Tribunal de Commerce du lieu du si&egrave;ge social de la soci&eacute;t&eacute; si l’adversaire est un commer&ccedil;ant. Dans le cas d’un non-commer&ccedil;ant, la comp&eacute;tence territoriale revient au pr&eacute;sident du Tribunal de Grande Instance soit le TGI.
 
-### Le processus de la procédure
+### Le processus de la proc&eacute;dure
 
-La requête pour cette ordonnance de requête doit être complète afin d’éviter a-posteriori que l’adversaire ou le tribunal reproche au requérant d’avoir dissimulé des faits. Elle doit être aussi concise, pour qu’elle soit facilement défendue à l’orale devant le juge.
+La requ&ecirc;te pour cette ordonnance de requ&ecirc;te doit &ecirc;tre compl&egrave;te afin d’&eacute;viter a-posteriori que l’adversaire ou le tribunal reproche au requ&eacute;rant d’avoir dissimul&eacute; des faits. Elle doit &ecirc;tre aussi concise, pour qu’elle soit facilement d&eacute;fendue &agrave; l’orale devant le juge.
 
-Le juge, lorsqu’il rendra l’ordonnance sur requête, définira et cadrera la mission de l’huissier de justice. Il prévoira aussi les possibles assistances pour ce dernier tel que l’expert informatique ou la force publique ou encore un serrurier.
+Le juge, lorsqu’il rendra l’ordonnance sur requ&ecirc;te, d&eacute;finira et cadrera la mission de l’huissier de justice. Il pr&eacute;voira aussi les possibles assistances pour ce dernier tel que l’expert informatique ou la force publique ou encore un serrurier.
 
-Lors de l’exécution, l’huissier notifiera l’ordonnance sur requête à l’adversaire. Suite à cette dernière, l’huissier placera sous séquestre les documents saisis et dressera un procès-verbal qui décrira les opérations effectuées, les éventuelles déclarations et la liste des éléments saisis. Ce procès-verbal sera transmis au requérant.
+Lors de l’ex&eacute;cution, l’huissier notifiera l’ordonnance sur requ&ecirc;te &agrave; l’adversaire. Suite &agrave; cette derni&egrave;re, l’huissier placera sous s&eacute;questre les documents saisis et dressera un proc&egrave;s-verbal qui d&eacute;crira les op&eacute;rations effectu&eacute;es, les &eacute;ventuelles d&eacute;clarations et la liste des &eacute;l&eacute;ments saisis. Ce proc&egrave;s-verbal sera transmis au requ&eacute;rant.
 
-Un recours en rétraction pourra être demandé par l’adversaire. Aucun délai n’est imparti. Si ce dernier obtient gain de cause, les opérations de constat seront annulées et les éléments saisis seront restitués.
+Un recours en r&eacute;traction pourra &ecirc;tre demand&eacute; par l’adversaire. Aucun d&eacute;lai n’est imparti. Si ce dernier obtient gain de cause, les op&eacute;rations de constat seront annul&eacute;es et les &eacute;l&eacute;ments saisis seront restitu&eacute;s.
 
-Suite aux opérations de constat, il faut saisir le juge des référés pour obtenir la mainlevée du séquestre des documents saisis. Suite à cela, une date de plaidoirie devant le juge sera énoncée. Il faudra démontrer les présomptions fondées et les atteintes constituées. Lorsque la mainlevée est obtenue, l’huissier pourra transmettre les pièces suite à la signature d’un acte de mainlevée de séquestre.
+Suite aux op&eacute;rations de constat, il faut saisir le juge des r&eacute;f&eacute;r&eacute;s pour obtenir la mainlev&eacute;e du s&eacute;questre des documents saisis. Suite &agrave; cela, une date de plaidoirie devant le juge sera &eacute;nonc&eacute;e. Il faudra d&eacute;montrer les pr&eacute;somptions fond&eacute;es et les atteintes constitu&eacute;es. Lorsque la mainlev&eacute;e est obtenue, l’huissier pourra transmettre les pi&egrave;ces suite &agrave; la signature d’un acte de mainlev&eacute;e de s&eacute;questre.
 
-Comme cette procédure est contradictoire, l’adversaire sera présent et pourra s’opposer à la demande de mainlevée en provoquant le secret professionnel ou le respect de la vie privée entre autres.
+Comme cette proc&eacute;dure est contradictoire, l’adversaire sera pr&eacute;sent et pourra s’opposer &agrave; la demande de mainlev&eacute;e en provoquant le secret professionnel ou le respect de la vie priv&eacute;e entre autres.
 
-Cette procédure a une durée rapide et peut être très efficace.
+Cette proc&eacute;dure a une dur&eacute;e rapide et peut &ecirc;tre tr&egrave;s efficace.
