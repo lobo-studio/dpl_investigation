@@ -117,6 +117,3 @@ DEPENDENCIES
   sprockets (~> 4.0.0.beta8)
   tzinfo-data
   uglifier (~> 4.1, >= 4.1.17)
-
-BUNDLED WITH
-   1.16.3
