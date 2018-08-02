@@ -160,8 +160,7 @@ layout: default
 					<div class="col-md-6">
 						<div class="post-img">
 							{% asset {{site.url}}'{{ post.image_preview_image_path }}'  width=60 class=image magick:transparency='10' %}
-							<img src="{{ post.image_preview_image_path }}" >
-							<img src="{{ post.image_preview_image_path }}"  alt="" />
+							<img src="{{ post.image_preview_image_path }}"  alt=""  asset="magick:resize=400" />
 						</div>
 					</div>
 					<div class="col-md-6">
