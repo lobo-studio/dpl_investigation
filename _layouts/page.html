@@ -9,7 +9,7 @@ permalink: /blog/:title/
 			<div class="page-post-holder">
 				<h2 class="text-center">{{ page.title }}</h2>
 				<div class="header-img">
-					<img src="{{ page.image_preview_image_path }}" alt="">
+					<img src="{{ page.image_header_image_path }}" alt="">
 				</div>
 				<div class="post-content">
 					<div class="row">
@@ -22,22 +22,6 @@ permalink: /blog/:title/
 									</div>
 								</div>
 								{% include share.html %}
-								<!-- <ul class="share-btns">
-									<li>
-										<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" target="_blank">
-											<img src="{{site.url}}/assets/img/facebook.svg" alt="">
-										</a>
-									</li>
-									<li>
-										<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" target="_blank">
-											<img src="{{site.url}}/assets/img/twitter.svg" alt="">
-										</a>
-									</li>
-									<li>
-										<a href="">
-											<img src="{{site.url}}/assets/img/link.svg" alt="">
-										</a>
-									</li> -->
 								</ul>
 							</div>
 						</div>
@@ -54,22 +38,6 @@ permalink: /blog/:title/
 					<div class="row justify-content-center hare-btns mt-4">
 						<div class="col-md-8">
 							{% include share.html %}
-							<!-- <ul class="share-btns">
-								<li>
-									<a href="">
-										<img src="{{site.url}}/assets/img/facebook.svg" alt="">
-									</a>
-								</li>
-								<li>
-									<a href="">
-										<img src="{{site.url}}/assets/img/twitter.svg" alt="">
-									</a>
-								</li>
-								<li>
-									<a href="">
-										<img src="{{site.url}}/assets/img/link.svg" alt="">
-									</a>
-								</li> -->
 							</ul>
 						</div>
 					</div>
