@@ -23,10 +23,6 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
-  gem "mini_magick"
-  gem "jekyll-assets", group: :jekyll_plugins
-  gem 'sprockets', '~> 4.0.0.beta8'
-  gem 'uglifier', '~> 4.1', '>= 4.1.17'
   
 end
 
