@@ -5,6 +5,7 @@ date: 2017-11-13T10:07:11+00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/blog-1.jpg
+image_header_image_path: /assets/img/blog-header.jpg
 guid: https://dlp-investigations.fr/?p=145
 permalink: /la-garde-d-enfant/
 ampforwp_page_builder_enable:

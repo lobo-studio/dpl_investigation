@@ -49,9 +49,15 @@ paginate_path: "/blog/page:num/"
 
 _options:
   image_preview_image_path:
-    width: 1040
-    height: 640
+    width: 520
+    height: 320
     resize_style: "cover"
     mime_type: "image/jpeg"
-    expandable: false
+    expandable: true
 
+  image_header_image_path:
+    width: 1060
+    height: 450
+    resize_style: "cover"
+    mime_type: "image/jpeg"
+    expandable: true

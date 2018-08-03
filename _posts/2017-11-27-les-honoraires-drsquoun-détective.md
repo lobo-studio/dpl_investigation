@@ -5,6 +5,7 @@ date: 2017-11-27T10:00:55+00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/blog-1.jpg
+image_header_image_path: /assets/img/blog-header.jpg
 guid: https://dlp-investigations.fr/?p=155
 permalink: /les-honoraires-d-un-detective/
 ampforwp_custom_content_editor:
