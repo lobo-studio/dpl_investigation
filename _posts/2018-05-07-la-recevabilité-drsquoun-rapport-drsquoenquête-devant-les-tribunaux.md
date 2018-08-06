@@ -1,17 +1,17 @@
 ---
 id: 261
-title: 'La recevabilité d&rsquo;un rapport d&rsquo;enquête devant les tribunaux'
-date: 2018-05-07T10:00:52+00:00
+title: La recevabilité d&rsquo;un rapport d&rsquo;enquête devant les tribunaux
+date: 2018-05-07 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/tribunaux DLP.jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=261
+guid: 'https://dlp-investigations.fr/?p=261'
 permalink: /la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -24,7 +24,7 @@ Un rapport d’enqu&ecirc;te d’un d&eacute;tective a force de preuve durant un
 
 Le premier arr&ecirc;t qui le confirme date de 1962.
 
-# Les arr&ecirc;ts confirmant la recevabilit&eacute;
+## Les arr&ecirc;ts confirmant la recevabilit&eacute;
 
 Nous avons au moins 3 arr&ecirc;ts confirmant la recevabilit&eacute; d’un rapport dont 1 qui d&eacute;coule d’un arr&ecirc;t jugeant ce dernier irrecevable.
 
@@ -46,7 +46,7 @@ C’est un arr&ecirc;t de la Cour de Cassation suite &agrave; un arr&ecirc;t de 
 
 Le 15 avril 2014, la Cour de Cassation a cass&eacute; et annul&eacute; cet arr&ecirc;t. Par ce dernier, l’admissibilit&eacute; d’un rapport d’enqu&ecirc;te du d&eacute;tective reste constante et valable.
 
-# Les conditions d’un rapport recevable
+## Les conditions d’un rapport recevable
 
 Afin qu’un rapport soit recevable en justice, certains points doivent &ecirc;tre respect&eacute;s.
 
@@ -64,11 +64,10 @@ Dans le cas du droit du travail, par exemple, face &agrave; un salari&eacute;, 2
 
 Cette information pourra se faire dans le contrat de travail, dans le r&egrave;glement int&eacute;rieur ou simplement par affichage dans le lieu de travail.
 
-# Pr&eacute;cision
+## Pr&eacute;cision
 
 Dans une affaire opposant un salari&eacute; &agrave; son employeur, le rapport d’enqu&ecirc;te peut &ecirc;tre accompagn&eacute; d’une plainte p&eacute;nale ou d’une requ&ecirc;te civile pour pouvoir proc&eacute;der &agrave; un constat d’huissier et fixer la preuve d’une infraction civile ou contractuelle.
 
 Le rapport du d&eacute;tective priv&eacute; sera donc recevable pour le c&ocirc;t&eacute; civil et p&eacute;nal du dossier, car les juges du civil et du p&eacute;nal ne sont pas tenus par le code du travail. Il sera aussi admissible au prud’homme, si seulement la surveillance du salari&eacute; aura respect&eacute; les droits du salari&eacute;.
 
 &nbsp;
-
