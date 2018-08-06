@@ -1,17 +1,17 @@
 ---
 id: 244
-title: 'Le divorce par consentement mutuel ou à l&rsquo;amiable'
-date: 2018-03-26T10:00:15+00:00
+title: Le divorce par consentement mutuel ou à l&rsquo;amiable
+date: 2018-03-26 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/divorce.png
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=244
+guid: 'https://dlp-investigations.fr/?p=244'
 permalink: /le-divorce-par-consentement-mutuel-ou-a-l-amiable/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -22,11 +22,11 @@ Selon l’article 230 du code Civil &laquo; Dans le cas pr&eacute;vu au 1&deg; d
 
 Depuis le 1er janvier 2017, **l****e divorce par consentement mutuel est &eacute;tabli par convention d’avocat et doit faire l’objet d’un d&eacute;p&ocirc;t de pi&egrave;ces chez un notaire et non devant un juge.** Cela permet d’acc&eacute;l&eacute;rer et simplifi&eacute; la proc&eacute;dure.
 
-# Les avantages et conditions
+## Les avantages et conditions
 
 Les &eacute;poux et leurs avocats doivent pr&eacute;parer la convention de divorce et les documents d’usage. Lorsque ces derniers sont propri&eacute;taires d’un bien immobilier, ils &eacute;tablissent un &eacute;tat liquidatif chez le notaire. Puis, une fois les d&eacute;lais de r&eacute;flexion &eacute;coul&eacute;s, l’int&eacute;gralit&eacute; des actes et documents sign&eacute;s font l’objet d’un d&eacute;p&ocirc;t chez le notaire qui valide le divorce.
 
-![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Garde-denfant.png?resize=191%2C193&amp;ssl=1){: .wp-image-147.alignright}
+![](/uploads/divorce.png){: .wp-image-147.alignright}
 
 Si l’un ou les deux &eacute;poux sont plac&eacute;s sous curatelle ou tutelle, ou si un des enfants mineurs des &eacute;poux fait appel &agrave; son droit d’&ecirc;tre entendu, alors cette proc&eacute;dure simplifi&eacute;e ne pourra &ecirc;tre utilis&eacute;e. Il faudra donc, avoir recours &agrave; l’homologation judiciaire.
 
