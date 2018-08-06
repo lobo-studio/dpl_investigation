@@ -1,17 +1,17 @@
 ---
 id: 287
 title: Les arrêts maladie
-date: 2018-06-19T09:58:28+00:00
+date: 2018-06-19 09:58:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/Arrêt maladie.jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=287
+guid: 'https://dlp-investigations.fr/?p=287'
 permalink: /les-arrets-maladie/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -22,15 +22,15 @@ Selon, un des grands assureurs fran&ccedil;ais, il y a eu une augmentation des a
 
 **Quels sont les recours face &agrave; un arr&ecirc;t maladie qui semble abusif ?**
 
-# Les arr&ecirc;ts maladie et la CPAM
+## Les arr&ecirc;ts maladie et la CPAM
 
 ### Les arr&ecirc;ts maladie
 
-Par la presse, par nos relations et autres, nous pouvons entendre le cas de nombreux abus de la part de salari&eacute;. L’arr&ecirc;t maladie peut &ecirc;tre vu comme
+Par la presse, par nos relations et autres, nous pouvons entendre le cas de nombreux abus de la part de salari&eacute;. L’arr&ecirc;t maladie peut &ecirc;tre vu comme un proc&eacute;d&eacute; pour augmenter la dur&eacute;e de ses &laquo; jours off &raquo;, ou encore exercer une activit&eacute; professionnelle &agrave; son nom propre ou chez le concurrent par exemple.
 
 ![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1){: .size-medium.wp-image-288.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?w=570&amp;ssl=1 570w" sizes="(max-width: 300px) 100vw, 300px"}
 
-un proc&eacute;d&eacute; pour augmenter la dur&eacute;e de ses &laquo; jours off &raquo;, ou encore exercer une activit&eacute; professionnelle &agrave; son nom propre ou chez le concurrent par exemple. Cela peut entrainer une perte de productivit&eacute;, un report de charge au sein de la soci&eacute;t&eacute; concern&eacute;e.
+Cela peut entra&icirc;ner une perte de productivit&eacute;, un report de charge au sein de la soci&eacute;t&eacute; concern&eacute;e.
 
 Un arr&ecirc;t maladie comporte des autorisations de sortie ou des sorties libres. Dans le premier cas, la personne est soit interdite de sortie soit elle doit &ecirc;tre chez elle de 09h00 &agrave; 11h00 puis de 14h00 &agrave; 16h00, samedi, dimanche et jours f&eacute;ri&eacute;s compris. Dans le second cas, aucun horaire n’est soumis.
 
@@ -42,7 +42,7 @@ Lorsque la visite est effectu&eacute;e par un praticien lib&eacute;ral, il n’e
 
 De plus, toute activit&eacute; doit &ecirc;tre suspendue durant cet arr&ecirc;t. Cela inclut le bricolage, le jardinage, le sport etc.
 
-# La v&eacute;rification des arr&ecirc;ts maladie par un d&eacute;tective priv&eacute;
+## La v&eacute;rification des arr&ecirc;ts maladie par un d&eacute;tective priv&eacute;
 
 ### L’apport d’un d&eacute;tective priv&eacute;
 
@@ -55,6 +55,3 @@ Lors d’un arr&ecirc;t maladie, l’obligation de loyaut&eacute; du salari&eacu
 Faire appel &agrave; un huissier permet d’&eacute;tablir des faits de mani&egrave;res irr&eacute;futables. C’est pour cela qu’un constat d’huissier a valeur de preuve devant les tribunaux jusqu’&agrave; preuve du contraire. Le constat s’effectuera en lieu ouvert au public o&ugrave; il y aura une consignation des faits afin de proc&eacute;der &agrave; une ordonnance sur requ&ecirc;te si besoin est.
 
 Dans les deux cas, le d&eacute;tective fournira un rapport pr&eacute;alablement &agrave; la venue de l’huissier. Ainsi, les &eacute;l&eacute;ments essentiels seront transmis ainsi que le lieu, la date et l’heure pour une meilleure intervention.
-
-&nbsp;
-
