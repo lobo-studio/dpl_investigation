@@ -1,30 +1,30 @@
 ---
 id: 165
 title: La filature
-date: 2017-12-11T10:00:11+00:00
+date: 2017-12-11 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/filature.jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=165
+guid: 'https://dlp-investigations.fr/?p=165'
 permalink: /la-filature/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
   - Blog
 ---
 
-Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratique la filature, r&eacute;guli&egrave;rement, les personnes me regardent avec des yeux ronds comme des billes, en disant **&laquo; Mais tu suis des personnes dans la rue en moto ?&nbsp;&raquo;. Eh bien oui ! Mais avec certaines conditions.**
+Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratique la filature, r&eacute;guli&egrave;rement, les personnes me regardent avec des yeux ronds comme des billes, en disant **&laquo; Mais tu suis des personnes dans la rue en moto ? &raquo;. Eh bien oui ! Mais avec certaines conditions.**
 
 Un fileur doit respecter les libert&eacute;s fondamentales, la vie priv&eacute;e et le code de la route durant toute la mission. En m&ecirc;me temps, ce dernier doit observer les moindre faits et gestes et rester discret pour ne pas se faire voir.
 
-Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre pr&eacute;sent afin de maximiser la r&eacute;ussite ? Quels sont les &eacute;quipements des fileurs ?<!--base32-dnqq4t8-base32-->
+Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre pr&eacute;sent afin de maximiser la r&eacute;ussite ? Quels sont les &eacute;quipements des fileurs ?<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
 
-# <u>Un ou plusieurs fileurs</u>
+## Un ou plusieurs fileurs
 
 Il existe 2 types de filatures : pi&eacute;tonne et v&eacute;hicul&eacute;e.
 
@@ -40,7 +40,7 @@ Il est encore meilleur de pr&eacute;coniser 2 fileurs. Effectivement, cela perme
 
 De plus, dans certains cas il faudra obligatoirement mettre en place plusieurs fileurs pour parer &agrave; toute &eacute;ventualit&eacute;. C’est lieux sont les gares et les a&eacute;roports en grandes majorit&eacute;s. Ces derniers comportent plusieurs entr&eacute;es et plusieurs sorties ainsi que plusieurs moyens de transports. Ainsi nous avons l’habitude de mettre en place au minimum 1 pi&eacute;ton et 2 motards.
 
-# <u>L&rsquo;&eacute;quipement du fileur</u>
+## L’&eacute;quipement du fileur
 
 Le premier &eacute;quipement d’un fileur est son v&eacute;hicule s’il est motoris&eacute;. Cela peut &ecirc;tre une voiture ou un deux-roues (scooter et moto). Il doit &ecirc;tre maniable et discret mais surtout bien entretenu. Le fileur doit bien maitriser son v&eacute;hicule afin de ne pas mettre sa vie en danger ou celle d’un tiers.
 
@@ -51,5 +51,3 @@ Une filature peut durer plusieurs heures, or le t&eacute;l&eacute;phone portable
 Enfin, l’un des &eacute;quipements importants du fileur, surtout le fileur motoris&eacute;, est le GPS. En effet, il est essentiel d’aller &agrave; un endroit pr&eacute;cis le plus rapidement.
 
 Bien s&ucirc;r, tous les mat&eacute;riels &eacute;lectroniques doivent &ecirc;tre recharg&eacute;s et entretenus avant tout d&eacute;part de mission afin d’&eacute;viter toutes surprises mal venues.
-
-&nbsp;
