@@ -36,7 +36,7 @@ Les deux premier sont ceux o&ugrave; les &eacute;poux ne sont ni d’accord sur 
 
 Le divorce pour faute
 
-* Article 242 code Civil &laquo; Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque des faits constitutifs d’une violation grave ou renouvel&eacute;e des devoirs et obligations du mariage sont imputables &agrave; son conjoint et rendent intol&eacute;rable le maintien de la vie commune. &raquo;
+* Article 242 code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque des faits constitutifs d’une violation grave ou renouvel&eacute;e des devoirs et obligations du mariage sont imputables &agrave; son conjoint et rendent intol&eacute;rable le maintien de la vie commune.* &raquo;
 * Les violations peuvent &ecirc;tre un adult&egrave;re, une concurrence, des injures graves, un manque de respect mutuel, un manque de loyaut&eacute; ou encore une non consommation.
 
 Le divorce par alt&eacute;ration d&eacute;finitive du lien conjugal
