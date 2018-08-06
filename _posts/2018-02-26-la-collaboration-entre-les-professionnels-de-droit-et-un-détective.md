@@ -20,7 +20,7 @@ categories:
 
 Lorsque j’explique mon m&eacute;tier de d&eacute;tective priv&eacute;, j’ai souvent ces types de questions : &laquo; C’est qui tes clients ? Tu ne dois avoir que des particuliers non ? &raquo;, &laquo; **Mais … C’est tr&egrave;s rare que tu travailles avec des professionnels de droit ?** Ils ne connaissent pas ta profession. &raquo;
 
-Un d&eacute;tective priv&eacute; ou agent de recherche priv&eacute; peut travailler pour des particuliers et des entreprises ainsi qu’avec des professionnels de droit comme avocat, notaire et huissier. Nous faisons en sorte de faire d&eacute;couvrir le m&eacute;tier &agrave; ces derniers, tout en expliquant que nous sommes drastiquement r&egrave;glement&eacute;s.<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
+Un d&eacute;tective priv&eacute; ou agent de recherche priv&eacute; peut travailler pour des particuliers et des entreprises ainsi qu’avec des professionnels de droit comme avocat, notaire et huissier. Nous faisons en sorte de faire d&eacute;couvrir le m&eacute;tier &agrave; ces derniers, tout en expliquant que nous sommes drastiquement r&egrave;glement&eacute;s.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
 Une collaboration peut exister entre les professionnels de droit et un d&eacute;tective priv&eacute;. Le premier lien est sans m&ecirc;me y penser le droit. En effet nous avons des obligations similaires.
 
@@ -48,9 +48,9 @@ Ainsi que des recherches terrains, afin d’&eacute;tablir ou non :
 
 De plus, un rapport d’enqu&ecirc;te pourra &ecirc;tre r&eacute;alis&eacute; de mani&egrave;re ant&eacute;rieure &agrave; la venue d’un huissier de justice pour effectuer une constatation. Par ce biais-l&agrave;, nous pourrons dire &agrave; l’huissier le lieu g&eacute;ographique, l’heure et la date o&ugrave; il se passera quelque chose. Ainsi, une ordonnance 145, via l’article 145 du code de Proc&eacute;dure Civile, pourra &ecirc;tre r&eacute;alis&eacute;e dans les meilleures conditions.
 
-# La collaboration
+## La collaboration
 
-![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=247%2C156&amp;ssl=1){: .wp-image-193.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 247px) 100vw, 247px"}
+## ![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=247%2C156&amp;ssl=1){: .wp-image-193.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 247px) 100vw, 247px"}
 
 Une collaboration entre un avocat par exemple et un d&eacute;tective priv&eacute;, pourra prouver le s&eacute;rieux et le professionnalisme de chacun dans le temps. Ainsi, une certaine confiance s’&eacute;tablira entre les deux. C’est est aussi valable pour les notaires ou les huissiers.
 
