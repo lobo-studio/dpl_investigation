@@ -1,32 +1,30 @@
 ---
 id: 145
-title: 'La garde d&rsquo;enfant'
-date: 2017-11-13T10:07:11+00:00
+title: La garde d&rsquo;enfant
+date: 2017-11-13 10:07:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/Résidence des mineurs.JPG
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=145
+guid: 'https://dlp-investigations.fr/?p=145'
 permalink: /la-garde-d-enfant/
 ampforwp_page_builder_enable:
-  - null
+  -
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
   - Blog
 ---
 
-![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Garde-denfant.png?resize=149%2C150&amp;ssl=1){: .wp-image-147.alignleft srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Garde-denfant.png?w=297&amp;ssl=1 297w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Garde-denfant.png?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 149px) 100vw, 149px"}
-
-Un divorce ou une s&eacute;paration entraine beaucoup de changement de la vie des deux personnes concern&eacute;es. Mais **qu’en est-il des enfants ? Comment sont organis&eacute;s les gardes d’enfants ?**
+Un divorce ou une s&eacute;paration entra&icirc;ne beaucoup de changement de la vie des deux personnes concern&eacute;es. Mais **qu’en est-il des enfants ? Comment sont organis&eacute;s les gardes d’enfants ?**
 
 Encore r&eacute;cemment, les enfants &eacute;taient confi&eacute;s &agrave; la m&egrave;re par rapport au lien maternel. Or de plus en plus, ce fait diminue au profil de la garde partag&eacute;e ou de la garde exclusive du p&egrave;re. Cela est tr&egrave;s bien illustr&eacute; par les chiffres publi&eacute;s en 2015 des divorces et gardes d’enfants prononc&eacute;s en 2009 par l’INSEE.
 
-# <!--base32-dnqq4t8-base32--><br>Quelques chiffres
+## <!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32--><br>Quelques chiffres
 
 En 2009, 152 000 enfants mineurs ont &eacute;t&eacute; secou&eacute;s par le divorce de leurs parents, soit deux tiers des divorces. En ce qui concerne la rupture d’un PCS, le nombre d’enfant mineurs sont au nombre de 5 100, ils ont en moyenne 9 ans.<br>A partir de 13 ans, l’enfant est jug&eacute; apte &agrave; donner sa pr&eacute;f&eacute;rence de garde, sinon c’est aux parents avec l’accord du juge qui en d&eacute;cide.
 
@@ -44,7 +42,7 @@ Apr&egrave;s 1 an
 
 ![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=440%2C452&amp;ssl=1){: .wp-image-146.aligncenter srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=292%2C300&amp;ssl=1 292w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?w=486&amp;ssl=1 486w" sizes="(max-width: 440px) 100vw, 440px"}
 
-# Le support d’un d&eacute;tective priv&eacute;
+## Le support d’un d&eacute;tective priv&eacute;
 
 ### Condition de vie de l’enfant
 
@@ -67,8 +65,3 @@ En effet, le refus volontaire de confier l’enfant alors qu’un droit de visit
 Enfin, nous pouvons aussi mener des investigations afin d’apporter les preuves d’un changement de condition de vie du parent. Cela peut &ecirc;tre en fonction de la situation financi&egrave;re (nouveau travail, augmentation du salaire..) ou si ce dernier n’a plus &agrave; payer un appartement et des charges.
 
 Il y a aussi les conditions de vie de l’enfant. Il peut &ecirc;tre cit&eacute; les besoins comme une &eacute;cole plus ch&egrave;re, ou des activit&eacute;s extra-scolaires n&eacute;cessaires &agrave; son d&eacute;veloppement.
-
-&nbsp;
-
-&nbsp;
-
