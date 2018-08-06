@@ -1,17 +1,17 @@
 ---
 id: 280
 title: La vérification de CV
-date: 2018-06-05T10:00:16+00:00
+date: 2018-06-05 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/CV.png
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=280
+guid: 'https://dlp-investigations.fr/?p=280'
 permalink: /la-verification-de-cv/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -24,7 +24,7 @@ Une dur&eacute;e floue de poste qui passe de 3 mois r&eacute;els &agrave; 2 ans,
 
 Tous les subterfuges sont bons &agrave; prendre pour arriver &agrave; ses fins.
 
-# Les CV trompeurs
+## Les CV trompeurs
 
 ### Quelques chiffres
 
@@ -51,7 +51,7 @@ Pour mieux se valoriser, un candidat peut aussi gonfler ses statistiques profess
 
 Lors de l’entretien d’embauche, le cabinet de recrutement ou l’entreprise qui recrute, pourra en grande partie d&eacute;masquer ces CV trompeurs. Lorsque ce n’est pas le cas, la v&eacute;rification par un d&eacute;tective pourra rentrer en jeu. La seconde raison de faire appel &agrave; un d&eacute;tective priv&eacute; avant l’entretien est de s&eacute;lectionner rapidement une short-list non pas sur les comp&eacute;tences mais sur la v&eacute;racit&eacute; des propos..
 
-# La v&eacute;rification d’un CV
+## La v&eacute;rification d’un CV
 
 ### La r&eacute;alisation
 
@@ -72,6 +72,3 @@ Afin de r&eacute;aliser une v&eacute;rification de CV, certains &eacute;l&eacute
 A compter r&eacute;ception de ces &eacute;l&eacute;ments, la v&eacute;rification peut prendre entre 5 et 10 jours.
 
 Et enfin, ce qui est tr&egrave;s important, tous les moyens de contr&ocirc;le du salari&eacute; ou du candidat &agrave; l’embauche doivent &ecirc;tre port&eacute;s au pr&eacute;alable &agrave; sa connaissance. Si cela n’est pas le cas, les &eacute;l&eacute;ments recueillis ne pourront pas &ecirc;tre utilis&eacute;s.
-
-&nbsp;
-
