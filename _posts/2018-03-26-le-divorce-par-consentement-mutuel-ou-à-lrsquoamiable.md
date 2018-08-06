@@ -34,7 +34,7 @@ Ce type de divorce est le plus rapide, le moins conflictuel et le moins co&ucirc
 
 Les conditions sont que les &eacute;poux soient d’accord pour divorcer et sur les effets de cette proc&eacute;dure (la liquidation du r&eacute;gime matrimoniale, la r&eacute;sidence principale, la garde des enfants, la pension alimentaires et &eacute;ventuellement la prestation compensatoire).
 
-# La proc&eacute;dure
+## La proc&eacute;dure
 
 L’accord des &eacute;poux doit &ecirc;tre mat&eacute;rialis&eacute; par &eacute;crit dans une convention de divorce. Ce document aborde tous les points du divorce, comme la pension alimentaire, le partage des biens, la garde d’enfants etc… De plus, les &eacute;poux ne sont pas dans l’obligation d’&eacute;noncer les causes et raison de cette demande de divorce.
 
@@ -46,7 +46,7 @@ Puis, la convention sera d&eacute;pos&eacute;e chez le notaire dans un d&eacute;
 
 Jusqu’au d&eacute;p&ocirc;t chez le notaire, les deux parties peuvent saisir le Tribunal de Grande Instance pour une demande de s&eacute;paration de corps ou pour entamer une proc&eacute;dure de divorce judiciaire.
 
-# Les &eacute;l&eacute;ments constituant la convention
+## Les &eacute;l&eacute;ments constituant la convention
 
 La convention doit imp&eacute;rativement comporter ces &eacute;l&eacute;ments :
 
