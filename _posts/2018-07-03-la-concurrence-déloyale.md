@@ -1,66 +1,63 @@
 ---
 id: 299
 title: La concurrence déloyale
-date: 2018-07-03T09:55:45+00:00
+date: 2018-07-03 09:55:00
 author: Delphine
 layout: page
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/concurrence déloyale.jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=299
+guid: 'https://dlp-investigations.fr/?p=299'
 permalink: /la-concurrence-deloyale/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
   - Blog
 ---
 
-Vous avez une perte de chiffre d’affaire, vos salari&eacute;s partent en grand nombre, vos clients ne renouvellent pas leur contrat ou ne reviennent pas, etc… Tous ces &eacute;l&eacute;ments peuvent illustrer une concurrence d&eacute;loyale
+Vous avez une perte de chiffre d’affaire, vos salariés partent en grand nombre, vos clients ne renouvellent pas leur contrat ou ne reviennent pas, etc… Tous ces éléments peuvent illustrer une concurrence déloyale
 
-**&Agrave; quoi correspondent une concurrence d&eacute;loyale et une clause de non-concurrence juridiquement ?**
+**À quoi correspondent une concurrence déloyale et une clause de non-concurrence juridiquement ?**
 
-Que peut vous apport&eacute;e une collaboration entre un d&eacute;tective priv&eacute; et un huissier de justice ?
+Que peut vous apportée une collaboration entre un détective privé et un huissier de justice ?
 
-# La concurrence d&eacute;loyale et la clause de non-concurrence
+# La concurrence déloyale et la clause de non-concurrence
 
-### La d&eacute;finition juridique de la concurrence d&eacute;loyale
+### La définition juridique de la concurrence déloyale
 
-Selon le Vocabulaire Juridique publi&eacute; sous la direction de G&eacute;rard Cornu, la concurrence d&eacute;loyale est un &laquo; *fait constitutif d’une faute (au sens de l’article 1382 du Code civil, fondement des condamnations) qui r&eacute;sulte d’un usage excessif, par un concurrent, de la libert&eacute; de la concurrence, par emploi &agrave; haut proc&eacute;d&eacute; malhonn&ecirc;te dans la recherche de la client&egrave;le, dans la comp&eacute;tition &eacute;conomique. Par exemple : confusion volontairement cr&eacute;&eacute;e entre deux marques, notamment au moyen de la publicit&eacute;, imitation des produits d’un concurrent, d&eacute;sorganisation de l’entreprise rivale, parasitisme, dumping et d&eacute;nigrement.* &raquo;
+Selon le Vocabulaire Juridique publié sous la direction de Gérard Cornu, la concurrence déloyale est un « *fait constitutif d’une faute (au sens de l’article 1382 du Code civil, fondement des condamnations) qui résulte d’un usage excessif, par un concurrent, de la liberté de la concurrence, par emploi à haut procédé malhonnête dans la recherche de la clientèle, dans la compétition économique. Par exemple : confusion volontairement créée entre deux marques, notamment au moyen de la publicité, imitation des produits d’un concurrent, désorganisation de l’entreprise rivale, parasitisme, dumping et dénigrement.* »
 
-### La d&eacute;finition juridique de la clause de non-concurrence
+### La définition juridique de la clause de non-concurrence
 
-Toujours selon le Vocabulaire Juridique et dans un sens g&eacute;n&eacute;ral, la clause de non-concurrence est une &laquo; *stipulation par laquelle un contractant se prive de la facult&eacute; d’exercer pendant une certaine p&eacute;riode et dans une aire g&eacute;ographique d&eacute;termin&eacute;e une activit&eacute; professionnelle susceptible de concurrencer celle de l’autre.* &raquo;
+Toujours selon le Vocabulaire Juridique et dans un sens général, la clause de non-concurrence est une « *stipulation par laquelle un contractant se prive de la faculté d’exercer pendant une certaine période et dans une aire géographique déterminée une activité professionnelle susceptible de concurrencer celle de l’autre.* »
 
-La seconde d&eacute;finition de ce dictionnaire vise plus sp&eacute;cifiquement les contrats de travail. &laquo; *Clause de contrat de travail par laquelle le salari&eacute; s’engage &agrave; ne pas exercer, pendant un certain d&eacute;lai &agrave; partir de la cessation des relations de travail, une activit&eacute; semblable &agrave; celle de son employeur, pour son propre compte ou celui d’un autre employeur (obligation qui […] n’existe que si elle est stipul&eacute;e.* &raquo;
+La seconde définition de ce dictionnaire vise plus spécifiquement les contrats de travail. « *Clause de contrat de travail par laquelle le salarié s’engage à ne pas exercer, pendant un certain délai à partir de la cessation des relations de travail, une activité semblable à celle de son employeur, pour son propre compte ou celui d’un autre employeur (obligation qui […] n’existe que si elle est stipulée.* »
 
-En contrepartie de cette clause, le salari&eacute; aura une compensation financi&egrave;re.
+En contrepartie de cette clause, le salarié aura une compensation financière.
 
 # Le non-respect de ces obligations
 
-### Transgression de la concurrence d&eacute;loyale
+### Transgression de la concurrence déloyale
 
-Plusieurs de vos salari&eacute;s partent sans raison. Ce d&eacute;bauchage peut venir d’un processus d&eacute;loyal de recrutement par vos concurrents.
+Plusieurs de vos salariés partent sans raison. Ce débauchage peut venir d’un processus déloyal de recrutement par vos concurrents.
 
 ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/06/concurrence-déloyale.jpg?resize=176%2C162&amp;ssl=1){: .size-full.wp-image-300.alignleft}
 
-Vous constatez plusieurs d&eacute;nigrements &eacute;vidents pour un de vos produits voire m&ecirc;me pour votre soci&eacute;t&eacute;. Cela peut illustrer un autre type de processus d&eacute;loyal de vos concurrents.
+Vous constatez plusieurs dénigrements évidents pour un de vos produits voire même pour votre société. Cela peut illustrer un autre type de processus déloyal de vos concurrents.
 
-Enfin, la confusion permet de cr&eacute;er une incertitude dans l’esprit du public afin que la client&egrave;le se trompe de soci&eacute;t&eacute; et soit attir&eacute;e par vos concurrents.
+Enfin, la confusion permet de créer une incertitude dans l’esprit du public afin que la clientèle se trompe de société et soit attirée par vos concurrents.
 
-Vous rencontrez ce type de concurrence d&eacute;loyale, ou d’autres ? Un constat d’huissier via un rapport pr&eacute;alable d’un d&eacute;tective priv&eacute; pourra vous aider. Nos enqu&ecirc;tes pourront pr&eacute;ciser &agrave; l’huissier o&ugrave; il devra intervenir. De plus, l’huissier pourra proc&eacute;der &agrave; une expertise informatique afin d’&eacute;tablir la pr&eacute;sence de concurrence d&eacute;loyale. Ainsi la collaboration entre ces deux professions apporte un v&eacute;ritable bonus.
+Vous rencontrez ce type de concurrence déloyale, ou d’autres ? Un constat d’huissier via un rapport préalable d’un détective privé pourra vous aider. Nos enquêtes pourront préciser à l’huissier où il devra intervenir. De plus, l’huissier pourra procéder à une expertise informatique afin d’établir la présence de concurrence déloyale. Ainsi la collaboration entre ces deux professions apporte un véritable bonus.
 
 ### Inobservation de la clause de non-concurrence
 
-Une clause de non-concurrence peut intervenir dans le cas d’un savoir-faire particulier et bien sp&eacute;cifique d’un salari&eacute;.
+Une clause de non-concurrence peut intervenir dans le cas d’un savoir-faire particulier et bien spécifique d’un salarié.
 
-Un salari&eacute; vous explique qu’il doit d&eacute;missionner pour des raisons personnelles. Suite &agrave; son d&eacute;part, vous vous rendez compte que certains de vos clients ne renouvellent pas et que vous avez une perte de chiffre d’affaire ? Cela peut &ecirc;tre d&ucirc; &agrave; un non-respect de la clause de non-concurrence. En effet, votre ex-salari&eacute; a pu vendre son savoir-faire &agrave; un de vos concurrents.
+Un salarié vous explique qu’il doit démissionner pour des raisons personnelles. Suite à son départ, vous vous rendez compte que certains de vos clients ne renouvellent pas et que vous avez une perte de chiffre d’affaire ? Cela peut être dû à un non-respect de la clause de non-concurrence. En effet, votre ex-salarié a pu vendre son savoir-faire à un de vos concurrents.
 
-Lors de ce cas, le processus de la mission, peut &ecirc;tre compos&eacute; de filature, de recueil des t&eacute;moignages, des enqu&ecirc;tes administratives etc. Il serait int&eacute;ressant de se diriger vers une ordonnance de requ&ecirc;te. Un constat d’huissier pourra &eacute;tablir un lien contractuel pr&eacute;sent entre l’ex-salari&eacute; et le concurrent qui l’a embauch&eacute;.
+Lors de ce cas, le processus de la mission, peut être composé de filature, de recueil des témoignages, des enquêtes administratives etc. Il serait intéressant de se diriger vers une ordonnance de requête. Un constat d’huissier pourra établir un lien contractuel présent entre l’ex-salarié et le concurrent qui l’a embauché.
 
 Le non-respect de ces deux clauses peut se cumuler.
-
-&nbsp;
-
