@@ -41,12 +41,12 @@ Le divorce pour faute
 
 Le divorce par alt&eacute;ration d&eacute;finitive du lien conjugal
 
-* Article 237 du code Civil &laquo; Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque le lien conjugal est d&eacute;finitivement alt&eacute;r&eacute;. &raquo;
+* Article 237 du code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque le lien conjugal est d&eacute;finitivement alt&eacute;r&eacute;.* &raquo;
 * Cessation de la communaut&eacute; de vie entre les &eacute;poux lorsqu’ils vivent s&eacute;par&eacute; depuis 2 ans lors de l’assignation pour divorce.
 
 Le divorce par acceptation du principe de la rupture du mariage
 
-* Article 233 du code Civil &laquo; Le divorce peut &ecirc;tre demand&eacute; par l’un ou l’autre des &eacute;poux ou par les deux lorsqu’ils acceptent le principe de la rupture du mariage sans consid&eacute;ration des faits &agrave; l’origine de celle-ci. &raquo;
+* Article 233 du code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un ou l’autre des &eacute;poux ou par les deux lorsqu’ils acceptent le principe de la rupture du mariage sans consid&eacute;ration des faits &agrave; l’origine de celle-ci.* &raquo;
 * Les 2 &eacute;poux veulent divorcer et sont d’accord avec le principe de rupture du mariage mais pas sur les cons&eacute;quences entrain&eacute;es par le divorce.
 
 Un d&eacute;tective via la filature ou des enqu&ecirc;tes administratives, pourra apporter des preuves manquantes ou compl&eacute;mentaires au dossier.
