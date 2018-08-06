@@ -1,17 +1,17 @@
 ---
 id: 273
 title: Le vol en entreprise
-date: 2018-05-22T10:00:22+00:00
+date: 2018-05-22 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/Vol en entreprise.jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=273
+guid: 'https://dlp-investigations.fr/?p=273'
 permalink: /le-vol-en-entreprise/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -20,7 +20,7 @@ categories:
 
 Une diminution anormale des stocks, du chiffre d’affaire d’une entreprise peut indiquer la **pr&eacute;sence d’un vol perp&eacute;tu&eacute; en interne ou en externe**. Ceci induit une **perte financi&egrave;re** et peut aussi entrainer une **d&eacute;gradation du climat au sein de l’entreprise** et donc porter pr&eacute;judice &agrave; cette derni&egrave;re.
 
-# Les diff&eacute;rents vols
+## Les diff&eacute;rents vols
 
 ### En lien direct avec le chiffre d’affaire
 
@@ -38,7 +38,7 @@ comme les ordinateurs, les imprimantes, la papeterie, et autres, en soit le vol 
 
 Il ne faut pas oublier le c&ocirc;t&eacute; administratif avec le vol de donn&eacute;s comme le fichier clients de la soci&eacute;t&eacute; et les coordonn&eacute;es bancaires par exemple ou encore le vol des logiciels informatiques et leurs licences.
 
-# Pourquoi mandater un d&eacute;tective priv&eacute; ?
+## Pourquoi mandater un d&eacute;tective priv&eacute; ?
 
 ### Par rapport &agrave; la r&eacute;glementation
 
@@ -61,4 +61,3 @@ L’aspect l&eacute;gitime et l&eacute;gal, avec la confidentialit&eacute; total
 Le rapport sera recevable en justice, pour porter plainte et pour proc&eacute;der &agrave; une constatation d’huissier.
 
 Enfin le l’agence pourra proposer des solutions et des conseils afin de r&eacute;duire le risque de vol au sein de l’entreprise.
-
