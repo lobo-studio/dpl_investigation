@@ -22,11 +22,11 @@ Selon l’INSEE en 2002, 1% des locataires &eacute;taient soumis &agrave; la loi
 
 Mais **&agrave; quoi correspondent les locations r&eacute;gies sous la loi de 1948 ? Quelles sont les conditions ?**
 
-# La loi de 1948
+## La loi de 1948
 
-Suite &agrave; la Seconde Guerre Mondiale, il y a eu une crise du logement. Cette loi prend en compte tous les logements construits avant le 1er septembre 1948 et situ&eacute;s dans certaines communes de plus de 10.000habitants ou limitrophes. Celle loi permet &agrave; des personnes d’acc&eacute;der &agrave; des loyers peu &eacute;lev&eacute;s et d’en faire b&eacute;n&eacute;ficier aux proches du locataire, par le droit au maintien dans les lieux.
+Suite &agrave; la Seconde Guerre Mondiale, il y a eu une crise du logement. Cette loi prend en compte tous les logements construits avant le 1er septembre 1948 et situ&eacute;s dans certaines communes de plus de 10.000 habitants ou limitrophes. Celle loi permet &agrave; des personnes d’acc&eacute;der &agrave; des loyers peu &eacute;lev&eacute;s et d’en faire b&eacute;n&eacute;ficier aux proches du locataire, par le droit au maintien dans les lieux.
 
-####  Le classement des logements
+### Le classement des logements
 
 Chaque logement soumis &agrave; cette loi fait l’objet d’un classement en fonction de l’&eacute;quipement et du confort. Ce classement d&eacute;termine le montant maximum de loyer que le propri&eacute;taire peut exiger de son locataire.
 
@@ -38,13 +38,13 @@ La cat&eacute;gorie IV :<br>La construction ne dispose d’aucun &eacute;quipeme
 
 La cat&eacute;gorie I est de qualit&eacute; exceptionnelle, de luxe. Mais les logements ne sont plus soumis &agrave; la loi de 1948.
 
-#### Les conditions du bail
+### Les conditions du bail
 
 Le bail n’est pas &eacute;crit obligatoirement, il peut &ecirc;tre juste oral entre le locataire et le bailleur. La dur&eacute;e est aussi convenue par ces deux derniers. Le bail peut &ecirc;tre d’une dur&eacute;e ind&eacute;termin&eacute;e. Toutes les augmentations de loyer sont soumises au plafonnement selon la cat&eacute;gorie.
 
-# Les conditions de la location soumise &agrave; la loi de 1948
+## Les conditions de la location soumise &agrave; la loi de 1948
 
-#### Le droit au maintien
+### Le droit au maintien
 
 Jusqu’en 2006, le droit au maintien pouvait s’&eacute;tendre aux h&eacute;ritiers du locataire. En effet, selon les juges &laquo; le contrat de louage n’est pas r&eacute;solu par la mort du locataire &raquo;.
 
@@ -64,7 +64,7 @@ Dans un troisi&egrave;me temps, si le locataire poss&egrave;de plusieurs endroit
 
 Dans un dernier temps, nous pouvons citer les occupants ayant &agrave; leur disposition un autre logement r&eacute;pondant &agrave; leurs exigences, qu’ils peuvent r&eacute;cup&eacute;rer (article 10-9).<br>Dans tous les cas, le propri&eacute;taire du logement soumis &agrave; la loi de 1948, doit prouver le d&eacute;faut d’occupation du logement lou&eacute; &agrave; titre principale s’il veut demander la prononciation de la d&eacute;ch&eacute;ance du droit au maintient. Il peut le faire par tout moyen, comme le relev&eacute; d’&eacute;lectricit&eacute; ou un rapport de d&eacute;tective priv&eacute;. Cependant, il est conseill&eacute; de compl&eacute;ter ces preuves par un constat d’huissier, avec un t&eacute;moignage du voisinage, qui pourra attester la vacation du logement (CA de Montpellier, n&deg;05/05253 du 18 octobre 2006).
 
-#### Le droit de reprise
+### Le droit de reprise
 
 Le propri&eacute;taire d’un logement peut faire appel &agrave; son droit de reprise pour habiter, ou faire habiter un des membres de sa famille comme son conjoint, ses ascendants ou ses descendants et ceux de son conjoint. Il peut aussi faire appel &agrave; ce droit pour construit.
 
@@ -74,7 +74,6 @@ L’article 19 de la loi du 1er septembre 1948 dispose que le prol&eacute;taire 
 
 La derni&egrave;re possibilit&eacute; pour faire appel au droit de reprise est pour des travaux de construction. Celle-ci doit donner lieu &agrave; une offre de relogement pour l’occupant du local et ce d&egrave;s qu’il a obtenu l’accord du ministre de la Construction ou de son d&eacute;l&eacute;gu&eacute;, de d&eacute;molie l’immeuble pour en construire un autre. Les conditions sont que la surface habitable doit &ecirc;tre sup&eacute;rieure et qu’il y ait plus de logement que le pr&eacute;c&eacute;dent immeuble (article 11).
 
-# Apport d’un d&eacute;tective priv&eacute;
+## Apport d’un d&eacute;tective priv&eacute;
 
 Afin de prouver un abandon de logement soumis &agrave; la loi de 1A948, le d&eacute;tective priv&eacute; pourra apporter les preuves qui permettront de d&eacute;termin&eacute;s les possibilit&eacute;s de d&eacute;ch&eacute;ances.
-
