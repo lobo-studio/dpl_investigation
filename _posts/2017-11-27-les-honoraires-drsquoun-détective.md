@@ -1,17 +1,17 @@
 ---
 id: 155
-title: 'Les honoraires d&rsquo;un détective'
-date: 2017-11-27T10:00:55+00:00
+title: Les honoraires d&rsquo;un détective
+date: 2017-11-27 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/Honoraire.jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=155
+guid: 'https://dlp-investigations.fr/?p=155'
 permalink: /les-honoraires-d-un-detective/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -20,13 +20,13 @@ categories:
 
 Combien co&ucirc;te une prestation ? **Combien &ccedil;a co&ucirc;te ?&nbsp;**
 
-Voil&agrave; l’une des premi&egrave;res questions qui nous est pos&eacute;e. Pour y r&eacute;pondre pr&eacute;cis&eacute;ment, il nous faudra l&eacute;g&egrave;rement plus de d&eacute;tail.<!--base32-dnqq4t8-base32-->
+Voil&agrave; l’une des premi&egrave;res questions qui nous est pos&eacute;e. Pour y r&eacute;pondre pr&eacute;cis&eacute;ment, il nous faudra l&eacute;g&egrave;rement plus de d&eacute;tail.<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
 
 Il faut savoir que chaque agence a son propre tarif. Les diff&eacute;rences existent entre les m&eacute;tropoles et la province, la difficult&eacute; de la mission, l’exp&eacute;rience et la r&eacute;putation de l’agence et bien s&ucirc;r le temps pass&eacute;. Ainsi, nous n’&eacute;voquerons qu’une fourchette de prix.
 
-# <u>Les honoraires</u>
+## Les honoraires
 
-### <u>Honoraires des enqu&ecirc;tes dites &laquo; terrain &raquo;</u>
+### Honoraires des enqu&ecirc;tes dites &laquo; terrain &raquo;
 
 Ces missions regroupent tout ce qui est filatures et surveillances.
 
@@ -42,7 +42,7 @@ Un d&eacute;compte des heures effectu&eacute;es vous sera remis en m&ecirc;me te
 
 Lors d’une prestation qui compte beaucoup d’heures, des gestes commerciaux peuvent &ecirc;tre accord&eacute;s au client.
 
-### <u>Honoraires des enqu&ecirc;tes dites &laquo; administratives &raquo;</u>
+### Honoraires des enqu&ecirc;tes dites &laquo; administratives &raquo;
 
 Ce type d’enqu&ecirc;te est factur&eacute; au r&eacute;sultat ou au forfait. Cela d&eacute;pend s’il faut avancer des frais ou si la dur&eacute;e d’enqu&ecirc;te est importante.
 
@@ -54,23 +54,20 @@ Pour les recherches plus compliqu&eacute;e, l’agence peut facturer au temps pa
 
 A Paris, une recherche de d&eacute;biteur est entre 300 et 1.000 euros hors taxe, une recherche de compte bancaire entre 400 et 1.000 euros hors taxe par compte trouv&eacute;. Une enqu&ecirc;te de solvabilit&eacute; est g&eacute;n&eacute;ralement sur devis, en fonction du nombre d’&eacute;l&eacute;ments demand&eacute;s.
 
-# <u>Les taxes et remboursement</u>
+## Les taxes et remboursement
 
-### <u>La taxe CNAPS</u>
+### La taxe CNAPS
 
 Notre profession est r&eacute;glement&eacute;e par le CNAPS (Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute;). Cet organisme, qui est sous la tutelle du minist&egrave;re de l’Int&eacute;rieur, est financ&eacute; par la profession et l’Etat. Ainsi sur la facture, une taxe CNAPS sera &eacute;mise. Depuis 2014, cette derni&egrave;re vaut 0.4% du montant hors taxe de la prestation.
 
-### <u>La TVA</u>
+### La TVA
 
 Sur toute facture de prestation de service, il y a une TVA de 20%.
 
 Exception pour les entreprises soumises &agrave; l’article 293 du CGI, qui en sont exon&eacute;r&eacute;es si leur chiffre d’affaire brut ne d&eacute;passe pas le plafond annuel.
 
-### <u>Les frais de d&eacute;tective rembours&eacute;s</u>
+### Les frais de d&eacute;tective rembours&eacute;s
 
 Il faut savoir que les frais peuvent &ecirc;tre rembours&eacute;s par la partie adverse par soucis d’&eacute;quit&eacute; durant une proc&eacute;dure civile (selon l’article 700 du code de Proc&eacute;dure Civile) et p&eacute;nale (selon les articles 475-1 au 375 du code de Proc&eacute;dure P&eacute;nale).
 
 En ce qui concerne les proc&eacute;dures administratives, les frais seront rembours&eacute;s par la partie perdante, comme le dispose l’article L756-1 du code de Justice Administrative &laquo; Dans toutes les instances, le juge condamne la partie tenue aux d&eacute;pens ou, &agrave; d&eacute;faut, la partie perdante, &agrave; payer &agrave; l’autre partie la somme qu’il d&eacute;termine, au titre des frais expos&eacute;s et non compris dans les d&eacute;pens. Le juge tient compte de l’&eacute;quit&eacute; ou de la situation &eacute;conomique de la partie condamn&eacute;e. Il peut, m&ecirc;me d’office, pour des raisons tir&eacute;es des m&ecirc;mes consid&eacute;rations, dire qu’il n’y a pas lieu &agrave; cette condamnation. &raquo;
-
-&nbsp;
-
