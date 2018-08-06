@@ -1,17 +1,17 @@
 ---
 id: 256
 title: Les logements soumis à la loi de 1948
-date: 2018-04-23T10:00:39+00:00
+date: 2018-04-23 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/Logements .jpg
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=256
+guid: 'https://dlp-investigations.fr/?p=256'
 permalink: /les-logements-soumis-a-la-loi-de-1948/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
