@@ -76,4 +76,4 @@ La derni&egrave;re possibilit&eacute; pour faire appel au droit de reprise est p
 
 ## Apport d’un d&eacute;tective priv&eacute;
 
-Afin de prouver un abandon de logement soumis &agrave; la loi de 1A948, le d&eacute;tective priv&eacute; pourra apporter les preuves qui permettront de d&eacute;termin&eacute;s les possibilit&eacute;s de d&eacute;ch&eacute;ances.
+Afin de prouver un abandon de logement soumis &agrave; la loi de 1948, le d&eacute;tective priv&eacute; pourra apporter les preuves qui permettront de d&eacute;termin&eacute;s les possibilit&eacute;s de d&eacute;ch&eacute;ances.
