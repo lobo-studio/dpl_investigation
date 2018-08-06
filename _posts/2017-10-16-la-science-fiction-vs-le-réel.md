@@ -1,17 +1,17 @@
 ---
 id: 42
 title: La science-fiction vs le réel
-date: 2017-10-16T10:10:14+00:00
+date: 2017-10-16 10:10:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/Hercule poirot.png
 image_header_image_path: /assets/img/blog-header.jpg
-guid: https://dlp-investigations.fr/?p=42
+guid: 'https://dlp-investigations.fr/?p=42'
 permalink: /science-fiction-vs-reel/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - ""
+  -
 ampforwp-amp-on-off:
   - default
 categories:
@@ -28,11 +28,11 @@ Vous arrive-t-il souvent de voir un homme habill&eacute; d’un long trench, coi
 
 Mais quelle est la diff&eacute;rence entre ce que nous pouvons voir &agrave; la t&eacute;l&eacute;vision via des films et s&eacute;ries et de ce que nous pouvons lire face &agrave; la r&eacute;alit&eacute; ?
 
-**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
+**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
-# <u>La science-fiction vs le r&eacute;el</u>
+## La science-fiction vs le r&eacute;el
 
-## <u>Les c&eacute;l&egrave;bres d&eacute;tectives </u>
+### Les c&eacute;l&egrave;bres d&eacute;tectives
 
 Qui ne connait pas les d&eacute;tectives ou assimil&eacute;s &nbsp;des films, s&eacute;ries et livres ? Il en existe pl&eacute;thore : Sherlock Holmes, Hercule Poirot, Miss Marple, Alice Roy, Joseph Rouletabille, Isodore Beautrelet, Ars&egrave;ne Lupin …
 
@@ -48,13 +48,13 @@ Apr&egrave;s avoir pass&eacute; plusieurs ann&eacute;es dans la police belge, He
 
 Il apparait dans 33 romans et 51 nouvelles d’Agatha Christie entre 1920 et 1975. Une s&eacute;rie a &eacute;t&eacute; diffus&eacute;e de 1989 &agrave; 2013 avec comme acteur principal David Suchet.
 
-#### &nbsp;
-
-#### Miss Marple, la vieille femme innocente, seconde d&eacute;tective connue d’Agatha Christie
-
-#### &nbsp;
+&nbsp;
 
 #### ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Miss-Marple-1.png?resize=204%2C155&amp;ssl=1){: .wp-image-84.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Miss-Marple-1.png?resize=300%2C228&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Miss-Marple-1.png?w=607&amp;ssl=1 607w" sizes="(max-width: 204px) 100vw, 204px"}
+
+&nbsp;
+
+#### Miss Marple, la vieille femme innocente, seconde d&eacute;tective connue d’Agatha Christie
 
 Miss Jane Marple &eacute;lucide des enqu&ecirc;tes, majoritairement des crimes, de mani&egrave;re amateur avec le parfait flegme anglais. Son sens de l’observation humaine et de la curiosit&eacute; lui permet d’aider la police &agrave; chaque enqu&ecirc;te. Selon sa cr&eacute;atrice, Agatha Christie, c’est la parfaite d&eacute;tective &agrave; domicile.
 
@@ -74,7 +74,7 @@ Ce d&eacute;tective apparait dans 4 romans et 56 nouvelles. Les films les plus c
 
 ## &nbsp;
 
-## <u>Comparaison avec le m&eacute;tier r&eacute;el</u>
+## Comparaison avec le m&eacute;tier r&eacute;el
 
 Avez-vous d&eacute;j&agrave; vu un Sherlock Holmes ou un Hercule Poirot ou encore une miss Marple soumis &agrave; la confidentialit&eacute; ? A la vie priv&eacute;e ? A un code de D&eacute;ontologie ? Ou m&ecirc;me devoir suivre des formations et &ecirc;tre agr&eacute;&eacute; pour exercer ?
 
@@ -91,4 +91,3 @@ Nos domaines d’action sont tr&egrave;s vastes. Il peut &ecirc;tre cit&eacute; 
 Les enqu&ecirc;tes types des films, des s&eacute;ries et des livres relatent des crimes et enl&egrave;vements. Or, dans notre r&eacute;alit&eacute;, c’est la police qui a cette pr&eacute;rogative en quasi-totalit&eacute;.
 
 Ainsi, les d&eacute;tectives de l’&eacute;cran et des &eacute;critures sont tr&egrave;s int&eacute;ressants, mais il ne faut pas les confondre avec ceux de la vraie vie.
-
