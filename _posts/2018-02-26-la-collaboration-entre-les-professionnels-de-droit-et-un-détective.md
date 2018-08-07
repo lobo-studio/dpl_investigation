@@ -5,7 +5,6 @@ date: 2018-02-26 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/poigner de main.png
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=226'
 permalink: /la-collaboration-entre-les-professionnels-de-droit-et-un-detective/
 ampforwp_custom_content_editor:

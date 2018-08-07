@@ -5,7 +5,6 @@ date: 2018-01-29 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/NPAI-1.jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=201'
 permalink: /recherche-de-debiteur/
 ampforwp_custom_content_editor:

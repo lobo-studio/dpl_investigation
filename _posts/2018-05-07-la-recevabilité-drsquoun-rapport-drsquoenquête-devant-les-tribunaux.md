@@ -5,7 +5,6 @@ date: 2018-05-07 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/tribunaux DLP.jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=261'
 permalink: /la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/
 ampforwp_custom_content_editor:

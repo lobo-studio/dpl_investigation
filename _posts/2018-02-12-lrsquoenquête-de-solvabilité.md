@@ -5,7 +5,6 @@ date: 2018-02-12 09:55:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Recherche compte bancaire.jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=214'
 permalink: /l-enquete-de-solvabilite/
 ampforwp_custom_content_editor:

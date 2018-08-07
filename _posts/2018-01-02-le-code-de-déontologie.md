@@ -5,7 +5,6 @@ date: 2018-01-02 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/csi.png
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=172'
 permalink: /le-code-de-deontologie/
 ampforwp_custom_content_editor:

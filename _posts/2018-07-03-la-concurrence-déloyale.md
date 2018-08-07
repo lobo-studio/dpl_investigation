@@ -5,7 +5,6 @@ date: 2018-07-03 09:55:00
 author: Delphine
 layout: page
 image_preview_image_path: /assets/img/concurrence déloyale.jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=299'
 permalink: /la-concurrence-deloyale/
 ampforwp_custom_content_editor:

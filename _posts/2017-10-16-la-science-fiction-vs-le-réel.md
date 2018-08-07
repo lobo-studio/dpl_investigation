@@ -5,7 +5,6 @@ date: 2017-10-16 10:10:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Hercule poirot.png
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=42'
 permalink: /science-fiction-vs-reel/
 ampforwp_custom_content_editor:

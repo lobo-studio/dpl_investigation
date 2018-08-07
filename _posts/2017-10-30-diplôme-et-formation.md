@@ -5,7 +5,6 @@ date: 2017-10-30 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Diplôme.png
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=115'
 permalink: /diplome-et-formation/
 ampforwp_page_builder_enable:

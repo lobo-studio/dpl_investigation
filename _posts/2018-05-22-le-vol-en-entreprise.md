@@ -5,7 +5,6 @@ date: 2018-05-22 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Vol en entreprise.jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=273'
 permalink: /le-vol-en-entreprise/
 ampforwp_custom_content_editor:

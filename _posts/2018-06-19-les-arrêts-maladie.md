@@ -5,7 +5,6 @@ date: 2018-06-19 09:58:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Arrêt maladie.jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=287'
 permalink: /les-arrets-maladie/
 ampforwp_custom_content_editor:

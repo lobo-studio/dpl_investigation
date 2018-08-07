@@ -5,7 +5,6 @@ date: 2018-04-23 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Logements .jpg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=256'
 permalink: /les-logements-soumis-a-la-loi-de-1948/
 ampforwp_custom_content_editor:

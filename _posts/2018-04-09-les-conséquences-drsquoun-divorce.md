@@ -5,7 +5,6 @@ date: 2018-04-09 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Pension alimentaire.jpeg
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=249'
 permalink: /les-consequences-dun-divorce/
 ampforwp_custom_content_editor:

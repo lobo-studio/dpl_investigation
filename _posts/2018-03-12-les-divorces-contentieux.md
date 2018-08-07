@@ -5,7 +5,6 @@ date: 2018-03-12 10:08:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/divorce contentieux.png
-image_header_image_path: /assets/img/blog-header.jpg
 guid: 'https://dlp-investigations.fr/?p=233'
 permalink: /les-divorces-contentieux/
 ampforwp_custom_content_editor:
