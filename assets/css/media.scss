@@ -221,6 +221,18 @@
   .blog-post .post-date-img .post-img{
     padding-right: 10%;
   }
+  .section-blog .post3{
+    &:nth-child(2n+1){
+      .post-img{
+        padding-left: 10%;
+      }
+    }
+    &:nth-child(2n+2){
+      .post-img{
+        padding-right: 10%;
+      }
+    }
+  }
 }
 
 /* Medium Devices, Desktops */

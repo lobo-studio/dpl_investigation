@@ -155,7 +155,7 @@ layout: default
 			{% for post in site.posts limit:3 %}
 		    {% assign mod = forloop.index | modulo: 2 %}
 		    {% if mod == 0 %}
-		        <div class="row align-items-center my-5 flex-row flex-md-row-reverse">
+		        <div class="post3 row align-items-center my-5 flex-row flex-md-row-reverse">
 					<div class="col-md-6">
 						<div class="post-img">
 							<img src="http://images.weserv.nl/?url={{site.url}}/{{ post.image_preview_image_path }}&w=520&h=320&output=jpg&t=square&a=attention"  alt=""  />
@@ -171,7 +171,7 @@ layout: default
 					</div>
 				</div>
 		    {% else %}
-		       <div class="row align-items-center my-5">
+		       <div class="post3 row align-items-center my-5">
 				<div class="col-md-6">
 					<div class="post-img">
 						<img src="http://images.weserv.nl/?url={{site.url}}/{{ post.image_preview_image_path }}&w=520&h=320&output=jpg&t=square&a=attention" alt="" />
