@@ -21,9 +21,9 @@ Selon, un des grands assureurs fran&ccedil;ais, il y a eu une augmentation des a
 
 **Quels sont les recours face &agrave; un arr&ecirc;t maladie qui semble abusif ?**
 
-## Les arr&ecirc;ts maladie et la CPAM
+### Les arr&ecirc;ts maladie et la CPAM
 
-### Les arr&ecirc;ts maladie
+#### Les arr&ecirc;ts maladie
 
 Par la presse, par nos relations et autres, nous pouvons entendre le cas de nombreux abus de la part de salari&eacute;. L’arr&ecirc;t maladie peut &ecirc;tre vu comme un proc&eacute;d&eacute; pour augmenter la dur&eacute;e de ses &laquo; jours off &raquo;, ou encore exercer une activit&eacute; professionnelle &agrave; son nom propre ou chez le concurrent par exemple.
 
@@ -33,7 +33,7 @@ Cela peut entra&icirc;ner une perte de productivit&eacute;, un report de charge 
 
 Un arr&ecirc;t maladie comporte des autorisations de sortie ou des sorties libres. Dans le premier cas, la personne est soit interdite de sortie soit elle doit &ecirc;tre chez elle de 09h00 &agrave; 11h00 puis de 14h00 &agrave; 16h00, samedi, dimanche et jours f&eacute;ri&eacute;s compris. Dans le second cas, aucun horaire n’est soumis.
 
-### Le contr&ocirc;le de la CPAM
+#### Le contr&ocirc;le de la CPAM
 
 La CPAM, ou Caisse Primaire d’Assurance Maladie, peut effectuer des contr&ocirc;les &agrave; sa propre initiative ou &agrave; celle de l’employeur.
 
@@ -41,15 +41,15 @@ Lorsque la visite est effectu&eacute;e par un praticien lib&eacute;ral, il n’e
 
 De plus, toute activit&eacute; doit &ecirc;tre suspendue durant cet arr&ecirc;t. Cela inclut le bricolage, le jardinage, le sport etc.
 
-## La v&eacute;rification des arr&ecirc;ts maladie par un d&eacute;tective priv&eacute;
+### La v&eacute;rification des arr&ecirc;ts maladie par un d&eacute;tective priv&eacute;
 
-### L’apport d’un d&eacute;tective priv&eacute;
+#### L’apport d’un d&eacute;tective priv&eacute;
 
 Le d&eacute;tective aura en charge de recueillir des preuves en toute impartialit&eacute;, en respectant les r&egrave;glementations. Cette enqu&ecirc;te pourra permettre de lever un doute sur les soup&ccedil;ons et le cas &eacute;ch&eacute;ant de cristalliser des activit&eacute;s illicites.
 
 Lors d’un arr&ecirc;t maladie, l’obligation de loyaut&eacute; du salari&eacute; envers son employeur perdure. Ainsi s’il y a une concurrence d&eacute;loyale, le rapport d’enqu&ecirc;te d’un d&eacute;tective pourra &ecirc;tre un v&eacute;ritable plus. Les moyeux mis en place durant la mission seront les observations men&eacute;es en lieux publics avec des photos &laquo; chocs &raquo; si n&eacute;cessaire. Des t&eacute;moignages pourront &ecirc;tre ajout&eacute;s &agrave; cela.
 
-### L’apport d’une collaboration entre huissier et d&eacute;tective
+#### L’apport d’une collaboration entre huissier et d&eacute;tective
 
 Faire appel &agrave; un huissier permet d’&eacute;tablir des faits de mani&egrave;res irr&eacute;futables. C’est pour cela qu’un constat d’huissier a valeur de preuve devant les tribunaux jusqu’&agrave; preuve du contraire. Le constat s’effectuera en lieu ouvert au public o&ugrave; il y aura une consignation des faits afin de proc&eacute;der &agrave; une ordonnance sur requ&ecirc;te si besoin est.
 
