@@ -23,7 +23,7 @@ Cette division d&eacute;pend d&eacute;j&agrave; dans un premier temps du contrat
 
 De mani&egrave;re g&eacute;n&eacute;rale **qu’en est-il de la prestation compensatoire ? A quoi correspond-elle ? Lorsqu’il y a des enfants, comment cela se passe-t-il ? Qu’est ce qu’une pension alimentaire et &agrave; quoi sert-elle ?&nbsp;**
 
-## La prestation compensatoire
+### La prestation compensatoire
 
 Lors d’un divorce, un &eacute;cart entre les deux &eacute;poux peut se cr&eacute;er. En effet, durant le mariage un des deux &eacute;poux peut ne pas travailler pour &eacute;duquer les enfants. Ainsi, il n’y a pas de salaire ni une carri&egrave;re professionnelle. C’est pour cela que pour compenser cet &eacute;cart, il y a cette prestation compensatoire.
 
@@ -35,7 +35,7 @@ La prestation compensatoire, sous forme de capital, peut &ecirc;tre mensualis&ea
 
 Le logement familiale peut &ecirc;tre laiss&eacute; &agrave; l’&eacute;poux qui aura la garde des enfants, afin d’&eacute;viter toutes transitions &eacute;prouvantes pour ces derniers.
 
-## La garde d’enfant et la pension alimentaire
+### La garde d’enfant et la pension alimentaire
 
 Durant un divorce, l’une des grandes questions concerne les enfants. Effectivement, les d&eacute;cisions doivent &ecirc;tre prises dans leurs int&eacute;r&ecirc;ts. Un des deux &eacute;poux peut partir de la ville de r&eacute;sidence voire de la r&eacute;gion. Un des deux &eacute;poux peut ne pas avoir les fonds financier pour ses enfants.
 
