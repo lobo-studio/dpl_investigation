@@ -3,7 +3,7 @@ id: 299
 title: La concurrence déloyale
 date: 2018-07-03 09:55:00
 author: Delphine
-layout: page
+layout: post
 image_preview_image_path: /assets/img/concurrence déloyale.jpg
 guid: 'https://dlp-investigations.fr/?p=299'
 permalink: /la-concurrence-deloyale/
@@ -23,13 +23,13 @@ Vous avez une perte de chiffre d’affaire, vos salari&eacute;s partent en grand
 
 Que peut vous apport&eacute;e une collaboration entre un d&eacute;tective priv&eacute; et un huissier de justice ?
 
-## La concurrence d&eacute;loyale et la clause de non-concurrence
+### La concurrence d&eacute;loyale et la clause de non-concurrence
 
-### La d&eacute;finition juridique de la concurrence d&eacute;loyale
+#### La d&eacute;finition juridique de la concurrence d&eacute;loyale
 
 Selon le Vocabulaire Juridique publi&eacute; sous la direction de G&eacute;rard Cornu, la concurrence d&eacute;loyale est un &laquo; *fait constitutif d’une faute (au sens de l’article 1382 du Code civil, fondement des condamnations) qui r&eacute;sulte d’un usage excessif, par un concurrent, de la libert&eacute; de la concurrence, par emploi &agrave; haut proc&eacute;d&eacute; malhonn&ecirc;te dans la recherche de la client&egrave;le, dans la comp&eacute;tition &eacute;conomique. Par exemple : confusion volontairement cr&eacute;&eacute;e entre deux marques, notamment au moyen de la publicit&eacute;, imitation des produits d’un concurrent, d&eacute;sorganisation de l’entreprise rivale, parasitisme, dumping et d&eacute;nigrement.* &raquo;
 
-### La d&eacute;finition juridique de la clause de non-concurrence
+#### La d&eacute;finition juridique de la clause de non-concurrence
 
 Toujours selon le Vocabulaire Juridique et dans un sens g&eacute;n&eacute;ral, la clause de non-concurrence est une &laquo; stipulation par laquelle un contractant se prive de la facult&eacute; d’exercer pendant une certaine p&eacute;riode et dans une aire g&eacute;ographique d&eacute;termin&eacute;e une activit&eacute; professionnelle susceptible de concurrencer celle de l’autre. &raquo;
 
@@ -37,9 +37,9 @@ La seconde d&eacute;finition de ce dictionnaire vise plus sp&eacute;cifiquement 
 
 En contrepartie de cette clause, le salari&eacute; aura une compensation financi&egrave;re.
 
-## Le non-respect de ces obligations
+### Le non-respect de ces obligations
 
-### Transgression de la concurrence d&eacute;loyale
+#### Transgression de la concurrence d&eacute;loyale
 
 Plusieurs de vos salari&eacute;s partent sans raison. Ce d&eacute;bauchage peut venir d’un processus d&eacute;loyal de recrutement par vos concurrents.
 
@@ -51,7 +51,7 @@ Enfin, la confusion permet de cr&eacute;er une incertitude dans l’esprit du pu
 
 Vous rencontrez ce type de concurrence d&eacute;loyale, ou d’autres ? Un constat d’huissier via un rapport pr&eacute;alable d’un d&eacute;tective priv&eacute; pourra vous aider. Nos enqu&ecirc;tes pourront pr&eacute;ciser &agrave; l’huissier o&ugrave; il devra intervenir. De plus, l’huissier pourra proc&eacute;der &agrave; une expertise informatique afin d’&eacute;tablir la pr&eacute;sence de concurrence d&eacute;loyale. Ainsi la collaboration entre ces deux professions apporte un v&eacute;ritable bonus.
 
-### Inobservation de la clause de non-concurrence
+#### Inobservation de la clause de non-concurrence
 
 Une clause de non-concurrence peut intervenir dans le cas d’un savoir-faire particulier et bien sp&eacute;cifique d’un salari&eacute;.
 
