@@ -4,7 +4,7 @@ title: Les divorces contentieux
 date: 2018-03-12 10:08:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/divorce contentieux.png
+image_preview_image_path: /assets/img/tribunaux DLP.jpg
 guid: 'https://dlp-investigations.fr/?p=233'
 permalink: /les-divorces-contentieux/
 ampforwp_custom_content_editor:
@@ -25,7 +25,7 @@ Le divorce n’est plus trait&eacute; sous le droit p&eacute;nal depuis de nombr
 
 Avant le divorce, il peut avoir une s&eacute;paration de corps. Ce jugement permet de mettre fin &agrave; la vie commune d’un couple mari&eacute;. Ces derniers resteront tout de m&ecirc;me mari&eacute;s sans vivre ensemble. Cette demande passe par le JAF ou juges aux affaires familiales.
 
-## Les 3 types de divorces contentieux
+### Les 3 types de divorces contentieux
 
 ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=286%2C126&amp;ssl=1){: .wp-image-236.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=300%2C132&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=768%2C338&amp;ssl=1 768w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?w=960&amp;ssl=1 960w" sizes="(max-width: 286px) 100vw, 286px"}
 
@@ -50,7 +50,7 @@ Le divorce par acceptation du principe de la rupture du mariage
 
 Un d&eacute;tective via la filature ou des enqu&ecirc;tes administratives, pourra apporter des preuves manquantes ou compl&eacute;mentaires au dossier.
 
-## La proc&eacute;dure des divorces contentieux
+### La proc&eacute;dure des divorces contentieux
 
 La proc&eacute;dure se d&eacute;roule en trois phases.
 
