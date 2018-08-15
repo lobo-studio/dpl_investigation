@@ -1,6 +1,6 @@
 ---
 id: 145
-title: La garde d&rsquo;enfant
+title: La garde d'enfant
 date: 2017-11-13 10:07:00
 author: Delphine
 layout: post
@@ -23,7 +23,7 @@ Un divorce ou une s&eacute;paration entra&icirc;ne beaucoup de changement de la 
 
 Encore r&eacute;cemment, les enfants &eacute;taient confi&eacute;s &agrave; la m&egrave;re par rapport au lien maternel. Or de plus en plus, ce fait diminue au profil de la garde partag&eacute;e ou de la garde exclusive du p&egrave;re. Cela est tr&egrave;s bien illustr&eacute; par les chiffres publi&eacute;s en 2015 des divorces et gardes d’enfants prononc&eacute;s en 2009 par l’INSEE.
 
-## <!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32--><br>Quelques chiffres
+### <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32--><br>Quelques chiffres
 
 En 2009, 152 000 enfants mineurs ont &eacute;t&eacute; secou&eacute;s par le divorce de leurs parents, soit deux tiers des divorces. En ce qui concerne la rupture d’un PCS, le nombre d’enfant mineurs sont au nombre de 5 100, ils ont en moyenne 9 ans.<br>A partir de 13 ans, l’enfant est jug&eacute; apte &agrave; donner sa pr&eacute;f&eacute;rence de garde, sinon c’est aux parents avec l’accord du juge qui en d&eacute;cide.
 
@@ -41,9 +41,9 @@ Apr&egrave;s 1 an
 
 ![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=440%2C452&amp;ssl=1){: .wp-image-146.aligncenter srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=292%2C300&amp;ssl=1 292w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?w=486&amp;ssl=1 486w" sizes="(max-width: 440px) 100vw, 440px"}
 
-## Le support d’un d&eacute;tective priv&eacute;
+### Le support d’un d&eacute;tective priv&eacute;
 
-### Condition de vie de l’enfant
+#### Condition de vie de l’enfant
 
 Lors de missions terrains, nos fileurs pourront observer et retranscrire ce qu’ils voient au sujet des carences et capacit&eacute;s &eacute;ducatives de la partie adverse. Ainsi nous pouvons voir les conditions de vie de l’enfant et savoir s’il existe des probl&egrave;mes concernant sa stabilit&eacute;.
 
@@ -53,13 +53,13 @@ Ces types d’enqu&ecirc;tes peuvent s’effectuer durant le divorce, ou post di
 * Les comportements &agrave; risques du parent envers son enfant
 * La pr&eacute;sence d’une baby-sitter ou d’un parent quand le parent n’est pas l&agrave;
 
-### Droit d’h&eacute;bergement et de visite
+#### Droit d’h&eacute;bergement et de visite
 
 Nous pouvons aussi intervenir au sujet du droit de visite ou d’h&eacute;bergement. Un non-respect peut &ecirc;tre puni par le code P&eacute;nal selon les articles 227-5, 227-7 et 227-9.
 
 En effet, le refus volontaire de confier l’enfant alors qu’un droit de visite a &eacute;t&eacute; stipul&eacute;, ou l’absence de justification lors d’un pr&eacute;texte de maladie ou autre.
 
-### Pension alimentaire
+#### Pension alimentaire
 
 Enfin, nous pouvons aussi mener des investigations afin d’apporter les preuves d’un changement de condition de vie du parent. Cela peut &ecirc;tre en fonction de la situation financi&egrave;re (nouveau travail, augmentation du salaire..) ou si ce dernier n’a plus &agrave; payer un appartement et des charges.
 
