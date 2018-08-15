@@ -21,11 +21,11 @@ Plusieurs fois, les personnes m’ont dit &laquo; Mais les d&eacute;tectives… 
 
 Depuis 2012, les d&eacute;tectives ont un code de D&eacute;ontologie. Ce dernier se situe dans le Livre VI du code de la S&eacute;curit&eacute; Int&eacute;rieure, Titre III, Chapitre Ier. Outre cela, nous devons aussi respecter les lois fran&ccedil;aises, dont la vie priv&eacute;e ou encore le droit &agrave; l’image.
 
-Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier. <!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
+Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
-# <u><img class="wp-image-180 alignright" alt="" width="306" height="139" srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" src="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
+# <u><img class="wp-image-180 alignright" alt="" srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" width="306" height="139" src="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
 
-## Les dispositions g&eacute;n&eacute;rales
+### Les dispositions g&eacute;n&eacute;rales
 
 Les 3 articles de cette sous-section concernent
 
@@ -33,7 +33,7 @@ Les 3 articles de cette sous-section concernent
 * Les **sanctions** en cas de non-respect (R631-2)
 * La **diffusion&nbsp;**de ce code en sein de l’entreprise (R631-3)
 
-## Devoirs communs &agrave; tous les acteurs de la s&eacute;curit&eacute; priv&eacute;e
+### Devoirs communs &agrave; tous les acteurs de la s&eacute;curit&eacute; priv&eacute;e
 
 Cette sous-section comporte les r&egrave;gles que tous d&eacute;tectives priv&eacute; ou enqu&ecirc;teurs priv&eacute; doivent respecter durant leur travail.
 
@@ -49,7 +49,7 @@ Cette sous-section comporte les r&egrave;gles que tous d&eacute;tectives priv&ea
 * Avoir des **relations loyales et transparents** avec les autorit&eacute;s publiques (R631-13)
 * Le **respect des contr&ocirc;les** de ces m&ecirc;mes autorit&eacute;s (R631-14)
 
-## Devoirs des entreprises et de leurs dirigeants
+### Devoirs des entreprises et de leurs dirigeants
 
 Un directeur d’agence doit respecter certaines r&egrave;gles envers ses enqu&ecirc;teurs et fileurs, et aussi envers ces clients.
 
@@ -64,7 +64,7 @@ Un directeur d’agence doit respecter certaines r&egrave;gles envers ses enqu&e
 * La **transparence pour la sous-traitance** envers le client (R631-23)
 * La **pr&eacute;cision des contrats** avec les conditions et moyens d’ex&eacute;cution (R631-24)
 
-## Devoirs des salari&eacute;s
+### Devoirs des salari&eacute;s
 
 Un salari&eacute; d’une agence a aussi des obligations envers son directeur et les tiers.
 
@@ -72,7 +72,7 @@ Un salari&eacute; d’une agence a aussi des obligations envers son directeur et
 * La transmission d’**information &agrave; l’employeur** en cas de suspension ou retrait de la carte professionnelle ou tout autres (R631-26)
 * Le **respect du public** (R631-27)
 
-## Sp&eacute;cificit&eacute;s des agents de recherches priv&eacute;es ou d&eacute;tective priv&eacute;
+### Sp&eacute;cificit&eacute;s des agents de recherches priv&eacute;es ou d&eacute;tective priv&eacute;
 
 Ces derni&egrave;res sont
 
