@@ -23,9 +23,9 @@ Avant, n’importe qui pouvait s’installer comme d&eacute;tective priv&eacute;
 
 **Comment devenir un d&eacute;tective ? Existe-t-il une formation sp&eacute;cifique ?**
 
-Depuis 2003, avec les &eacute;volutions de notre m&eacute;tier comme la r&eacute;glementation par exemple, un dipl&ocirc;me est devenu obligatoire pour exercer. Cela permet au d&eacute;tective d’avoir une base juridique solide.<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
+Depuis 2003, avec les &eacute;volutions de notre m&eacute;tier comme la r&eacute;glementation par exemple, un dipl&ocirc;me est devenu obligatoire pour exercer. Cela permet au d&eacute;tective d’avoir une base juridique solide.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
-## Les dipl&ocirc;mes&nbsp;
+### Les dipl&ocirc;mes&nbsp;
 
 ## ![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Diplôme.png?resize=189%2C126&amp;ssl=1){: .wp-image-139.alignleft srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Diplôme.png?resize=300%2C200&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Diplôme.png?resize=768%2C512&amp;ssl=1 768w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Diplôme.png?w=960&amp;ssl=1 960w" sizes="(max-width: 189px) 100vw, 189px"}
 
@@ -33,19 +33,19 @@ Afin de suivre ces formations, il faut demander une autorisation pr&eacute;alabl
 
 Actuellement, il y a deux dipl&ocirc;mes reconnus par le RNCP (R&eacute;pertoire Nationale dans Certifications Professionnelles) :
 
-### Le CQP (Certificat de Qualification Professionnelle)
+#### Le CQP (Certificat de Qualification Professionnelle)
 
 Ce premier dipl&ocirc;me permet de devenir salari&eacute; pour le compte d’une agence de d&eacute;tective priv&eacute;. Cela permettra de pouvoir exercer avec une carte professionnelle remise par le CNAPS.
 
 Cette formation est disponible &agrave; tout bachelier.
 
-### Le Titre
+#### Le Titre
 
 Ce second dipl&ocirc;me permet d’&ecirc;tre directeur de sa propre agence. Ainsi, le d&eacute;tective pourra exercer &agrave; son compte avec un agr&eacute;ment &agrave; son nom et une autorisation au nom de sa soci&eacute;t&eacute; remis aussi par le CNAPS.
 
 Cette formation est accessible &agrave; toutes personnes poss&eacute;dant un bac+2, ou via une passerelle pour le titulaire d’un CQP.
 
-## Les formations
+### Les formations
 
 Aujourd’hui, il existe quatre centres de formations : Paris (Ecole Sup&eacute;rieure des Agents de Recherche Priv&eacute;e), Montpellier (Institut de Formation des Agents de Recherche), Panth&eacute;on-Assas Melun et N&icirc;mes.
 
