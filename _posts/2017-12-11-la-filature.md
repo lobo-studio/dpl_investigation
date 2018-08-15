@@ -21,9 +21,9 @@ Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratiqu
 
 Un fileur doit respecter les libert&eacute;s fondamentales, la vie priv&eacute;e et le code de la route durant toute la mission. En m&ecirc;me temps, ce dernier doit observer les moindre faits et gestes et rester discret pour ne pas se faire voir.
 
-Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre pr&eacute;sent afin de maximiser la r&eacute;ussite ? Quels sont les &eacute;quipements des fileurs ?<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
+Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre pr&eacute;sent afin de maximiser la r&eacute;ussite ? Quels sont les &eacute;quipements des fileurs ?<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
-## Un ou plusieurs fileurs
+### Un ou plusieurs fileurs
 
 Il existe 2 types de filatures : pi&eacute;tonne et v&eacute;hicul&eacute;e.
 
@@ -39,7 +39,7 @@ Il est encore meilleur de pr&eacute;coniser 2 fileurs. Effectivement, cela perme
 
 De plus, dans certains cas il faudra obligatoirement mettre en place plusieurs fileurs pour parer &agrave; toute &eacute;ventualit&eacute;. C’est lieux sont les gares et les a&eacute;roports en grandes majorit&eacute;s. Ces derniers comportent plusieurs entr&eacute;es et plusieurs sorties ainsi que plusieurs moyens de transports. Ainsi nous avons l’habitude de mettre en place au minimum 1 pi&eacute;ton et 2 motards.
 
-## L’&eacute;quipement du fileur
+### L’&eacute;quipement du fileur
 
 Le premier &eacute;quipement d’un fileur est son v&eacute;hicule s’il est motoris&eacute;. Cela peut &ecirc;tre une voiture ou un deux-roues (scooter et moto). Il doit &ecirc;tre maniable et discret mais surtout bien entretenu. Le fileur doit bien maitriser son v&eacute;hicule afin de ne pas mettre sa vie en danger ou celle d’un tiers.
 
