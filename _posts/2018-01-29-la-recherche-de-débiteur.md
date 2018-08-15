@@ -17,11 +17,11 @@ categories:
   - Blog
 ---
 
-Depuis que je pratique le m&eacute;tier de d&eacute;tective priv&eacute; ou agent de recherche priv&eacute;e, plusieurs personnes m’ont dit &laquo; Un d&eacute;tective son m&eacute;tier est uniquement la filature, rien d’autre &raquo;. Lorsque je r&eacute;pond par une r&eacute;ponse n&eacute;gative, car **n****ous ne faisons pas que de la filature**, ils me disent **&laquo; Ah bon ?! Mais que faites-vous donc ? Quelles sont les autres prestations ? &raquo;**.<!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
+Depuis que je pratique le m&eacute;tier de d&eacute;tective priv&eacute; ou agent de recherche priv&eacute;e, plusieurs personnes m’ont dit &laquo; Un d&eacute;tective son m&eacute;tier est uniquement la filature, rien d’autre &raquo;. Lorsque je r&eacute;pond par une r&eacute;ponse n&eacute;gative, car **n****ous ne faisons pas que de la filature**, ils me disent **&laquo; Ah bon ?! Mais que faites-vous donc ? Quelles sont les autres prestations ? &raquo;**.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
 En effet, notre m&eacute;tier est compos&eacute; de 2 groupes de prestations : les enqu&ecirc;tes terrains avec les filatures et les enqu&ecirc;tes administratives, dont la recherche d’adresse et t&eacute;l&eacute;phone ou de d&eacute;biteur.
 
-## L’adresse postale et le t&eacute;l&eacute;phone
+### L’adresse postale et le t&eacute;l&eacute;phone
 
 L’adresse postale d’une personne physique ou d’une personne morale est tr&egrave;s importante. En effet, lorsqu’il y a des cr&eacute;ances, des assignations, ou des courriers officiels, c’est &agrave; cette adresse que cela sera envoy&eacute;s.
 
@@ -35,7 +35,7 @@ Lors d’une cr&eacute;ance, comme des factures ou des loyers impay&eacute;s, le
 
 Ces recherches d’adresse et t&eacute;l&eacute;phone ou de d&eacute;biteur peuvent &ecirc;tre utiles &agrave; beaucoup de profession : avocat, notaire, huissier, agence de recouvrement, agence immobili&egrave;re, gestionnaire de biens, entreprises…
 
-## La r&eacute;alisation de l’enqu&ecirc;te
+### La r&eacute;alisation de l’enqu&ecirc;te
 
 Cette recherche d’adresse et t&eacute;l&eacute;phone ou de d&eacute;biteur s’effectue par voie &eacute;lectronique (internet, r&eacute;seaux sociaux, annuaires…) et par voie t&eacute;l&eacute;phonique (services publiques …), gr&acirc;ce &agrave; une m&eacute;thode de recherche pr&eacute;cise.
 
@@ -49,7 +49,7 @@ Si un huissier doit intervenir, nous pouvons mettre en place une surveillance af
 
 Selon votre besoin, nous pouvons donc allier l’enqu&ecirc;te administrative &agrave; une enqu&ecirc;te de terrain.
 
-## Les modalit&eacute;s
+### Les modalit&eacute;s
 
 Afin d’assurer une recherche pertinente, un nombre minimum d’informations nous sont n&eacute;cessaires.
 
