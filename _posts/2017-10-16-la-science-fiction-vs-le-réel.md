@@ -27,11 +27,11 @@ Vous arrive-t-il souvent de voir un homme habill&eacute; d’un long trench, coi
 
 Mais quelle est la diff&eacute;rence entre ce que nous pouvons voir &agrave; la t&eacute;l&eacute;vision via des films et s&eacute;ries et de ce que nous pouvons lire face &agrave; la r&eacute;alit&eacute; ?
 
-**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
+**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2wk5ehq70tvm75ppavbpddkq8eb8cdm6guvaehv6gdkmemtpmxbme0vk0w3g6ht64uv3dnu6pd1dc9gq6t9k68-base32-->
 
-## La science-fiction vs le r&eacute;el
+### La science-fiction vs le r&eacute;el
 
-### Les c&eacute;l&egrave;bres d&eacute;tectives
+#### Les c&eacute;l&egrave;bres d&eacute;tectives
 
 Qui ne connait pas les d&eacute;tectives ou assimil&eacute;s &nbsp;des films, s&eacute;ries et livres ? Il en existe pl&eacute;thore : Sherlock Holmes, Hercule Poirot, Miss Marple, Alice Roy, Joseph Rouletabille, Isodore Beautrelet, Ars&egrave;ne Lupin …
 
@@ -41,7 +41,7 @@ Les 3 grands de la science-fiction :
 
 #### &nbsp;
 
-#### Hercule Poirot, c&eacute;l&egrave;bre d&eacute;tective belge &agrave; la moustache d’Agatha Christie
+**Hercule Poirot, c&eacute;l&egrave;bre d&eacute;tective belge &agrave; la moustache d’Agatha Christie**
 
 Apr&egrave;s avoir pass&eacute; plusieurs ann&eacute;es dans la police belge, Hercule Poirot s’installe &agrave; Londres en Angleterre et travaille en collaboration avec Scotland Yards dont l’inspecteur Japp. Poirot est reconnaissable &agrave; sa mani&egrave;re de parler &agrave; la troisi&egrave;me personne du singulier, &agrave; sa moustache et &agrave; ses allures de dandy en tout contexte.
 
@@ -53,7 +53,7 @@ Il apparait dans 33 romans et 51 nouvelles d’Agatha Christie entre 1920 et 197
 
 &nbsp;
 
-#### Miss Marple, la vieille femme innocente, seconde d&eacute;tective connue d’Agatha Christie
+**Miss Marple, la vieille femme innocente, seconde d&eacute;tective connue d’Agatha Christie**
 
 Miss Jane Marple &eacute;lucide des enqu&ecirc;tes, majoritairement des crimes, de mani&egrave;re amateur avec le parfait flegme anglais. Son sens de l’observation humaine et de la curiosit&eacute; lui permet d’aider la police &agrave; chaque enqu&ecirc;te. Selon sa cr&eacute;atrice, Agatha Christie, c’est la parfaite d&eacute;tective &agrave; domicile.
 
@@ -65,15 +65,13 @@ Miss Marple apparait dans 12 romans et 20 nouvelles. Deux s&eacute;ries ont &eac
 
 #### &nbsp;
 
-#### Sherlock Holmes, dont l’&eacute;crivain est Arthur Conan Doyle, est r&eacute;put&eacute; et connu par tous les films, s&eacute;ries et livres diffus&eacute;s
+**Sherlock Holmes, dont l’&eacute;crivain est Arthur Conan Doyle, est r&eacute;put&eacute; et connu par tous les films, s&eacute;ries et livres diffus&eacute;s**
 
 C’est un d&eacute;tective renomm&eacute; et sociopathe, qui teste beaucoup de choses par exp&eacute;riences. Il travaille avec l’inspecteur Lestrade de Scotland Yards, et avec son fid&egrave;le ami le docteur John Watson. Il habite au 221b Baker Street &agrave; Londres, une adresse renomm&eacute;e depuis.
 
 Ce d&eacute;tective apparait dans 4 romans et 56 nouvelles. Les films les plus connus sont &eacute;ponymes dont celui avec comme acteurs Robert Downey Junior et Jude Law. Il y a deux s&eacute;ries r&eacute;centes connues, Sherlock Holmes avec Benedict Cumberbatch et Martin Freeman et Elemtary avec Jonny Lee Miller et Lucy Liu.
 
-## &nbsp;
-
-## Comparaison avec le m&eacute;tier r&eacute;el
+### Comparaison avec le m&eacute;tier r&eacute;el
 
 Avez-vous d&eacute;j&agrave; vu un Sherlock Holmes ou un Hercule Poirot ou encore une miss Marple soumis &agrave; la confidentialit&eacute; ? A la vie priv&eacute;e ? A un code de D&eacute;ontologie ? Ou m&ecirc;me devoir suivre des formations et &ecirc;tre agr&eacute;&eacute; pour exercer ?
 
