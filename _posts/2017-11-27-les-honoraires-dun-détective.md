@@ -19,7 +19,7 @@ categories:
 
 Combien co&ucirc;te une prestation ? **Combien &ccedil;a co&ucirc;te ?&nbsp;**
 
-Voil&agrave; l’une des premi&egrave;res questions qui nous est pos&eacute;e. Pour y r&eacute;pondre pr&eacute;cis&eacute;ment, il nous faudra l&eacute;g&egrave;rement plus de d&eacute;tail.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
+Voil&agrave; l’une des premi&egrave;res questions qui nous est pos&eacute;e. Pour y r&eacute;pondre pr&eacute;cis&eacute;ment, il nous faudra l&eacute;g&egrave;rement plus de d&eacute;tail.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2wk5ehq70tvm75ppavbpddkq8eb8cdm6guvaehv6gdkmemtpmxbme0vk0w3g6ht64uv3dnu6pd1dc9gq6t9k68-base32-->
 
 Il faut savoir que chaque agence a son propre tarif. Les diff&eacute;rences existent entre les m&eacute;tropoles et la province, la difficult&eacute; de la mission, l’exp&eacute;rience et la r&eacute;putation de l’agence et bien s&ucirc;r le temps pass&eacute;. Ainsi, nous n’&eacute;voquerons qu’une fourchette de prix.
 
