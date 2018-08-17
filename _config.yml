@@ -48,6 +48,7 @@ paginate_path: "/blog/page:num/"
 _editable_regions:
   image:
     url_src: true
+    
 _options:
   image_preview_image_path:
     width: 520
