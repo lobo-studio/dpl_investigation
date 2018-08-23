@@ -52,8 +52,11 @@ _editable_regions:
 _options:
   content:
     styles: assets/css/editor.css
+    
+  my_rich_text_markdown:
+    format: p h2 h3
+
   _block:
-    format: p
     left: align-left
     right: align-right
     center: align-center
