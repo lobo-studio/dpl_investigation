@@ -51,7 +51,7 @@ _editable_regions:
     
 _options:
   content:
-    styles: /css/editor.css
+    styles: assets/css/editor.css
   _block:
     left: align-left
     right: align-right
