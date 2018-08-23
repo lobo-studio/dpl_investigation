@@ -50,6 +50,14 @@ _editable_regions:
     url_src: true
     
 _options:
+  content:
+    styles: /css/editor.css
+  _block:
+    left: align-left
+    right: align-right
+    center: align-center
+    justify: align-justify
+
   image_preview_image_path:
     width: 520
     height: 320
