@@ -5,10 +5,10 @@
 .align-right {
   text-align: right;
 }
-.align-center {
+.center-this-text {
   text-align: center;
 }
 
-.align-justify {
+.full-width-text {
   text-align: justify;
 }

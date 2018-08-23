@@ -53,20 +53,25 @@ _options:
   content:
     styles: assets/css/editor.css
     format: p h1 h2 h3 h4 h5 h6 pre address div
+
     bold: true
-    numberedlist: true
+    link: true
     code: true
     table: true
+    left: align-to-left
+    center: center-this-text
     right: align-to-right
-    
-  my_rich_text_markdown:
-    format: p h2 h3
+    justify: full-width-text
+    numberedlist: true
+    bulletedlist: true
+    image: true
 
   _block:
     left: align-left
+    center: center-this-text
     right: align-right
-    center: align-center
-    justify: align-justify
+    justify: full-width-text
+
 
   image_preview_image_path:
     width: 520
