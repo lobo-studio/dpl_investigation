@@ -52,6 +52,12 @@ _editable_regions:
 _options:
   content:
     styles: assets/css/editor.css
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    code: true
+    table: true
+    right: align-to-right
     
   my_rich_text_markdown:
     format: p h2 h3
