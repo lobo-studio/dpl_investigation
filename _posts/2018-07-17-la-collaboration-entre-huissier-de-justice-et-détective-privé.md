@@ -8,7 +8,6 @@ permalink: /la-collaboration-entre-huissier-de-justice-et-detective-prive/
 ---
 
 Dans beaucoup de dossier, un huissier de justice et un d&eacute;tective priv&eacute; peuvent collaborer. Ces collaborations sont pr&eacute;sentes dans le cas d’une recherche adresse-t&eacute;l&eacute;phone, pour trouver le meilleur cr&eacute;neau horaire afin d’effectuer une constatation ou encore lors d’une ordonnance sur requ&ecirc;te.
-{: .align-to-right}
 
 **Comment se passent et se pr&eacute;parent les diff&eacute;rentes collaborations entre huissier de justice et d&eacute;tective priv&eacute; ?**
 
