@@ -81,9 +81,3 @@ _options:
     mime_type: "image/jpeg"
     expandable: true
 
-  image_header_image_path:
-    width: 1060
-    height: 450
-    resize_style: "cover"
-    mime_type: "image/jpeg"
-    expandable: true
