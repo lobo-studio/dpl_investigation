@@ -53,6 +53,7 @@ _options:
   content:
     styles: assets/css/editor.css
   _block:
+    format: p
     left: align-left
     right: align-right
     center: align-center
