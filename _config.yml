@@ -45,9 +45,7 @@ paginate_path: "/blog/page:num/"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-_editable_regions:
-  image:
-    url_src: true
+
     
 _options:
   content:
@@ -72,7 +70,9 @@ _options:
     center: center-this-text
     right: align-right
     justify: full-width-text
-
+  _editable_regions:
+    image:
+      url_src: true
 
   image_preview_image_path:
     width: 520
