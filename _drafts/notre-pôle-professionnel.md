@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Notre pôle professionnel
 image_preview_image_path: /assets/img/professionnel.png
 permalink: '/blog/:title'
