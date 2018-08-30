@@ -35,10 +35,10 @@ Tous les subterfuges sont bons &agrave; prendre pour arriver &agrave; ses fins.
 En 2013, un cabinet de conseil en recrutement, Florian Mantione Institut, a publi&eacute; des statistiques illustratives :
 {: .full-width-text}
 
-* 75% des CV pr&eacute;sent&eacute;s sont trompeurs{: .full-width-text}
-* 70% des candidats rajoutent des responsabilit&eacute;s &agrave; celles qu’ils ont eu r&eacute;ellement afin de mieux repr&eacute;senter le poste convoit&eacute;.{: .full-width-text}
-* 62% des candidats ne maitrisent pas l’anglais &laquo; fluently &raquo;, ce qui est &eacute;crit sur le CV{: .full-width-text}
-* 90% des personnes pensent que c’est tout &agrave; fait normal d’arranger son CV afin de mieux correspondre au profil demand&eacute;.{: .full-width-text}
+* 75% des CV pr&eacute;sent&eacute;s sont trompeurs
+* 70% des candidats rajoutent des responsabilit&eacute;s &agrave; celles qu’ils ont eu r&eacute;ellement afin de mieux repr&eacute;senter le poste convoit&eacute;
+* 62% des candidats ne maitrisent pas l’anglais &laquo; fluently &raquo;, ce qui est &eacute;crit sur le CV
+* 90% des personnes pensent que c’est tout &agrave; fait normal d’arranger son CV afin de mieux correspondre au profil demand&eacute;
 
 En 2015, le Minist&egrave;re de l’Education Nationale pr&eacute;cise qu’environ 30% des CV pr&eacute;sentent des dipl&ocirc;mes &laquo; de fa&ccedil;on abusive ou inexacte &raquo;. Cela a permis d’envisager un syst&egrave;me qui permette de v&eacute;rifier les dipl&ocirc;mes d’Etat.
 {: .full-width-text}
@@ -49,13 +49,10 @@ En 2015, le Minist&egrave;re de l’Education Nationale pr&eacute;cise qu’envi
 Certains candidats afin de mentionner la dur&eacute;e d’un poste peuvent mettre juste l’ann&eacute;e, sans mentionner le mois, comme 2016-2017 au lieu de d&eacute;cembre 2016 – f&eacute;vrier 2017. Ainsi nous pouvons passer de 3 mois r&eacute;els &agrave; 2 ans. Cette diff&eacute;rence peut permettre d’&eacute;viter de mentionner une p&eacute;riode de ch&ocirc;mage.
 {: .full-width-text}
 
-Afin de mieux repr&eacute;senter le poste d’embauche, un candidat peut augmenter ses pr&eacute;c&eacute;dentes
+Afin de mieux repr&eacute;senter le poste d’embauche, un candidat peut augmenter ses pr&eacute;c&eacute;dentes responsabilit&eacute;s, comme passer de conseiller en vente &agrave; responsable adjoint d’une boutique.
 {: .full-width-text}
 
 ![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=272%2C272&amp;ssl=1){: .wp-image-281.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?w=720&amp;ssl=1 720w" sizes="(max-width: 272px) 100vw, 272px"}
-{: .full-width-text}
-
-responsabilit&eacute;s, comme passer de conseiller en vente &agrave; responsable adjoint d’une boutique.
 {: .full-width-text}
 
 Pour mieux se valoriser, un candidat peut aussi gonfler ses statistiques professionnelles. Par exemple, pour la sph&egrave;re immobili&egrave;re, le candidat peut sp&eacute;cifier qu’il a vendu 17 lots immobiliers pour une valeur de 20 millions d’euros alors que la r&eacute;alit&eacute; est plut&ocirc;t de 15 lots pour 14 millions d’euros.
