@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Notre pôle particulier
 image_preview_image_path: /assets/img/clients.jpg
 permalink: '/blog/:title'
@@ -23,7 +23,7 @@ Lorsqu’un doute p&egrave;se, une enqu&ecirc;te pourra confirmer ou infirmer le
 
 [Lien ](http://dlp-investigations.fr/le-divorce-par-consentement-mutuel-ou-a-l-amiable/)de l’article concernant le divorce par consentement mutuel ou &agrave; l'amiable
 
-[Lien ](http://dlp-investigations.fr/les-consequences-dun-divorce/)de l’article concernant les cons&eacute;quences du divorce &nbsp; &nbsp;&nbsp;&nbsp;
+[Lien ](http://dlp-investigations.fr/les-consequences-dun-divorce/)de l’article concernant les cons&eacute;quences du divorce&nbsp;&nbsp;
 
 * Assignation
 
