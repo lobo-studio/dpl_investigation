@@ -17,7 +17,7 @@ D’un point de vue professionnel, peu de personne connaissent nos prestations, 
 ### Les types de prestations
 {: .full-width-text}
 
-* Concurrence d&eacute;loyale{: .full-width-text}
+* Concurrence d&eacute;loyale
 
 Des clients qui ne renouvellent pas sans raison, des salari&eacute;s qui partent chez le concurrent, des clauses d’exclusivit&eacute; non respect&eacute;es, du d&eacute;nigrement envers votre soci&eacute;t&eacute; ? Ces points peuvent vous apporter un pr&eacute;judice moral ainsi que financier.
 {: .present-before-paste.full-width-text}
@@ -28,7 +28,7 @@ Une enqu&ecirc;te pourra d&eacute;terminer la pr&eacute;sence au non d’une con
 [Lien ](http://dlp-investigations.fr/la-concurrence-deloyale/)vers l’article concernant la concurrence d&eacute;loyale
 {: .present-before-paste.full-width-text}
 
-* Arr&ecirc;t maladie abusif{: .full-width-text}
+* Arr&ecirc;t maladie abusif
 
 Un de vos salari&eacute;s est souvent en arr&ecirc;t maladie. Vous avez des doutes sur sa v&eacute;racit&eacute;.
 {: .present-before-paste.full-width-text}
@@ -39,7 +39,7 @@ Une enqu&ecirc;te pourra le d&eacute;terminer.
 [Lien ](http://dlp-investigations.fr/les-arrets-maladie/)vers l’article concernant l’arr&ecirc;t maladie abusif.
 {: .present-before-paste.full-width-text}
 
-* V&eacute;rification de CV{: .full-width-text}
+* V&eacute;rification de CV
 
 Vous cherchez un associ&eacute; pour votre soci&eacute;t&eacute;, mais quelque chose vous tracasse dans son CV. Une v&eacute;rification pourra expliciter ou non la pr&eacute;sence de dires frauduleux.
 {: .present-before-paste.full-width-text}
@@ -47,12 +47,12 @@ Vous cherchez un associ&eacute; pour votre soci&eacute;t&eacute;, mais quelque c
 [Lien ](http://dlp-investigations.fr/la-verification-de-cv/)vers l’article concernant la v&eacute;rification de CV.
 {: .present-before-paste.full-width-text}
 
-* Ant&eacute;riorit&eacute; de marque{: .full-width-text}
+* Ant&eacute;riorit&eacute; de marque
 
 Une recherche d’ant&eacute;riorit&eacute; pourra prouver ou non qu’une marque est plus r&eacute;cente que la v&ocirc;tre.
 {: .present-before-paste.full-width-text}
 
-* D&eacute;biteurs{: .full-width-text}
+* D&eacute;biteurs
 
 Votre client ne paye plus et tous vos courriers de relance reviennent en NPAI, soit n’habite pas &agrave; l’adresse indiqu&eacute;e. Une recherche d’adresse nous indiquera o&ugrave; se situe &agrave; pr&eacute;sent ce dernier.
 {: .present-before-paste.full-width-text}
@@ -63,7 +63,7 @@ Votre client ne paye plus et tous vos courriers de relance reviennent en NPAI, s
 [Lien ](http://dlp-investigations.fr/recherche-de-debiteur/)vers l’article concernant la recherche de d&eacute;biteur.
 {: .present-before-paste.full-width-text}
 
-* Solvabilit&eacute;{: .present-before-paste.full-width-text}
+* Solvabilit&eacute;
 
 Vous fournissez un service &agrave; une soci&eacute;t&eacute; cliente. Depuis quelques temps, elle ne vous paie plus. Une enqu&ecirc;te de solvabilit&eacute; vous pr&eacute;sentera la r&eacute;elle sant&eacute; financi&egrave;re de cette soci&eacute;t&eacute; afin de savoir si cette derni&egrave;re peut vous rembourser ou non.
 {: .present-before-paste.full-width-text}
