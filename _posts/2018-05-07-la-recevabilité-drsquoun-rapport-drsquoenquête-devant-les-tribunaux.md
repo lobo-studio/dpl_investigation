@@ -32,7 +32,7 @@ Le premier arr&ecirc;t qui le confirme date de 1962.
 Nous avons au moins 3 arr&ecirc;ts confirmant la recevabilit&eacute; d’un rapport dont 1 qui d&eacute;coule d’un arr&ecirc;t jugeant ce dernier irrecevable.
 {: .full-width-text}
 
-* Arr&ecirc;t du 7 novembre 1962{: .full-width-text}
+* Arr&ecirc;t du 7 novembre 1962
 
 Cet arr&ecirc;t a &eacute;t&eacute; rendu par la deuxi&egrave;me chambre civile de la cour de Cassation.
 {: .full-width-text}
@@ -43,12 +43,12 @@ Cet arr&ecirc;t a &eacute;t&eacute; rendu par la deuxi&egrave;me chambre civile 
 Pour la premi&egrave;re fois, la plus haute juridiction fran&ccedil;aise a valid&eacute; l’arr&ecirc;t de la cour d’appel concernant la recevabilit&eacute; d’un rapport de d&eacute;tective priv&eacute;.
 {: .full-width-text}
 
-* Arr&ecirc;t du 4 avril 2002{: .full-width-text}
+* Arr&ecirc;t du 4 avril 2002
 
 C’est un arr&ecirc;t de la cour d’appel de Caen, chambre civil n&deg;01-01952 du 4 avril 2002.<br>&laquo; *Les &eacute;l&eacute;ments recueillis par les constations effectu&eacute;es par un d&eacute;tective priv&eacute; sont admissibles en justice selon les m&ecirc;mes modalit&eacute;s et sous les seuls m&ecirc;mes r&eacute;serves pour tout autre mode de preuve* &raquo;.
 {: .full-width-text}
 
-* Arr&ecirc;t du 15 avril 2014{: .full-width-text}
+* Arr&ecirc;t du 15 avril 2014
 
 C’est un arr&ecirc;t de la Cour de Cassation suite &agrave; un arr&ecirc;t de la cour d’appel de Grenoble.<br>L’arr&ecirc;t de la cour d’appel de Grenoble du 3 janvier 2012 avait refus&eacute; de prendre en compte deux rapports d’enqu&ecirc;tes de d&eacute;tective priv&eacute;. Les juges ont estim&eacute;s qu’&laquo; *aucune force probante ne peut &ecirc;tre accord&eacute;e* &raquo; &agrave; ces rapports &laquo; *en application de l’article 259 du Code Civil* &raquo;.
 {: .full-width-text}
