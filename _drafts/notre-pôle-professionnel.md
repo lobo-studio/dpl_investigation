@@ -5,19 +5,17 @@ image_preview_image_path: /assets/img/blog-1.jpg
 permalink: '/blog/:title'
 ---
 
-Un d&eacute;tective priv&eacute; ou agent de recherche priv&eacute;e est prestataire de service &agrave; la personne priv&eacute;e et aux professionnels. En effet, toute personne physique et morale a besoin d’une adresse postale pour l’envoi de courrier, de mise en demeure etc… De plus en plus de professionnels font appel &agrave; un d&eacute;tective priv&eacute; afin de r&eacute;pondre &agrave; des doutes et trouver des preuves le cas &eacute;ch&eacute;ant.
+Un d&eacute;tective priv&eacute; ou agent de recherche priv&eacute;e est prestataire de service &agrave; la personne priv&eacute;e et aux professionnels. En effet, **toute personne physique et morale a besoin d’une adresse postale pour l’envoi de courrier, de mise en demeure etc…** De plus en plus de professionnels font appel &agrave; un d&eacute;tective priv&eacute; afin de r&eacute;pondre &agrave; des doutes et trouver des preuves le cas &eacute;ch&eacute;ant.
 
 D’un point de vue professionnel, peu de personne connaissent nos prestations, qui sont pourtant nombreuses. Nous pouvons intervenir dans le cadre de vol, d’arr&ecirc;t maladie, de propri&eacute;t&eacute; intellectuelle, de v&eacute;rification de CV etc…
 
-L’agence DLP Investigations peut vous apporter une v&eacute;ritable aide &agrave; 360 degr&eacute;s.
+**L’agence DLP Investigations peut vous apporter une v&eacute;ritable aide &agrave; 360 degr&eacute;s.**
 
-Les types de prestations
+### Les types de prestations
 
-Concurrence d&eacute;loyale
+* Concurrence d&eacute;loyale
 
-Des clients qui ne renouvellent pas sans raison, des salari&eacute;s qui partent chez le concurrent, des clauses d’exclusivit&eacute; non respect&eacute;es, du d&eacute;nigrement envers votre soci&eacute;t&eacute; ?
-
-Ces points peuvent vous apporter un pr&eacute;judice moral ainsi que financier.
+Des clients qui ne renouvellent pas sans raison, des salari&eacute;s qui partent chez le concurrent, des clauses d’exclusivit&eacute; non respect&eacute;es, du d&eacute;nigrement envers votre soci&eacute;t&eacute; ? Ces points peuvent vous apporter un pr&eacute;judice moral ainsi que financier.
 
 Une enqu&ecirc;te pourra d&eacute;terminer la pr&eacute;sence au non d’une concurrence d&eacute;loyale.
 
