@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notre pôle particulier
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/clients.jpg
 permalink: '/blog/:title'
 ---
 
@@ -38,6 +38,8 @@ Une enqu&ecirc;te pourra permettre de v&eacute;rifier les &eacute;l&eacute;ments
 * Garde d’enfant et pension alimentaire
 
 Lors d’une s&eacute;paration avec pr&eacute;sence d’enfant, les deux parties doivent s’organiser pour la garde d’enfant. En cas de contentieux, c’est le juge aux affaires familiales qui statuera.
+
+![](/assets/img/divorce.png)
 
 De plus, une enqu&ecirc;te pourra v&eacute;rifier le cadre de vie des enfants afin de savoir s’ils sont en s&eacute;curit&eacute; et dans de bonnes conditions.
 
