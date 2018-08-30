@@ -65,21 +65,21 @@ Jusqu’au d&eacute;p&ocirc;t chez le notaire, les deux parties peuvent saisir l
 La convention doit imp&eacute;rativement comporter ces &eacute;l&eacute;ments :
 {: .full-width-text}
 
-* Le nom du notaire ou l’office notarial charg&eacute; d’enregistrer la convention{: .full-width-text}
-* Les noms, pr&eacute;noms, professions, r&eacute;sidences, nationalit&eacute;s, dates et lieux de naissances des &eacute;poux{: .full-width-text}
-* Date et lieu de mariage, et les m&ecirc;mes indications pour chacun de leurs enfants{: .full-width-text}
-* Le nom, l’adresse professionnelle et la structure d’exercice professionnel des avocats charg&eacute;s d’assister les &eacute;poux ainsi que le barreau auquel ils sont inscrits{: .full-width-text}
-* L’accord des &eacute;poux sur la rupture du mariage et ses effets{: .full-width-text}
-* Le versement d’une prestation compensatoire ou d’une pension alimentaire{: .full-width-text}
-* L’acte authentique de l’&eacute;tat liquidatif du r&eacute;gime matrimoniale et celui relatif aux biens soumis &agrave; publicit&eacute; fonci&egrave;re{: .full-width-text}
-* La mention pr&eacute;cisant que le mineur a &eacute;t&eacute; inform&eacute; par ses parents de son doit &agrave; &ecirc;tre entendu par le juge et qu’il ne souhaite pas faire usage de cette facult&eacute;, sous forme d’un formulaire en annexe.{: .full-width-text}
+* Le nom du notaire ou l’office notarial charg&eacute; d’enregistrer la convention
+* Les noms, pr&eacute;noms, professions, r&eacute;sidences, nationalit&eacute;s, dates et lieux de naissances des &eacute;poux
+* Date et lieu de mariage, et les m&ecirc;mes indications pour chacun de leurs enfants
+* Le nom, l’adresse professionnelle et la structure d’exercice professionnel des avocats charg&eacute;s d’assister les &eacute;poux ainsi que le barreau auquel ils sont inscrits
+* L’accord des &eacute;poux sur la rupture du mariage et ses effets
+* Le versement d’une prestation compensatoire ou d’une pension alimentaire
+* L’acte authentique de l’&eacute;tat liquidatif du r&eacute;gime matrimoniale et celui relatif aux biens soumis &agrave; publicit&eacute; fonci&egrave;re
+* La mention pr&eacute;cisant que le mineur a &eacute;t&eacute; inform&eacute; par ses parents de son doit &agrave; &ecirc;tre entendu par le juge et qu’il ne souhaite pas faire usage de cette facult&eacute;, sous forme d’un formulaire en annexe
 
 Les annexes qui font l’objet d’un d&eacute;p&ocirc;t sont les suivantes :
 {: .full-width-text}
 
-* Original de la convention{: .full-width-text}
-* LR/AR de chacun des avocats &agrave; chacun des &eacute;poux (cause de nullit&eacute;){: .full-width-text}
-* Acte de liquidation (sous seing priv&eacute; ou copie authentique){: .full-width-text}
-* Acte d’attribution d’un bien si la prestation compensatoire est en nature{: .full-width-text}
-* Formulaire de demande d’audition de tous les enfants mineurs{: .full-width-text}
-* Conventions r&eacute;dig&eacute;es en langue &eacute;trang&egrave;re{: .full-width-text}
+* Original de la convention
+* LR/AR de chacun des avocats &agrave; chacun des &eacute;poux (cause de nullit&eacute;)
+* Acte de liquidation (sous seing priv&eacute; ou copie authentique)
+* Acte d’attribution d’un bien si la prestation compensatoire est en nature
+* Formulaire de demande d’audition de tous les enfants mineurs
+* Conventions r&eacute;dig&eacute;es en langue &eacute;trang&egrave;re
