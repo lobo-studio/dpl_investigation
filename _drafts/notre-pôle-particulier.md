@@ -9,7 +9,7 @@ Lorsqu’on nous demande si nous sommes prestataires de services aux particulier
 
 **Ce p&ocirc;le particulier s’adresse &agrave; toute personne de mani&egrave;re personnelle ainsi qu’&agrave; leurs professionnels de droit type avocat ou huissier.**
 
-A ce moment, la premi&egrave;re id&eacute;e de prestation qu’on nous donne est la recherche d’adult&egrave;re. Pourtant, il existe bien d’autres types de prestations concernant les particuliers.
+A ce moment, la premi&egrave;re id&eacute;e de prestation qu’on nous donne est la recherche d’adult&egrave;re. Pourtant, il existe bien d’autres types de prestations concernant le p&ocirc;le particulier.
 
 ### Les types de prestations
 
@@ -51,13 +51,13 @@ Les parents sont juridiquement responsables vis-&agrave;-vis d’un enfant mineu
 
 * Succession
 
-Nous rechercherons le notaire en lien direct avec une succession ainsi que tous les h&eacute;ritiers.
+Nous rechercherons le notaire en lien direct avec une succession ainsi que tous les h&eacute;ritiers concern&eacute;s.
 
 * D&eacute;biteurs
 
 Un locataire est parti sans payer, par exemple, et vous voulez le retrouver afin de recouvrer vos loyers impay&eacute;s. Une recherche d’adresse pourra vous aider.
 
-[Lien ](http://dlp-investigations.fr/recherche-de-debiteur/)de l’article concernant la recherche d’adresse.
+[Lien ](http://dlp-investigations.fr/recherche-de-debiteur/)de l’article concernant la recherche d’adresse ou de d&eacute;biteurs.
 
 * Solvabilit&eacute;
 
