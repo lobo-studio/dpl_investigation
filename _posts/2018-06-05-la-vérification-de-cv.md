@@ -5,7 +5,7 @@ date: 2018-06-05 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/CV.PNG
-guid: 'httpss://dlp-investigations.fr/?p=280'
+guid: 'https://dlp-investigations.fr/?p=280'
 permalink: /la-verification-de-cv/
 ampforwp_custom_content_editor:
   -
@@ -52,7 +52,7 @@ Certains candidats afin de mentionner la dur&eacute;e d’un poste peuvent mettr
 Afin de mieux repr&eacute;senter le poste d’embauche, un candidat peut augmenter ses pr&eacute;c&eacute;dentes responsabilit&eacute;s, comme passer de conseiller en vente &agrave; responsable adjoint d’une boutique.
 {: .full-width-text}
 
-![](httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=272%2C272&amp;ssl=1){: .wp-image-281.alignright srcset="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=300%2C300&amp;ssl=1 300w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=150%2C150&amp;ssl=1 150w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?w=720&amp;ssl=1 720w" sizes="(max-width: 272px) 100vw, 272px"}
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=272%2C272&amp;ssl=1){: .wp-image-281.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?w=720&amp;ssl=1 720w" sizes="(max-width: 272px) 100vw, 272px"}
 {: .full-width-text}
 
 Pour mieux se valoriser, un candidat peut aussi gonfler ses statistiques professionnelles. Par exemple, pour la sph&egrave;re immobili&egrave;re, le candidat peut sp&eacute;cifier qu’il a vendu 17 lots immobiliers pour une valeur de 20 millions d’euros alors que la r&eacute;alit&eacute; est plut&ocirc;t de 15 lots pour 14 millions d’euros.

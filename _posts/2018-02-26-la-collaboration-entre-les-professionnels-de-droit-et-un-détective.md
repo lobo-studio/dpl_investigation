@@ -5,7 +5,7 @@ date: 2018-02-26 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/poigner de main.png
-guid: 'httpss://dlp-investigations.fr/?p=226'
+guid: 'https://dlp-investigations.fr/?p=226'
 permalink: /la-collaboration-entre-les-professionnels-de-droit-et-un-detective/
 ampforwp_custom_content_editor:
   -
@@ -58,7 +58,7 @@ De plus, un rapport d’enqu&ecirc;te pourra &ecirc;tre r&eacute;alis&eacute; de
 ### La collaboration
 {: .full-width-text}
 
-## ![](httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=247%2C156&amp;ssl=1){: .wp-image-193.alignright srcset="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 247px) 100vw, 247px"}
+## ![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=247%2C156&amp;ssl=1){: .wp-image-193.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 247px) 100vw, 247px"}
 {: .full-width-text}
 
 Une collaboration entre un avocat par exemple et un d&eacute;tective priv&eacute;, pourra prouver le s&eacute;rieux et le professionnalisme de chacun dans le temps. Ainsi, une certaine confiance s’&eacute;tablira entre les deux. C’est est aussi valable pour les notaires ou les huissiers.

@@ -5,7 +5,7 @@ date: 2018-01-02 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/csi.png
-guid: 'httpss://dlp-investigations.fr/?p=172'
+guid: 'https://dlp-investigations.fr/?p=172'
 permalink: /le-code-de-deontologie/
 ampforwp_custom_content_editor:
   -
@@ -26,7 +26,7 @@ Depuis 2012, les d&eacute;tectives ont un code de D&eacute;ontologie. Ce dernier
 Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
 {: .full-width-text}
 
-# <u><img class="wp-image-180 alignright" alt="" srcset="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" width="306" height="139" src="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
+# <u><img class="wp-image-180 alignright" alt="" srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" width="306" height="139" src="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
 {: .full-width-text}
 
 ### Les dispositions g&eacute;n&eacute;rales

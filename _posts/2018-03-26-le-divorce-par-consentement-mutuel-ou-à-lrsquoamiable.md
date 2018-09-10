@@ -5,7 +5,7 @@ date: 2018-03-26 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/divorce.png
-guid: 'httpss://dlp-investigations.fr/?p=244'
+guid: 'https://dlp-investigations.fr/?p=244'
 permalink: /le-divorce-par-consentement-mutuel-ou-a-l-amiable/
 ampforwp_custom_content_editor:
   -

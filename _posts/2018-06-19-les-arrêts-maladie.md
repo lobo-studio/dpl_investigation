@@ -5,7 +5,7 @@ date: 2018-06-19 09:58:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Arrêt maladie.jpg
-guid: 'httpss://dlp-investigations.fr/?p=287'
+guid: 'https://dlp-investigations.fr/?p=287'
 permalink: /les-arrets-maladie/
 ampforwp_custom_content_editor:
   -
@@ -32,7 +32,7 @@ Selon, un des grands assureurs fran&ccedil;ais, il y a eu une augmentation des a
 Par la presse, par nos relations et autres, nous pouvons entendre le cas de nombreux abus de la part de salari&eacute;. L’arr&ecirc;t maladie peut &ecirc;tre vu comme un proc&eacute;d&eacute; pour augmenter la dur&eacute;e de ses &laquo; jours off &raquo;, ou encore exercer une activit&eacute; professionnelle &agrave; son nom propre ou chez le concurrent par exemple.
 {: .full-width-text}
 
-![](httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1){: .size-medium.wp-image-288.alignright srcset="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1 300w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?w=570&amp;ssl=1 570w" sizes="(max-width: 300px) 100vw, 300px"}
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1){: .size-medium.wp-image-288.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/1551321622213.jpg?w=570&amp;ssl=1 570w" sizes="(max-width: 300px) 100vw, 300px"}
 {: .full-width-text}
 
 Cela peut entra&icirc;ner une perte de productivit&eacute;, un report de charge au sein de la soci&eacute;t&eacute; concern&eacute;e.

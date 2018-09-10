@@ -5,7 +5,7 @@ date: 2018-01-15 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/CR.jpg
-guid: 'httpss://dlp-investigations.fr/?p=190'
+guid: 'https://dlp-investigations.fr/?p=190'
 permalink: /le-processus-dune-mission/
 ampforwp_custom_content_editor:
   -
@@ -38,7 +38,7 @@ Lors de ce rendez-vous, nous &eacute;tablirons les points cl&eacute;s de l’enq
 Il faut donc, que le client apporte le maximum d’information tel que nom, pr&eacute;nom, date de naissance, lieu de naissance, derni&egrave;re adresse connue, photo et autres. Toute information pourra nous aider &agrave; un moment ou &agrave; un autre.
 {: .full-width-text}
 
-![](httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=190%2C120&amp;ssl=1){: .wp-image-193.alignleft srcset="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 190px) 100vw, 190px"}
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=190%2C120&amp;ssl=1){: .wp-image-193.alignleft srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 190px) 100vw, 190px"}
 {: .full-width-text}
 
 A la fin de ce rendez-vous, si les 2 parties sont d’accord, un contrat sera sign&eacute;. Celui-ci comporte les informations l&eacute;gales ainsi que les conditions.
@@ -80,7 +80,7 @@ Des photos ou des constatations internet pourront &ecirc;tre int&eacute;gr&eacut
 ### Etape 5 : Suivi de l’enqu&ecirc;te
 {: .full-width-text}
 
-![](httpss://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=173%2C115&amp;ssl=1){: .wp-image-192.alignright}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=173%2C115&amp;ssl=1){: .wp-image-192.alignright}
 {: .full-width-text}
 
 Le suivi d’enqu&ecirc;te nous permettra de savoir si les r&eacute;sultats trouv&eacute;s r&eacute;pondent &agrave; la question premi&egrave;re. Si des doutes

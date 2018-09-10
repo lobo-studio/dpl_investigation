@@ -5,7 +5,7 @@ date: 2018-04-23 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/Logements .jpg
-guid: 'httpss://dlp-investigations.fr/?p=256'
+guid: 'https://dlp-investigations.fr/?p=256'
 permalink: /les-logements-soumis-a-la-loi-de-1948/
 ampforwp_custom_content_editor:
   -
@@ -71,7 +71,7 @@ L’exception de cette r&eacute;siliation est le droit au maintien dans les lieu
 Le droit au maintien peut &ecirc;tre aussi r&eacute;sili&eacute; en cas d’abandon du domicile par le locataire o par d&eacute;ch&eacute;ance dans certaines conditions, selon les articles et/ou les jurisprudences.
 {: .full-width-text}
 
-![](httpss://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?resize=300%2C300&amp;ssl=1){: .size-medium.wp-image-257.alignright srcset="httpss://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?resize=300%2C300&amp;ssl=1 300w, httpss://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?resize=150%2C150&amp;ssl=1 150w, httpss://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?w=600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px"}
+![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?resize=300%2C300&amp;ssl=1){: .size-medium.wp-image-257.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/04/Logements-.jpg?w=600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px"}
 {: .full-width-text}
 
 Dans un premier temps, il y a les personnes qui n’ont pas occup&eacute; le logement par elles-m&ecirc;mes ou par les personne qui ont l’habitude d’habiter avec elles, comme les membres de leur famille ou &agrave; leur charge et ce pendant huit mois au cours d’une ann&eacute;e de location (article 10-2). L’exception de cette r&egrave;gle est pour des obligations professionnelles. En effet, dans ce cas seulement, la dur&eacute;e d’occupation peut &ecirc;tre r&eacute;duite.

@@ -5,7 +5,7 @@ date: 2018-05-07 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/tribunaux DLP.jpg
-guid: 'httpss://dlp-investigations.fr/?p=261'
+guid: 'https://dlp-investigations.fr/?p=261'
 permalink: /la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/
 ampforwp_custom_content_editor:
   -
@@ -65,7 +65,7 @@ Afin qu’un rapport soit recevable en justice, certains points doivent &ecirc;t
 Dans un premier temps, en mati&egrave;re civile et commerciale, l’article 9 du Nouveau Code de Proc&eacute;dure Civil dispose qu’&laquo; *il incombe &agrave; chaque partie de prouver conform&eacute;ment &agrave; la loi les faits n&eacute;cessaires au succ&egrave;s de sa pr&eacute;tention.* &raquo;.
 {: .full-width-text}
 
-![](httpss://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1){: .size-medium.wp-image-237.alignleft srcset="httpss://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1 300w, httpss://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=768%2C576&amp;ssl=1 768w, httpss://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 300px) 100vw, 300px"}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1){: .size-medium.wp-image-237.alignleft srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 300px) 100vw, 300px"}
 {: .full-width-text}
 
 En mati&egrave;re p&eacute;nale, l’article 427 du Code de Proc&eacute;dure P&eacute;nale dispose que &laquo; *hors les cas o&ugrave; la loi en dispose autrement, les infractions peuvent &ecirc;tre &eacute;tablies par tout mode de preuve et le juge d&eacute;cide d’apr&egrave;s son intime conviction. Le juge ne peut fonder sa d&eacute;cision que sur des preuves qui lui sont apport&eacute;es au cours des d&eacute;bats et contradictoirement discut&eacute;es devant lui.* &raquo;.

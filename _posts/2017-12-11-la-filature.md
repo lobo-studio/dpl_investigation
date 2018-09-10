@@ -5,7 +5,7 @@ date: 2017-12-11 10:00:00
 author: Delphine
 layout: post
 image_preview_image_path: /assets/img/filature.jpg
-guid: 'httpss://dlp-investigations.fr/?p=165'
+guid: 'https://dlp-investigations.fr/?p=165'
 permalink: /la-filature/
 ampforwp_custom_content_editor:
   -
@@ -32,7 +32,7 @@ Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre p
 Il existe 2 types de filatures : pi&eacute;tonne et v&eacute;hicul&eacute;e.
 {: .full-width-text}
 
-![](httpss://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/filature.jpg?resize=189%2C126&amp;ssl=1){: .wp-image-47.alignleft}
+![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/filature.jpg?resize=189%2C126&amp;ssl=1){: .wp-image-47.alignleft}
 {: .full-width-text}
 
 En effet, lorsque la personne se d&eacute;place qu’&agrave; pied ou en transport en commun, nous privil&eacute;gions la filature pi&eacute;tonne afin d’avoir une observation maximum. Beaucoup de choses peuvent se passer et se dire dans un bus ou dans le m&eacute;tro.
