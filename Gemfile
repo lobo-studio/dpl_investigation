@@ -27,7 +27,9 @@ group :jekyll_plugins do
   gem "jekyll-assets", group: :jekyll_plugins
   gem 'sprockets', '~> 4.0.0.beta8'
   gem 'uglifier', '~> 4.1', '>= 4.1.17'
-  
+  gem "jekyll-assets", group: :jekyll_plugins
+  gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets", group: :jekyll_plugins
+  gem "jekyll-assets", "~> x.x.alpha", group: :jekyll_plugins
 end
 
 
@@ -41,7 +43,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 gem 'jekyll-paginate'
-
-
-
-
