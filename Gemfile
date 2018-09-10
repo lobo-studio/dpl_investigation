@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "httpss://rubygems.org"
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -23,13 +23,6 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
-  gem "mini_magick"
-  gem "jekyll-assets", group: :jekyll_plugins
-  gem 'sprockets', '~> 4.0.0.beta8'
-  gem 'uglifier', '~> 4.1', '>= 4.1.17'
-  gem "jekyll-assets", group: :jekyll_plugins
-  gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets", group: :jekyll_plugins
-  gem "jekyll-assets", "~> x.x.alpha", group: :jekyll_plugins
 end
 
 

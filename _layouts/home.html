@@ -21,7 +21,6 @@ layout: default
 			-->
 			</div>
 		</div>
-		<a class="arrow_down" href=""><img src="{{site.url}}/assets/img/path-71.svg" alt="" /></a>
 	</section>
 	<section class="blocks-info">
 		<div class="container">
@@ -156,11 +155,10 @@ layout: default
 			{% for post in site.posts limit:3 %}
 		    {% assign mod = forloop.index | modulo: 2 %}
 		    {% if mod == 0 %}
-		        <div class="row align-items-center my-5 flex-row flex-md-row-reverse">
+		        <div class="post3 row align-items-center my-5 flex-row flex-md-row-reverse">
 					<div class="col-md-6">
 						<div class="post-img">
-							<!-- {% asset {{site.url}}'{{ post.image_preview_image_path }}'  width=60 class=image magick:transparency='10' %} -->
-							<img src="{{ post.image_preview_image_path }}"  alt=""  asset="magick:resize=400" />
+							<img src="https://images.weserv.nl/?url={{site.url}}/{{ post.image_preview_image_path }}&w=520&h=320&output=jpg&t=square&a=attention"  alt=""  />
 						</div>
 					</div>
 					<div class="col-md-6">
@@ -173,10 +171,10 @@ layout: default
 					</div>
 				</div>
 		    {% else %}
-		       <div class="row align-items-center my-5">
+		       <div class="post3 row align-items-center my-5">
 				<div class="col-md-6">
 					<div class="post-img">
-						<img src="{{ post.image_preview_image_path }}" alt="" />
+						<img src="https://images.weserv.nl/?url={{site.url}}/{{ post.image_preview_image_path }}&w=520&h=320&output=jpg&t=square&a=attention" alt="" />
 					</div>
 				</div>
 				<div class="col-md-6">

@@ -71,7 +71,7 @@ formEl.addEventListener("submit", function (e) {
     return false;
   }
 
-  var request = new XMLHttpRequest();
+  var request = new XMLhttpsRequest();
 
   request.addEventListener("load", function () {
     if (request.status === 302) { // CloudCannon redirects on success

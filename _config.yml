@@ -7,7 +7,6 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -20,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://noble-crocodile.cloudvent.net/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "httpss://dlp-investigations.fr/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -46,11 +45,38 @@ paginate_path: "/blog/page:num/"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+_editable_regions:
+  image:
+    url_src: true
+    
 _options:
+  content:
+    styles: assets/css/editor.css
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    italic: true
+    removeformat: true
+    bold: true
+    link: true
+    code: true
+    table: true
+    left: align-to-left
+    center: center-this-text
+    right: align-to-right
+    justify: full-width-text
+    numberedlist: true
+    bulletedlist: true
+    image: true
+
+  _block:
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
+
+
   image_preview_image_path:
-    width: 1060
-    height: 450
+    width: 520
+    height: 320
     resize_style: "cover"
     mime_type: "image/jpeg"
     expandable: true

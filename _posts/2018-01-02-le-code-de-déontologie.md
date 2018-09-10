@@ -1,42 +1,49 @@
 ---
 id: 172
 title: Le code de Déontologie
-date: 2018-01-02T10:00:55+00:00
+date: 2018-01-02 10:00:00
 author: Delphine
 layout: post
-image_preview_image_path: /assets/img/blog-1.jpg
-guid: https://dlp-investigations.fr/?p=172
+image_preview_image_path: /assets/img/csi.png
+guid: 'httpss://dlp-investigations.fr/?p=172'
 permalink: /le-code-de-deontologie/
 ampforwp_custom_content_editor:
-  - ""
+  -
 ampforwp_custom_content_editor_checkbox:
-  - null
+  -
 ampforwp-amp-on-off:
   - default
 categories:
   - Blog
 ---
 
-Plusieurs fois, les personnes m’ont dit &laquo; Mais les d&eacute;tectives… vous &ecirc;tes r&eacute;glement&eacute;s ?&nbsp;&raquo;, **&laquo; Etre d&eacute;tective c’est comme dans les films ? Tu n’as pas de r&egrave;gles &agrave; respecter ?&nbsp;&raquo;**.
+Plusieurs fois, les personnes m’ont dit &laquo; Mais les d&eacute;tectives… vous &ecirc;tes r&eacute;glement&eacute;s ? &raquo;, **&laquo; Etre d&eacute;tective c’est comme dans les films ? Tu n’as pas de r&egrave;gles &agrave; respecter ? &raquo;**.
+{: .full-width-text}
 
 Depuis 2012, les d&eacute;tectives ont un code de D&eacute;ontologie. Ce dernier se situe dans le Livre VI du code de la S&eacute;curit&eacute; Int&eacute;rieure, Titre III, Chapitre Ier. Outre cela, nous devons aussi respecter les lois fran&ccedil;aises, dont la vie priv&eacute;e ou encore le droit &agrave; l’image.
+{: .full-width-text}
 
-Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier.
-<!--base32-dnqq4t8-base32-->
+Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+{: .full-width-text}
 
-# <u><img class="wp-image-180 alignright" alt="" width="306" height="139" srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" src="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
+# <u><img class="wp-image-180 alignright" alt="" srcset="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" width="306" height="139" src="httpss://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
+{: .full-width-text}
 
-# <u>Les dispositions g&eacute;n&eacute;rales</u>
+### Les dispositions g&eacute;n&eacute;rales
+{: .full-width-text}
 
 Les 3 articles de cette sous-section concernent
+{: .full-width-text}
 
 * Le **champ d’application** (R631-1)
 * Les **sanctions** en cas de non-respect (R631-2)
 * La **diffusion&nbsp;**de ce code en sein de l’entreprise (R631-3)
 
-# <u>Devoirs communs &agrave; tous les acteurs de la s&eacute;curit&eacute; priv&eacute;e</u>
+### Devoirs communs &agrave; tous les acteurs de la s&eacute;curit&eacute; priv&eacute;e
+{: .full-width-text}
 
 Cette sous-section comporte les r&egrave;gles que tous d&eacute;tectives priv&eacute; ou enqu&ecirc;teurs priv&eacute; doivent respecter durant leur travail.
+{: .full-width-text}
 
 * Le **respect** des lois (R631-4)
 * La **dignit&eacute;** de la profession (R631-5)
@@ -50,9 +57,11 @@ Cette sous-section comporte les r&egrave;gles que tous d&eacute;tectives priv&ea
 * Avoir des **relations loyales et transparents** avec les autorit&eacute;s publiques (R631-13)
 * Le **respect des contr&ocirc;les** de ces m&ecirc;mes autorit&eacute;s (R631-14)
 
-# <u>Devoirs des entreprises et de leurs dirigeants</u>
+### Devoirs des entreprises et de leurs dirigeants
+{: .full-width-text}
 
 Un directeur d’agence doit respecter certaines r&egrave;gles envers ses enqu&ecirc;teurs et fileurs, et aussi envers ces clients.
+{: .full-width-text}
 
 * La **v&eacute;rification de la capacit&eacute; d’exercer** des enqu&ecirc;teurs et fileurs par rapport &agrave; la mission confi&eacute;e (R631-15)
 * Les **consignes et contr&ocirc;les** afin d’assurer la bonne ex&eacute;cution des enqu&ecirc;tes (R631-16)
@@ -65,21 +74,23 @@ Un directeur d’agence doit respecter certaines r&egrave;gles envers ses enqu&e
 * La **transparence pour la sous-traitance** envers le client (R631-23)
 * La **pr&eacute;cision des contrats** avec les conditions et moyens d’ex&eacute;cution (R631-24)
 
-# <u>Devoirs des salari&eacute;s</u>
+### Devoirs des salari&eacute;s
+{: .full-width-text}
 
 Un salari&eacute; d’une agence a aussi des obligations envers son directeur et les tiers.
+{: .full-width-text}
 
 * La **pr&eacute;sentation de la carte professionnelle** aux clients, mandants, ou autorit&eacute;s et organismes habilit&eacute;s (R631-25)
 * La transmission d’**information &agrave; l’employeur** en cas de suspension ou retrait de la carte professionnelle ou tout autres (R631-26)
 * Le **respect du public** (R631-27)
 
-# <u>Sp&eacute;cificit&eacute;s des agents de recherches priv&eacute;es ou d&eacute;tective priv&eacute;</u>
+### Sp&eacute;cificit&eacute;s des agents de recherches priv&eacute;es ou d&eacute;tective priv&eacute;
+{: .full-width-text}
 
 Ces derni&egrave;res sont
+{: .full-width-text}
 
 * Le **respect des int&eacute;r&ecirc;ts fondamentaux de la Nation et des secret des affaires** (R621-28)
 * La **pr&eacute;vention du conflit d’int&eacute;r&ecirc;t** envers les clients (R631-29)
 * Le **contrat** avec une mission d&eacute;volue et un cadre juridique (R631-30)
 * La **justification des r&eacute;mun&eacute;rations** qui est un &eacute;tat pr&eacute;cis des heures effectu&eacute;s avec la somme re&ccedil;ue et &agrave; venir (R631-31)
-
-&nbsp;

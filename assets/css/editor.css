@@ -1,0 +1,14 @@
+.align-to-left {
+  text-align: right;
+}
+
+.align-to-right {
+  text-align: right;
+}
+.center-this-text {
+  text-align: center;
+}
+
+.full-width-text {
+  text-align: justify;
+}
