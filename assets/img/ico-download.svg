@@ -1,1 +1,12 @@
-<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" width="45" height="30" viewBox="0 0 45 30"><defs><path id="k24oa" d="M759.88 4005.88l-9.38 9.37-9.38-9.38h5.63v-7.5h7.5v7.5zm4.5-5.63A14.11 14.11 0 0 0 750.5 3989c-5.44 0-10.13 3-12.38 7.5-5.8.75-10.12 5.44-10.12 11.25 0 6.19 5.06 11.25 11.25 11.25h24.38a9.28 9.28 0 0 0 9.37-9.38c0-4.87-3.94-9-8.62-9.37z"/></defs><g><g transform="translate(-728 -3989)"><use fill="#fff" xlink:href="#k24oa"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="30px" viewBox="0 0 45 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico-download" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M31.88,16.88 L22.5,26.25 L13.12,16.87 L18.75,16.87 L18.75,9.37 L26.25,9.37 L26.25,16.87 L31.88,16.88 Z M36.38,11.25 C35.0191738,4.67529946 29.2139884,-0.0299120699 22.5,1.10666871e-12 C17.06,1.10666871e-12 12.37,3 10.12,7.5 C4.32,8.25 0,12.94 0,18.75 C0,24.94 5.06,30 11.25,30 L35.63,30 C38.1241982,30.0243367 40.5231858,29.0435808 42.2859933,27.278892 C44.0488008,25.5142032 45.0269971,23.1141708 45,20.62 C45,15.75 41.06,11.62 36.38,11.25 Z" id="k24oa"></path>
+        </g>
+    </g>
+</svg>

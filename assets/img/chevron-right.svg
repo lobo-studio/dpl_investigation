@@ -1,1 +1,12 @@
-<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" width="6" height="10" viewBox="0 0 6 10"><defs><path id="tnvqa" d="M913.23 1692c-.3 0-.61-.11-.85-.34a1.25 1.25 0 0 1-.04-1.75l2.74-2.92-2.74-2.9c-.47-.49-.45-1.27.04-1.75a1.22 1.22 0 0 1 1.73.04l3.55 3.75c.45.48.45 1.23 0 1.71l-3.55 3.77c-.24.26-.56.39-.88.39z"/></defs><g><g transform="translate(-912 -1682)"><use fill="#fff" xlink:href="#tnvqa"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-right" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M1.23,10 C0.93,10 0.62,9.89 0.38,9.66 C-0.107711063,9.18491058 -0.125494688,8.40687698 0.34,7.91 L3.08,4.99 L0.34,2.09 C-0.13,1.6 -0.11,0.82 0.38,0.34 C0.614263133,0.114989839 0.92858475,-0.00731040907 1.25331912,0.000197900158 C1.5780535,0.00770620938 1.88638674,0.144403101 2.11,0.38 L5.66,4.13 C6.11,4.61 6.11,5.36 5.66,5.84 L2.11,9.61 C1.87,9.87 1.55,10 1.23,10 Z" id="tnvqa"></path>
+        </g>
+    </g>
+</svg>

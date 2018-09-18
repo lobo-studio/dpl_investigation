@@ -1,1 +1,12 @@
-<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" width="10" height="6" viewBox="0 0 10 6"><defs><path id="z1z3a" d="M745 675.23c0-.3.11-.61.34-.85.47-.49 1.26-.5 1.75-.04l2.92 2.74 2.9-2.74c.49-.47 1.27-.45 1.75.04.47.49.45 1.26-.04 1.73l-3.75 3.55c-.48.45-1.23.45-1.71 0l-3.77-3.55a1.22 1.22 0 0 1-.39-.88z"/></defs><g><g transform="translate(-745 -674)"><use fill="#fff" xlink:href="#z1z3a"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>path-71</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="path-71" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M0,1.23 C0,0.93 0.11,0.62 0.34,0.38 C0.81,-0.11 1.6,-0.12 2.09,0.34 L5.01,3.08 L7.91,0.34 C8.4,-0.13 9.18,-0.11 9.66,0.38 C10.13,0.87 10.11,1.64 9.62,2.11 L5.87,5.66 C5.39,6.11 4.64,6.11 4.16,5.66 L0.39,2.11 C0.144887438,1.88251454 0.00389905492,1.5643869 0,1.23 Z" id="z1z3a"></path>
+        </g>
+    </g>
+</svg>

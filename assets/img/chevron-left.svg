@@ -1,1 +1,12 @@
-<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" width="6" height="10" viewBox="0 0 6 10"><defs><path id="derra" d="M587.77 1682c.3 0 .61.11.85.34.49.47.5 1.26.04 1.75l-2.74 2.92 2.74 2.9c.47.49.45 1.27-.04 1.75-.49.47-1.26.45-1.73-.04l-3.55-3.75a1.25 1.25 0 0 1 0-1.71l3.55-3.77c.24-.26.56-.39.88-.39z"/></defs><g><g transform="translate(-583 -1682)"><use fill="#fff" xlink:href="#derra"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-left" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M4.77,0 C5.07,0 5.38,0.11 5.62,0.34 C6.11,0.81 6.12,1.6 5.66,2.09 L2.92,5.01 L5.66,7.91 C6.13,8.4 6.11,9.18 5.62,9.66 C5.13,10.13 4.36,10.11 3.89,9.62 L0.34,5.87 C-0.11086332,5.3891569 -0.11086332,4.6408431 0.34,4.16 L3.89,0.39 C4.13,0.13 4.45,0 4.77,0 Z" id="derra"></path>
+        </g>
+    </g>
+</svg>

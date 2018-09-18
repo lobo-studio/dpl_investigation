@@ -1,1 +1,26 @@
-<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" width="35" height="22" viewBox="0 0 35 22"><defs><path id="d8kxa" d="M320 26c0-1 1-2 2-2h31c1 0 2 1 2 2s-1 2-2 2h-31c-1 0-2-1-2-2z"/><path id="d8kxb" d="M320 35c0-1 1-2 2-2h31c1 0 2 1 2 2s-1 2-2 2h-31c-1 0-2-1-2-2z"/><path id="d8kxc" d="M320 44c0-1 1-2 2-2h21c1 0 2 1 2 2s-1 2-2 2h-21c-1 0-2-1-2-2z"/></defs><g><g transform="translate(-320 -24)"><g><use fill="#fff" xlink:href="#d8kxa"/></g><g><use fill="#fff" xlink:href="#d8kxb"/></g><g><use fill="#fff" xlink:href="#d8kxc"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="22px" viewBox="0 0 35 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>burger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="burger" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group">
+                <g id="d8kxa-link">
+                    <path d="M0,2 C0,1 1,0 2,0 L33,0 C34,0 35,1 35,2 C35,3 34,4 33,4 L2,4 C1,4 0,3 0,2 Z" id="d8kxa"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(0.000000, 9.000000)">
+                <g id="d8kxb-link">
+                    <path d="M0,2 C0,1 1,0 2,0 L33,0 C34,0 35,1 35,2 C35,3 34,4 33,4 L2,4 C1,4 0,3 0,2 Z" id="d8kxb"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(0.000000, 18.000000)">
+                <g id="d8kxc-link">
+                    <path d="M0,2 C0,1 1,0 2,0 L23,0 C24,0 25,1 25,2 C25,3 24,4 23,4 L2,4 C1,4 0,3 0,2 Z" id="d8kxc"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
