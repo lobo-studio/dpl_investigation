@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notre pôle professionnel
-image_preview_image_path: /assets/img/professionnel.png
+image_preview_image_path: /assets/img/blog-1.jpg
 permalink: '/blog/:title'
 ---
 
