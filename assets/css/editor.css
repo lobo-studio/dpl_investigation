@@ -12,3 +12,19 @@
 .full-width-text {
   text-align: justify;
 }
+
+img.float-left {
+  text-align: right;
+}
+
+img.float-right {
+  text-align: right;
+}
+p.float-left {
+  text-align: right;
+}
+
+p.float-right {
+  text-align: right;
+}
+
