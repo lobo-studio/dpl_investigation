@@ -13,18 +13,10 @@
   text-align: justify;
 }
 
-img.float-left{
-  text-align: right;
+.float-left{
+  float: left;
 }
 
-img.float-right{
-  text-align: right;
+.float-right{
+  float: right;
 }
-p.float-left{
-  text-align: right;
-}
-
-p.float-right{
-  text-align: right;
-}
-
