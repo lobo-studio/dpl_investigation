@@ -13,10 +13,25 @@
   text-align: justify;
 }
 
-.float-left{
+img.float-left{
   float: left;
 }
 
-.float-right{
+img.float-right{
+  float: right;
+}
+p.float-left{
+  float: left;
+}
+
+p.float-right{
+  float: right;
+}
+
+div.float-left{
+  float: left;
+}
+
+div.float-right{
   float: right;
 }
