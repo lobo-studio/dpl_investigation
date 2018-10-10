@@ -27,11 +27,10 @@ p.float-left{
 p.float-right{
   float: right;
 }
-
-div.float-left{
+span.float-left{
   float: left;
 }
 
-div.float-right{
+span.float-right{
   float: right;
 }
