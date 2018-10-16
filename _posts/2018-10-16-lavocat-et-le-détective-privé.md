@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'avocat et le détective privé
-image_preview_image_path: /assets/img/Balance justice.png
+image_preview_image_path: /uploads/marteau-justice.jpg
 permalink: '/blog/:title'
 ---
 
