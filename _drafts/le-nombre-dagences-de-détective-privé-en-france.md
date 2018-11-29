@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le nombre d’agences de détective privé en France
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/nombre de détective privé.jpg
 permalink: '/blog/:title'
 ---
 
@@ -36,10 +36,16 @@ Les agences sont situ&eacute;es essentiellement dans les trois zones g&eacute;og
 * Sud : 257 agences{: .full-width-text}
 * Ouest : 190 agences.{: .full-width-text}
 
+![](/assets/img/localisation agence France.PNG)
+{: .full-width-text}
+
 Cela repr&eacute;sente plus de la moiti&eacute; des agences du territoire fran&ccedil;ais.
 {: .full-width-text}
 
 Il faut pr&eacute;ciser qu’en Ile-de-France, Paris est la ville o&ugrave; il y a le plus d’agences soit 114, suivi des Yveline avec 37 agences et des Hauts de Seine avec 32 agences.
+{: .full-width-text}
+
+![](/assets/img/Localisation agence idf.PNG)
 {: .full-width-text}
 
 ### Etude de l’INSEE &laquo; La s&eacute;curit&eacute; : un secteur toujours en plein essor &raquo; dat&eacute;e du 18 octobre 2016
