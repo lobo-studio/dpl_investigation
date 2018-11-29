@@ -8,7 +8,7 @@ permalink: '/blog/:title'
 L’une des questions la plus pos&eacute;e est : &laquo; C’est la premi&egrave;re fois que je rencontre un d&eacute;tective priv&eacute;, **combien y a-t-il d’agences en France et &agrave; Paris ?**&nbsp;&raquo;.
 {: .full-width-text}
 
-En France, il y a 4 centres de formation (lien vers l’article) avec des promotions d’environ 20 &eacute;l&egrave;ves par an. D’un point de vue statistique, 3 ans plus tard, seulement un tiers travaille encore en tant que d&eacute;tective priv&eacute;.
+En France, il y a 4 centres de formation ([lien vers l’article](https://dlp-investigations.fr/diplome-et-formation/)) avec des promotions d’environ 20 &eacute;l&egrave;ves par an. D’un point de vue statistique, 3 ans plus tard, seulement un tiers travaille encore en tant que d&eacute;tective priv&eacute;.
 {: .full-width-text}
 
 Toute agence de d&eacute;tective priv&eacute; doit &ecirc;tre dot&eacute;e d’une autorisation d’exercer d&eacute;livr&eacute;e par le CNAPS, ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute;.
@@ -17,7 +17,7 @@ Toute agence de d&eacute;tective priv&eacute; doit &ecirc;tre dot&eacute;e d’u
 ### Liste des autorisations du CNAPS pour les agences de d&eacute;tective priv&eacute;s
 {: .full-width-text}
 
-Depuis sa cr&eacute;ation en janvier 2012 le CNAPS, ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; (lien vers l’article), r&eacute;gule la profession via un agr&eacute;ment ou AGD pour le dirigeant de la soci&eacute;t&eacute; et une autorisation ou AUT pour l’agence. Si une soci&eacute;t&eacute; poss&egrave;de plusieurs agences, il faudra une autorisation pour chacune d’entre elles.
+Depuis sa cr&eacute;ation en janvier 2012 le CNAPS, ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; ([lien vers l’article](https://dlp-investigations.fr/le-cnaps/)), r&eacute;gule la profession via un agr&eacute;ment ou AGD pour le dirigeant de la soci&eacute;t&eacute; et une autorisation ou AUT pour l’agence. Si une soci&eacute;t&eacute; poss&egrave;de plusieurs agences, il faudra une autorisation pour chacune d’entre elles.
 {: .full-width-text}
 
 Chaque autorisation est transmise &agrave; la suite d’une demande de la part du dirigeant de l’agence. Lors d’une cessation d’activit&eacute;, le dirigeant doit aussi pr&eacute;venir le CNAPS.
