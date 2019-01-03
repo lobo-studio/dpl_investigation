@@ -1,0 +1,107 @@
+
+  def create_screenshot( version, app, type)
+    devices = []
+    if type
+      @tune_version = app.live_version
+    else
+      @tune_version = app.edit_version
+    end
+    version.description.languages.each do |l|
+      screenshots = version.screenshots[l]
+      trailers = version.trailers[l]
+
+      screenshot_devices = screenshots.group_by {|x| x.device_type}
+      trailer_devices = trailers.group_by {|x| x.device_type}
+
+puts "trailer_devices #{trailer_devices}"
+      raw_data_details = version.raw_data["details"]["value"]
+      language_details = raw_data_details.find { |d| d["language"] == l }["displayFamilies"]["value"]
+      language_details.each do |details|
+        next if ['watchSeries4','watch'].include?(details["name"])
+        device =  details["name"]
+        scaled = details["scaled"]["value"]
+        display_family = @tune_version.display_families.find_or_create_by!(device: device, language: l)
+        family = StaticData::DISPLAY_FAMILIES[device][0]
+        display_family.update!(scaled: scaled,
+                              sort_order: ItunesConnect::DisplayFamily.sort_order(device),
+                              is_iphone: family[:is_iphone],
+                              family: family[:family])
+      end
+
+      #trailers
+      puts "create trailers"
+      trailer_devices.each do |device|
+        puts device
+        trailers = devices[device[0]]
+        trailers.to_a.each do |trailer|
+        device_type =  StaticData::DISPLAY_FAMILIES[trailer.device_type][0][:family]
+        app_trailer = @tune_version.app_trailers.creat(device_type: trailer.device_type,
+                                                        language: trailer.language,
+                                                        video_asset_token: trailer.video_asset_token,
+                                                        picture_asset_token: trailer.picture_asset_token,
+                                                        descriptionXML: trailer.descriptionXML,
+                                                        preview_frame_time_code: trailer.preview_frame_time_code,
+                                                        video_url: trailer.video_url,
+                                                        preview_image_url: trailer.preview_image_url,
+                                                        full_sized_preview_image_url: trailer.full_sized_preview_image_url,
+                                                        url: screenshot.url,
+                                                        family:device_type)
+         end
+      end
+  end
+end
+
+
+credential = ItunesConnect::Credential.find(22)
+# ItunesConnect::Credential.all.each do |credential|
+  Spaceship::Tunes.login(credential.username, credential.password)
+  credential.apps.each do |app|
+      puts "===================> #{app.name} #{app.id}"
+      Spaceship::Tunes.client.team_id = app.team.content_provider_id
+      tune_app = Spaceship::Tunes::Application.find(app.apple_id)
+      live_version = tune_app.live_version
+      edit_version = tune_app.edit_version
+
+      create_screenshot(edit_version,app,false) unless edit_version.blank? || app.edit_version.blank?
+      create_screenshot(live_version,app,true) unless live_version.blank? || app.live_version.blank?
+  end
+#end
+
+Spaceship::Tunes.client.team_id = app.team.content_provider_id
+tune_app = Spaceship::Tunes::Application.find(app.apple_id)
+live_version = tune_app.live_version
+edit_version = tune_app.edit_version
+
+create_screenshot(live_version,app,true) unless live_version.blank?
+create_screenshot(edit_version,app,false) unless edit_version.blank?
+
+app = ItunesConnect::App.find(2728)
+tune_app = app.fetch_app
+live_version = tune_app.live_version
+edit_version = tune_app.edit_version
+create_screenshot(edit_version,app,false) unless edit_version.blank? || app.edit_version.blank?
+create_screenshot(live_version,app,true) unless live_version.blank? || app.live_version.blank?
+
+
+
+live_version.description.languages.each do |l|
+  screenshots = live_version.screenshots[l]
+  devices = screenshots.group_by {|x| x.device_type}
+  raw_data_details = live_version.raw_data["details"]["value"]
+  language_details = raw_data_details.find { |d| d["language"] == l }["displayFamilies"]["value"]
+  language_details.each do |details|
+    next if ['watchSeries4','watch'].include?(details["name"])
+    device =  details["name"]
+    scaled = details["scaled"]["value"]
+
+    puts "#{device} - #{l} - #{scaled} "
+  end
+end
+
+ItunesConnect::App.all.each do |app|
+  begin
+    tune_app
+  rescue ExceptionName
+
+  end
+end
