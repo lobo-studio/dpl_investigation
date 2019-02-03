@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les types de loyers impayés
-image_preview_image_path: /assets/img/Gadgets.jpg
+image_preview_image_path: /assets/img/prêt bancaire.jpg
 permalink: '/blog/:title'
 ---
 
@@ -20,6 +20,8 @@ De plus en plus fr&eacute;quemment, une assurance est mise en place pour &eacute
 Le deuxi&egrave;me type de loyer impay&eacute; concerne le pr&ecirc;t bancaire. Durant sa vie, une personne peut prendre plusieurs cr&eacute;dits aupr&egrave;s de sa banque pour acheter un bien immobilier, un cr&eacute;dit &agrave; la consommation etc. ….
 
 Pour ce, il faut d&eacute;montrer &agrave; sa banque que le cr&eacute;dit pourra &ecirc;tre rembours&eacute; r&eacute;guli&egrave;rement au d&eacute;lai annonc&eacute;. En g&eacute;n&eacute;ral, ce remboursement est mensuel. Pour ce, la banque va v&eacute;rifier les revenus d&eacute;clar&eacute;s, le patrimoine etc.
+
+![](/assets/img/Impayé.jpg)
 
 Si les conditions ne sont pas r&eacute;unies le pr&ecirc;t ne sera pas accord&eacute;. A l’inverse si les conditions sont r&eacute;unies, le pr&ecirc;t sera accord&eacute;. Mais, pour plusieurs raisons, un changement de revenus ou autres, la personne peut ne plus pouvoir rembourser &agrave; chaque &eacute;ch&eacute;ance. Il y a donc un loyer impay&eacute;.
 
