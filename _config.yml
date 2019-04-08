@@ -66,6 +66,7 @@ _options:
     numberedlist: true
     bulletedlist: true
     image: true
+    embed: true 
 
   _block:
     left: align-left
