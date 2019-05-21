@@ -3,7 +3,7 @@ layout: post
 title: >-
   Détective privé et huissier de justice : pas de rivalité mais une
   complémentarité
-image_preview_image_path: /assets/img/Collaboration-2.jpg
+image_preview_image_path: /uploads/Collaboration-2.jpg
 permalink: '/blog/:title'
 ---
 
