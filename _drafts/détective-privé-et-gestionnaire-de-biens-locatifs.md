@@ -11,13 +11,13 @@ Devenir locataire aujourd’hui peut &ecirc;tre compliqu&eacute;, : un salaire d
 Un v&eacute;ritable parcours du combattant pour certaines personnes. Une grande partie de ces derni&egrave;res, c’est pour avoir un profil plus attirant et avoir plus de chance d’avoir une r&eacute;ponse positive, d’autres c’est pour avoir un appartement et ne pas payer les loyers.
 {: .full-width-text}
 
-**Cela peut entrainer des dossiers falsifi&eacute;s plus ou moins importants. Comment faire pour les d&eacute;masquer ? Qu’est ce qu’un d&eacute;tective priv&eacute; peut apporter dans la balance ?**
+**Cela peut entra&icirc;ner des dossiers falsifi&eacute;s plus ou moins importants. Comment faire pour les d&eacute;masquer ? Qu’est ce qu’un d&eacute;tective priv&eacute; peut apporter dans la balance ?**
 {: .full-width-text}
 
 ### Les diff&eacute;rents mensonges des dossiers de locations
 {: .full-width-text}
 
-De plus en plus d’agence immobili&egrave;re ou gestionnaire de biens locatifs font appel &agrave; des Garanties de Loyers Impay&eacute;s ou GLI (lien vers l’article), pour parer les mauvais payeurs. Cependant, si la Garantie estime que le dossier est faux et que l’agence aurait d&ucirc; le refuser, cette assurance ne sera pas appliqu&eacute;e.
+De plus en plus d’agence immobili&egrave;re ou gestionnaire de biens locatifs font appel &agrave; des Garanties de Loyers Impay&eacute;s ou GLI ([lien vers l’article](https://dlp-investigations.fr/blog/locataire-parti-sans-payer)), pour parer les mauvais payeurs. Cependant, si la Garantie de Loyers Impay&eacute;s estime que le dossier est faux et que l’agence aurait d&ucirc; le refuser, cette assurance ne sera pas appliqu&eacute;e.
 {: .full-width-text}
 
 ![](/assets/img/Logements .jpg)
@@ -29,17 +29,17 @@ Pour obtenir une location, le dossier peut contenir des informations enrob&eacut
 Les plus connus sont :
 {: .full-width-text}
 
-* La colocation dissimul&eacute;e{: .full-width-text}
+* La colocation dissimul&eacute;e
 
 Beaucoup d’agence ou de particuliers sont r&eacute;calcitrant &agrave; la colocation. Pour parer cela, soit la location est au nom que d’une seule personne sur les deux, soit au nom des deux mais sous forme de conjoint.
 {: .full-width-text}
 
-* L’&eacute;tudiant sur le papier{: .full-width-text}
+* L’&eacute;tudiant sur le papier
 
 Lorsqu’une personne est jeune entrepreneur, et donc n’a pas de fiche de paie et a un statut de travailleur pr&eacute;caire, il peut retoucher un certificat de scolarit&eacute; pour redevenir un &eacute;tudiant sur le papier. Avec la caution des parents, il aura plus de chance d’avoir un &laquo; oui &raquo;.
 {: .full-width-text}
 
-* Le salaire gonfl&eacute;{: .full-width-text}
+* Le salaire gonfl&eacute;
 
 Un salaire repr&eacute;sentant trois &agrave; quatre fois le loyer… Pas une chose facile. Une retouche sur le bulletin de salaire est quelque chose de r&eacute;guli&egrave;rement vu. Ainsi le tour est jou&eacute;.
 {: .full-width-text}
@@ -77,12 +77,12 @@ En effet, nous pourrons vous indiquer rapidement si les informations sont vraies
 DLP Investigations &eacute;tablira si les documents ou informations suscit&eacute;s sont v&eacute;ridiques ou non :
 {: .full-width-text}
 
-* Contrat de l’employeur{: .full-width-text}
-* Fiche de paie{: .full-width-text}
-* Coh&eacute;rence des salaires bruts, nets et charges{: .full-width-text}
-* Caution{: .full-width-text}
-* Ancien bailleur{: .full-width-text}
-* …{: .full-width-text}
+* Contrat de l’employeur
+* Fiche de paie
+* Coh&eacute;rence des salaires bruts, nets et charges
+* Caution
+* Ancien bailleur
+* …
 
 Un rapport recevable ([lien vers l’article](https://dlp-investigations.fr/la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/)) d’enqu&ecirc;te sera remis &agrave; la fin de l’enqu&ecirc;te, de part sa r&egrave;glementation ([lien vers l’article](https://dlp-investigations.fr/le-code-de-deontologie/)).
 {: .full-width-text}
