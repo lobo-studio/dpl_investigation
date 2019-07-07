@@ -20,7 +20,7 @@ categories:
 Des doutes et des questions peuvent prendre la t&ecirc;te et ne plus sortir. Demander de l’aide afin de trouver les r&eacute;ponses peut &ecirc;tre n&eacute;cessaire. **Un rapport d'enqu&ecirc;te pourra, ainsi, vous apporter les r&eacute;sultats d'une enqu&ecirc;te.**
 {: .full-width-text}
 
-Comment se passe une mission de d&eacute;tective de A &agrave; Z ? Quelles sont les informations n&eacute;cessaires afin de mener &agrave; bien l’enqu&ecirc;te ?<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
+Comment se passe une mission de d&eacute;tective de A &agrave; Z ? Quelles sont les informations n&eacute;cessaires afin de mener &agrave; bien l’enqu&ecirc;te ?<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2wk5ehq70tvm75ppavbpddkq8eb8cdm6guvaehv6gdkmemtpmxbme0vk0w3g6ht64uv3dnu6pd1dc9gq6t9k68-base32-->
 {: .full-width-text}
 
 ### Etape 1 : L’appel t&eacute;l&eacute;phonique
@@ -38,7 +38,7 @@ Lors de ce rendez-vous, nous &eacute;tablirons les points cl&eacute;s de l’enq
 Il faut donc, que le client apporte le maximum d’information tel que nom, pr&eacute;nom, date de naissance, lieu de naissance, derni&egrave;re adresse connue, photo et autres. Toute information pourra nous aider &agrave; un moment ou &agrave; un autre.
 {: .full-width-text}
 
-![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=190%2C120&amp;ssl=1){: .wp-image-193.alignleft srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 190px) 100vw, 190px"}
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=190%2C120&amp;ssl=1){: .wp-image-193.alignleft srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?resize=300%2C189&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/Rencontre-filigrane.png?w=415&amp;ssl=1 415w" sizes="(max-width: 190px) 100vw, 190px"}![](/uploads/poigner-de-main.png){: width="415" height="261"}
 {: .full-width-text}
 
 A la fin de ce rendez-vous, si les 2 parties sont d’accord, un contrat sera sign&eacute;. Celui-ci comporte les informations l&eacute;gales ainsi que les conditions.
@@ -77,10 +77,7 @@ Concernant celui des fileurs, il contient les observations durant les surveillan
 Des photos ou des constatations internet pourront &ecirc;tre int&eacute;gr&eacute;s au rapport d’enqu&ecirc;te final pour assoir les dires.
 {: .full-width-text}
 
-### Etape 5 : Suivi de l’enqu&ecirc;te
-{: .full-width-text}
-
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=173%2C115&amp;ssl=1){: .wp-image-192.alignright}
+### Etape 5 : Suivi de l’enqu&ecirc;te![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=173%2C115&amp;ssl=1){: .wp-image-192.alignright}
 {: .full-width-text}
 
 Le suivi d’enqu&ecirc;te nous permettra de savoir si les r&eacute;sultats trouv&eacute;s r&eacute;pondent &agrave; la question premi&egrave;re. Si des doutes
@@ -92,7 +89,7 @@ persistent, ou de nouvelles questions sont venues, des investigations pourront &
 ### Etape 6 : Le rapport d’enqu&ecirc;te
 {: .full-width-text}
 
-A la fin de l’investigation, un rapport d’enqu&ecirc;te sera r&eacute;alis&eacute;. Ce dernier comporte les comptes-rendus des fileurs et enqu&ecirc;teurs. Il est bien s&ucirc;r recevable en justice !
+A la fin de l’investigation, un rapport d’enqu&ecirc;te sera r&eacute;alis&eacute;. Ce dernier comporte les comptes-rendus des fileurs et enqu&ecirc;teurs. Il est bien s&ucirc;r recevable en justice \!
 {: .full-width-text}
 
 Il peut &ecirc;tre la pi&egrave;ce du puzzle manquante lors d’une instance.
@@ -103,3 +100,6 @@ Il peut &ecirc;tre la pi&egrave;ce du puzzle manquante lors d’une instance.
 
 Lors de ce dernier rendez-vous, le rapport d’enqu&ecirc;te sera remis &agrave; l’avocat ou au client, ainsi que la facture finale et le r&eacute;capitulatif des heures pour les filatures.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
