@@ -32,7 +32,7 @@ Avant le divorce, il peut avoir une s&eacute;paration de corps. Ce jugement perm
 ### Les 3 types de divorces contentieux
 {: .full-width-text}
 
-![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=286%2C126&amp;ssl=1){: .wp-image-236.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=300%2C132&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=768%2C338&amp;ssl=1 768w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?w=960&amp;ssl=1 960w" sizes="(max-width: 286px) 100vw, 286px"}
+![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=286%2C126&amp;ssl=1){: .wp-image-236.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=300%2C132&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?resize=768%2C338&amp;ssl=1 768w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/divorce-908743_960_720.png?w=960&amp;ssl=1 960w" sizes="(max-width: 286px) 100vw, 286px"}![](/uploads/divorce-contentieux.png){: width="300" height="132"}
 {: .full-width-text}
 
 Ces divorces sont divis&eacute;s en 2.
@@ -70,9 +70,6 @@ La proc&eacute;dure se d&eacute;roule en trois phases.
 
 * La premi&egrave;re est l’audience de conciliation.
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=284%2C213&amp;ssl=1){: .wp-image-237.alignleft srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 284px) 100vw, 284px"}
-{: .full-width-text}
-
 Si celle-ci n’aboutit pas, le juge pourra fixer dans une ordonnance de non conciliation (ONC) les mesures temporaires jusqu’&agrave; la fin de la proc&eacute;dure du divorce.
 {: .full-width-text}
 
@@ -100,3 +97,6 @@ C’est uniquement en cas de patrimoine &agrave; partager ou dettes &agrave; fai
 
 Le rapport d’enqu&ecirc;te final pourra &ecirc;tre utilis&eacute; par les professionnels de droit durant toute la proc&eacute;dure de divorce, dans le respect de la confidentialit&eacute; et respect des libert&eacute;s fondamentales.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
