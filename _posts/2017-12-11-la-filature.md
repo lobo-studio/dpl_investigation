@@ -17,13 +17,13 @@ categories:
   - Blog
 ---
 
-Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratique la filature, r&eacute;guli&egrave;rement, les personnes me regardent avec des yeux ronds comme des billes, en disant **&laquo; Mais tu suis des personnes dans la rue en moto ? &raquo;. Eh bien oui ! Mais avec certaines conditions.**
+Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratique la filature, r&eacute;guli&egrave;rement, les personnes me regardent avec des yeux ronds comme des billes, en disant **&laquo; Mais tu suis des personnes dans la rue en moto ? &raquo;. Eh bien oui \! Mais avec certaines conditions.**
 {: .full-width-text}
 
 Un fileur doit respecter les libert&eacute;s fondamentales, la vie priv&eacute;e et le code de la route durant toute la mission. En m&ecirc;me temps, ce dernier doit observer les moindre faits et gestes et rester discret pour ne pas se faire voir.
 {: .full-width-text}
 
-Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre pr&eacute;sent afin de maximiser la r&eacute;ussite ? Quels sont les &eacute;quipements des fileurs ?<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2wk5ehq70tvm75ppavbpddkq8eb8cdm6guvaehv6gdkmemtpmxbme0vk0w3g6ht64uv3dnu6pd1dc9gq6t9k68-base32-->
+Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre pr&eacute;sent afin de maximiser la r&eacute;ussite ? Quels sont les &eacute;quipements des fileurs ?<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
 {: .full-width-text}
 
 ### Un ou plusieurs fileurs
@@ -32,7 +32,7 @@ Comment se d&eacute;roule une filature ? Combien de fileurs doivent &ecirc;tre p
 Il existe 2 types de filatures : pi&eacute;tonne et v&eacute;hicul&eacute;e.
 {: .full-width-text}
 
-![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/filature.jpg?resize=189%2C126&amp;ssl=1){: .wp-image-47.alignleft}
+![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/filature.jpg?resize=189%2C126&amp;ssl=1){: .wp-image-47.alignleft}![](/uploads/blog-1.jpg){: width="520" height="320"}
 {: .full-width-text}
 
 En effet, lorsque la personne se d&eacute;place qu’&agrave; pied ou en transport en commun, nous privil&eacute;gions la filature pi&eacute;tonne afin d’avoir une observation maximum. Beaucoup de choses peuvent se passer et se dire dans un bus ou dans le m&eacute;tro.
@@ -67,3 +67,6 @@ Enfin, l’un des &eacute;quipements importants du fileur, surtout le fileur mot
 
 Bien s&ucirc;r, tous les mat&eacute;riels &eacute;lectroniques doivent &ecirc;tre recharg&eacute;s et entretenus avant tout d&eacute;part de mission afin d’&eacute;viter toutes surprises mal venues.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
