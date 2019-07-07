@@ -42,6 +42,8 @@ Une recherche sur tout le territoire national est extr&ecirc;mement co&ucirc;teu
 
 * La recherche de domiciliation bancaire
 
+![](/uploads/compte-bancaire-1.jpg){: width="275" height="183"}
+
 Cette recherche permettra de savoir o&ugrave; se situe les comptes bancaires d’une personne physique ou d’une personne morale. Pout une recherche pertinente, il faudra l’&eacute;tat civil de la personne physique et le SIREN de la personne morale. Un huissier pourra par la suite se pr&eacute;senter &agrave; la banque afin de proc&eacute;der &agrave; une saisie d’attribution.
 {: .full-width-text}
 
@@ -60,9 +62,6 @@ De plus, si vous avez d&eacute;j&agrave; des &eacute;l&eacute;ments de solvabili
 {: .full-width-text}
 
 La r&eacute;alisation respecte tous les textes de lois, afin que le rapport d’enqu&ecirc;te soit recevable en justice.
-{: .full-width-text}
-
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=175%2C116&amp;ssl=1){: .wp-image-192.alignright}![](/uploads/compte-bancaire.jpg){: width="275" height="183"}
 {: .full-width-text}
 
 Cette enqu&ecirc;te de solvabilit&eacute; via ce rapport, peut &ecirc;tre n&eacute;cessaire pour recouvrer une cr&eacute;ance (facture ou loyer impay&eacute;), l’ex&eacute;cution d’une d&eacute;cision de justice, l’achat de part dans une soci&eacute;t&eacute; etc…
