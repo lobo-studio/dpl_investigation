@@ -1,6 +1,6 @@
 ---
 id: 244
-title: Le divorce par consentement mutuel ou à l&rsquo;amiable
+title: Le divorce par consentement mutuel ou à l'amiable
 date: 2018-03-26 10:00:00
 author: Delphine
 layout: post
@@ -83,3 +83,6 @@ Les annexes qui font l’objet d’un d&eacute;p&ocirc;t sont les suivantes :
 * Acte d’attribution d’un bien si la prestation compensatoire est en nature
 * Formulaire de demande d’audition de tous les enfants mineurs
 * Conventions r&eacute;dig&eacute;es en langue &eacute;trang&egrave;re
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
