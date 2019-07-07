@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Lorsque j’explique que **le rapport d’enqu&ecirc;te d’un d&eacute;tective priv&eacute; est recevable**, certaines personnes r&eacute;pondent **&laquo; Ah bon ?! Recevable en justice ?! Nooon ?! &raquo;**, avec des yeux ronds comme des billes. Cette situation est arriv&eacute;e plus d’une fois.
+Lorsque j’explique que **le rapport d’enqu&ecirc;te d’un d&eacute;tective priv&eacute; est recevable**, certaines personnes r&eacute;pondent **&laquo; Ah bon ?\! Recevable en justice ?\! Nooon ?\! &raquo;**, avec des yeux ronds comme des billes. Cette situation est arriv&eacute;e plus d’une fois.
 {: .full-width-text}
 
 Un rapport d’enqu&ecirc;te d’un d&eacute;tective a force de preuve durant une instance, la pi&egrave;ce du puzzle manquante d’un dossier.
@@ -37,7 +37,7 @@ Nous avons au moins 3 arr&ecirc;ts confirmant la recevabilit&eacute; d’un rapp
 Cet arr&ecirc;t a &eacute;t&eacute; rendu par la deuxi&egrave;me chambre civile de la cour de Cassation.
 {: .full-width-text}
 
-&laquo; *[…] Attendu qu’il est fait grief &agrave; l’arr&ecirc;t d’avoir prononc&eacute; le divorce, aux torts de dame G…, en se fondant uniquement sur les d&eacute;positions de d&eacute;tectives, appoint&eacute;s par son mari, sans r&eacute;pondre aux conclusions de dame G… qui soutenait que ces d&eacute;positions devaient &ecirc;tre &eacute;cart&eacute;es, les dits t&eacute;moins &eacute;tant li&eacute;s par les rapports qu’ils lui avaient fournis en 1953 ;*<br>*Attendu que, tout en remarquant que de telles d&eacute;positions doivent &ecirc;tre accept&eacute;es avec prudence, l’arr&ecirc;t rel&egrave;ve, tant par ses motifs propres que par ceux qu’il adopte, que dame G… n’avait produit aucun &eacute;l&eacute;ment contredisant les faits pr&eacute;cis relat&eacute;s par les personnes charg&eacute;es de sa filature, dont les d&eacute;clarations n’&eacute;taient empreintes d’aucune animosit&eacute; ;*&raquo;
+&laquo; *\[…\] Attendu qu’il est fait grief &agrave; l’arr&ecirc;t d’avoir prononc&eacute; le divorce, aux torts de dame G…, en se fondant uniquement sur les d&eacute;positions de d&eacute;tectives, appoint&eacute;s par son mari, sans r&eacute;pondre aux conclusions de dame G… qui soutenait que ces d&eacute;positions devaient &ecirc;tre &eacute;cart&eacute;es, les dits t&eacute;moins &eacute;tant li&eacute;s par les rapports qu’ils lui avaient fournis en 1953 ;*<br>*Attendu que, tout en remarquant que de telles d&eacute;positions doivent &ecirc;tre accept&eacute;es avec prudence, l’arr&ecirc;t rel&egrave;ve, tant par ses motifs propres que par ceux qu’il adopte, que dame G… n’avait produit aucun &eacute;l&eacute;ment contredisant les faits pr&eacute;cis relat&eacute;s par les personnes charg&eacute;es de sa filature, dont les d&eacute;clarations n’&eacute;taient empreintes d’aucune animosit&eacute; ;*&raquo;
 {: .full-width-text}
 
 Pour la premi&egrave;re fois, la plus haute juridiction fran&ccedil;aise a valid&eacute; l’arr&ecirc;t de la cour d’appel concernant la recevabilit&eacute; d’un rapport de d&eacute;tective priv&eacute;.
@@ -65,7 +65,7 @@ Afin qu’un rapport soit recevable en justice, certains points doivent &ecirc;t
 Dans un premier temps, en mati&egrave;re civile et commerciale, l’article 9 du Nouveau Code de Proc&eacute;dure Civil dispose qu’&laquo; *il incombe &agrave; chaque partie de prouver conform&eacute;ment &agrave; la loi les faits n&eacute;cessaires au succ&egrave;s de sa pr&eacute;tention.* &raquo;.
 {: .full-width-text}
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1){: .size-medium.wp-image-237.alignleft srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 300px) 100vw, 300px"}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1){: .size-medium.wp-image-237.alignleft srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/tribunaux.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 300px) 100vw, 300px"}![](/uploads/cr.jpg){: width="275" height="183"}
 {: .full-width-text}
 
 En mati&egrave;re p&eacute;nale, l’article 427 du Code de Proc&eacute;dure P&eacute;nale dispose que &laquo; *hors les cas o&ugrave; la loi en dispose autrement, les infractions peuvent &ecirc;tre &eacute;tablies par tout mode de preuve et le juge d&eacute;cide d’apr&egrave;s son intime conviction. Le juge ne peut fonder sa d&eacute;cision que sur des preuves qui lui sont apport&eacute;es au cours des d&eacute;bats et contradictoirement discut&eacute;es devant lui.* &raquo;.
@@ -92,5 +92,5 @@ Dans une affaire opposant un salari&eacute; &agrave; son employeur, le rapport d
 Le rapport du d&eacute;tective priv&eacute; sera donc recevable pour le c&ocirc;t&eacute; civil et p&eacute;nal du dossier, car les juges du civil et du p&eacute;nal ne sont pas tenus par le code du travail. Il sera aussi admissible au prud’homme, si seulement la surveillance du salari&eacute; aura respect&eacute; les droits du salari&eacute;.
 {: .full-width-text}
 
-&nbsp;
-{: .full-width-text}
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
