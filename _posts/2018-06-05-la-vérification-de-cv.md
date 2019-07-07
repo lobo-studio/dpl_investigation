@@ -52,7 +52,7 @@ Certains candidats afin de mentionner la dur&eacute;e d’un poste peuvent mettr
 Afin de mieux repr&eacute;senter le poste d’embauche, un candidat peut augmenter ses pr&eacute;c&eacute;dentes responsabilit&eacute;s, comme passer de conseiller en vente &agrave; responsable adjoint d’une boutique.
 {: .full-width-text}
 
-![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=272%2C272&amp;ssl=1){: .wp-image-281.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?w=720&amp;ssl=1 720w" sizes="(max-width: 272px) 100vw, 272px"}
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=272%2C272&amp;ssl=1){: .wp-image-281.alignright srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/CV.png?w=720&amp;ssl=1 720w" sizes="(max-width: 272px) 100vw, 272px"}![](/uploads/vérification-1.jpg){: width="295" height="171"}
 {: .full-width-text}
 
 Pour mieux se valoriser, un candidat peut aussi gonfler ses statistiques professionnelles. Par exemple, pour la sph&egrave;re immobili&egrave;re, le candidat peut sp&eacute;cifier qu’il a vendu 17 lots immobiliers pour une valeur de 20 millions d’euros alors que la r&eacute;alit&eacute; est plut&ocirc;t de 15 lots pour 14 millions d’euros.
@@ -93,3 +93,6 @@ A compter r&eacute;ception de ces &eacute;l&eacute;ments, la v&eacute;rification
 
 Et enfin, ce qui est tr&egrave;s important, tous les moyens de contr&ocirc;le du salari&eacute; ou du candidat &agrave; l’embauche doivent &ecirc;tre port&eacute;s au pr&eacute;alable &agrave; sa connaissance. Si cela n’est pas le cas, les &eacute;l&eacute;ments recueillis ne pourront pas &ecirc;tre utilis&eacute;s.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
