@@ -88,3 +88,6 @@ Nous apportons la pi&egrave;ce manquante du dossier, que ce soit pour r&eacute;p
 
 Le m&eacute;tier de d&eacute;tective priv&eacute; est en perp&eacute;tuelle &eacute;volution, en fonction des nouveaut&eacute;s juridiques, technologiques etc. C’est pour cela, que nous nous renseignons r&eacute;guli&egrave;rement afin de pouvoir toujours r&eacute;pondre au mieux &agrave; la demande.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
