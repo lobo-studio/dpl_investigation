@@ -20,7 +20,7 @@ categories:
 Combien co&ucirc;te une prestation ? **Combien &ccedil;a co&ucirc;te ?&nbsp;**
 {: .full-width-text}
 
-Voil&agrave; l’une des premi&egrave;res questions qui nous est pos&eacute;e. Pour y r&eacute;pondre pr&eacute;cis&eacute;ment, il nous faudra l&eacute;g&egrave;rement plus de d&eacute;tail.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+Voil&agrave; l’une des premi&egrave;res questions qui nous est pos&eacute;e. Pour y r&eacute;pondre pr&eacute;cis&eacute;ment, il nous faudra l&eacute;g&egrave;rement plus de d&eacute;tail.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
 {: .full-width-text}
 
 Il faut savoir que chaque agence a son propre tarif. Les diff&eacute;rences existent entre les m&eacute;tropoles et la province, la difficult&eacute; de la mission, l’exp&eacute;rience et la r&eacute;putation de l’agence et bien s&ucirc;r le temps pass&eacute;. Ainsi, nous n’&eacute;voquerons qu’une fourchette de prix.
@@ -35,7 +35,7 @@ Il faut savoir que chaque agence a son propre tarif. Les diff&eacute;rences exis
 Ces missions regroupent tout ce qui est filatures et surveillances.
 {: .full-width-text}
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?resize=260%2C173&amp;ssl=1){: .wp-image-157.alignleft srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 260px) 100vw, 260px"}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?resize=260%2C173&amp;ssl=1){: .wp-image-157.alignleft srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Honoraire.jpg?w=960&amp;ssl=1 960w" sizes="(max-width: 260px) 100vw, 260px"}![](/uploads/saisie-salaire.jpg){: width="565" height="296"}
 {: .full-width-text}
 
 Pour un fileur seul &agrave; Paris ou pour les grandes villes, les tarifs sont entre 80 euros et 170 euros hors taxe de l’heure, alors qu’en province nous sommes plus entre 50 euros et 100 euros hors taxe de l’heure, sachant que le d&eacute;compte est entre le d&eacute;part et le retour &agrave; l’agence. Si un bin&ocirc;me est mis en place, ce qui est fortement conseill&eacute;, une remise sera faite pour le deuxi&egrave;me fileur. Celle-ci sera calcul&eacute;e en fonction de l’agence.
@@ -97,3 +97,6 @@ Il faut savoir que les frais peuvent &ecirc;tre rembours&eacute;s par la partie 
 
 En ce qui concerne les proc&eacute;dures administratives, les frais seront rembours&eacute;s par la partie perdante, comme le dispose l’article L756-1 du code de Justice Administrative &laquo; Dans toutes les instances, le juge condamne la partie tenue aux d&eacute;pens ou, &agrave; d&eacute;faut, la partie perdante, &agrave; payer &agrave; l’autre partie la somme qu’il d&eacute;termine, au titre des frais expos&eacute;s et non compris dans les d&eacute;pens. Le juge tient compte de l’&eacute;quit&eacute; ou de la situation &eacute;conomique de la partie condamn&eacute;e. Il peut, m&ecirc;me d’office, pour des raisons tir&eacute;es des m&ecirc;mes consid&eacute;rations, dire qu’il n’y a pas lieu &agrave; cette condamnation. &raquo;
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
