@@ -32,7 +32,7 @@ Vous arrive-t-il souvent de voir un homme habill&eacute; d’un long trench, coi
 Mais quelle est la diff&eacute;rence entre ce que nous pouvons voir &agrave; la t&eacute;l&eacute;vision via des films et s&eacute;ries et de ce que nous pouvons lire face &agrave; la r&eacute;alit&eacute; ?
 {: .full-width-text}
 
-**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
 {: .full-width-text}
 
 ### La science-fiction vs le r&eacute;el
@@ -47,7 +47,7 @@ Qui ne connait pas les d&eacute;tectives ou assimil&eacute;s &nbsp;des films, s&
 Les 3 grands de la science-fiction :
 {: .full-width-text}
 
-#### ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Hercule-poirot.png?resize=180%2C196&amp;ssl=1){: .wp-image-78.alignleft srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Hercule-poirot.png?resize=275%2C300&amp;ssl=1 275w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Hercule-poirot.png?w=660&amp;ssl=1 660w" sizes="(max-width: 180px) 100vw, 180px"}
+#### ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Hercule-poirot.png?resize=180%2C196&amp;ssl=1){: .wp-image-78.alignleft srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Hercule-poirot.png?resize=275%2C300&amp;ssl=1 275w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Hercule-poirot.png?w=660&amp;ssl=1 660w" sizes="(max-width: 180px) 100vw, 180px"}![](/uploads/hercule-poirot.png){: width="660" height="720"}
 {: .full-width-text}
 
 #### &nbsp;
@@ -62,13 +62,7 @@ Apr&egrave;s avoir pass&eacute; plusieurs ann&eacute;es dans la police belge, He
 Il apparait dans 33 romans et 51 nouvelles d’Agatha Christie entre 1920 et 1975. Une s&eacute;rie a &eacute;t&eacute; diffus&eacute;e de 1989 &agrave; 2013 avec comme acteur principal David Suchet.
 {: .full-width-text}
 
-&nbsp;
-{: .full-width-text}
-
-#### ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Miss-Marple-1.png?resize=204%2C155&amp;ssl=1){: .wp-image-84.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Miss-Marple-1.png?resize=300%2C228&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Miss-Marple-1.png?w=607&amp;ssl=1 607w" sizes="(max-width: 204px) 100vw, 204px"}
-{: .full-width-text}
-
-&nbsp;
+![](/uploads/miss-marple.png){: width="607" height="462"}
 {: .full-width-text}
 
 **Miss Marple, la vieille femme innocente, seconde d&eacute;tective connue d’Agatha Christie**
@@ -80,13 +74,7 @@ Miss Jane Marple &eacute;lucide des enqu&ecirc;tes, majoritairement des crimes, 
 Miss Marple apparait dans 12 romans et 20 nouvelles. Deux s&eacute;ries ont &eacute;t&eacute; diffus&eacute;es, la premi&egrave;re de 1984 &agrave; 1992 et la seconde de 2004 &agrave; 2013. Plusieurs actrices ont jou&eacute; ce r&ocirc;le tel que Julia McKenzie ou G&eacute;raldine McEwan.
 {: .full-width-text}
 
-## &nbsp;
-{: .full-width-text}
-
-#### ![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2017/10/Sherlock-holmes.png?resize=138%2C210&amp;ssl=1){: .wp-image-79.alignleft}
-{: .full-width-text}
-
-#### &nbsp;
+## ![](/uploads/sherlock-holmes.png){: width="182" height="277"}
 {: .full-width-text}
 
 **Sherlock Holmes, dont l’&eacute;crivain est Arthur Conan Doyle, est r&eacute;put&eacute; et connu par tous les films, s&eacute;ries et livres diffus&eacute;s**
@@ -124,3 +112,5 @@ Les enqu&ecirc;tes types des films, des s&eacute;ries et des livres relatent des
 
 Ainsi, les d&eacute;tectives de l’&eacute;cran et des &eacute;critures sont tr&egrave;s int&eacute;ressants, mais il ne faut pas les confondre avec ceux de la vraie vie.
 {: .full-width-text}
+
+<div class="center-this-text"><strong>L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au <a href="https://dlp-investigations.fr/#contact">formulaire de contact</a>.</strong></div>
