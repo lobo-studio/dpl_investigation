@@ -64,28 +64,28 @@ Cette formation est accessible &agrave; toutes personnes poss&eacute;dant un bac
 Aujourd’hui, il existe quatre centres de formations : Paris (Ecole Sup&eacute;rieure des Agents de Recherche Priv&eacute;e), Montpellier (Institut de Formation des Agents de Recherche), Panth&eacute;on-Assas Melun et N&icirc;mes.
 {: .full-width-text}
 
-ESARP
+<u>ESARP</u>
 {: .full-width-text}
 
 * Paris
 * CQP<br>Dur&eacute;e : 6 mois<br>Formation : 360 heures<br>Stage : 280 heures
 * Titre<br>Dur&eacute;e : 1 an<br>Formation : 700 heures<br>Stage : 420 heures
 
-IFAR
+<u>IFAR</u>
 {: .full-width-text}
 
 * Montpellier
 * CQP<br>Dur&eacute;e : 6 mois<br>Formation : 360 heures<br>Stage : 280 heures
 * Titre<br>Dur&eacute;e : 1 an<br>Formation : 700 heures<br>Stage : 500 heures
 
-Panth&eacute;on-Assas
+<u>Panth&eacute;on-Assas</u>
 {: .full-width-text}
 
 * Melun
 * CQP<br>Dur&eacute;e : 1 an&nbsp;<br>Formation : 230 heures<br>Stage : 0 heure
 * Titre<br>Dur&eacute;e : 1 an<br>Formation : 360 heures<br>Stage : 400 heures
 
-Universit&eacute; de N&icirc;mes
+<u>Universit&eacute; de N&icirc;mes</u>
 {: .full-width-text}
 
 * N&icirc;mes
