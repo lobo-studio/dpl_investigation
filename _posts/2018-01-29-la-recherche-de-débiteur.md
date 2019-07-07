@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Depuis que je pratique le m&eacute;tier de d&eacute;tective priv&eacute; ou agent de recherche priv&eacute;e, plusieurs personnes m’ont dit &laquo; Un d&eacute;tective son m&eacute;tier est uniquement la filature, rien d’autre &raquo;. Lorsque je r&eacute;pond par une r&eacute;ponse n&eacute;gative, car **n****ous ne faisons pas que de la filature**, ils me disent **&laquo; Ah bon ?! Mais que faites-vous donc ? Quelles sont les autres prestations ? &raquo;**.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+Depuis que je pratique le m&eacute;tier de d&eacute;tective priv&eacute; ou agent de recherche priv&eacute;e, plusieurs personnes m’ont dit &laquo; Un d&eacute;tective son m&eacute;tier est uniquement la filature, rien d’autre &raquo;. Lorsque je r&eacute;pond par une r&eacute;ponse n&eacute;gative, car **n****ous ne faisons pas que de la filature**, ils me disent **&laquo; Ah bon ?\! Mais que faites-vous donc ? Quelles sont les autres prestations ? &raquo;**.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
 {: .full-width-text}
 
 En effet, notre m&eacute;tier est compos&eacute; de 2 groupes de prestations : les enqu&ecirc;tes terrains avec les filatures et les enqu&ecirc;tes administratives, dont la recherche d’adresse et t&eacute;l&eacute;phone ou de d&eacute;biteur.
@@ -30,9 +30,6 @@ L’adresse postale d’une personne physique ou d’une personne morale est tr&
 {: .full-width-text}
 
 Le t&eacute;l&eacute;phone fixe ou portable d’une personne physique ou d’une personne morale permettra de contacter de mani&egrave;re orale et instantan&eacute;e cette derni&egrave;re.
-{: .full-width-text}
-
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/NPAI-1-filigrane.jpg?resize=122%2C122&amp;ssl=1){: .wp-image-204.alignright}
 {: .full-width-text}
 
 Dans certains cas, la personne est partie sans laisser d’adresse (PSA) ou n’habite pas &agrave; l’adresse indiqu&eacute;e (NPAI) et son t&eacute;l&eacute;phone n’est plus attribu&eacute; ou ne r&eacute;pond jamais.
@@ -86,3 +83,6 @@ Concernant la facturation, c’est au r&eacute;sultat. Si la recherche est posit
 
 Les visites domiciliaires et surveillances seront factur&eacute;es au forfait ou &agrave; l’heure selon le cas.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
