@@ -64,7 +64,32 @@ Cette formation est accessible &agrave; toutes personnes poss&eacute;dant un bac
 Aujourd’hui, il existe quatre centres de formations : Paris (Ecole Sup&eacute;rieure des Agents de Recherche Priv&eacute;e), Montpellier (Institut de Formation des Agents de Recherche), Panth&eacute;on-Assas Melun et N&icirc;mes.
 {: .full-width-text}
 
-<table><tbody><tr><td><p><u><strong>ESARP</strong></u></p></td><td><p><strong><span style="text-decoration: underline;">IFAR</span></strong></p></td><td><p><strong><span style="text-decoration: underline;">Panth&eacute;on-Assas</span></strong></p></td><td><p><strong><span style="text-decoration: underline;">Universit&eacute; de N&icirc;mes</span></strong></p></td></tr><tr><td><p>Paris</p></td><td><p>Montpellier</p></td><td><p>Melun</p></td><td><p>N&icirc;mes</p></td></tr><tr><td><ul><li>Le CQP</li></ul><p class="full-width-text">6 mois</p><p class="full-width-text">Formation 360 heures</p><p class="full-width-text">Stage :<br />280 heures&nbsp;</p></td><td><ul><li>Le CQP</li></ul><p class="full-width-text">6 mois</p><p class="full-width-text">Formation :<br />360 heures&nbsp;</p><p class="full-width-text">Stage :<br />280 heures&nbsp;</p></td><td><ul><li>Le CQP</li></ul><p class="full-width-text">1 an</p><p class="full-width-text">Formation :<br />230 heures&nbsp;</p><p class="full-width-text">Stage :<br />0 heure</p></td><td><p>&nbsp;</p></td></tr><tr><td><div><ul><li>Le Titre</li></ul><p>1 an</p><p>Formation :<br />700 heures&nbsp;</p><p>Stage :<br />420 heures&nbsp;</p></div></td><td><ul><li>Le Titre</li></ul><p class="full-width-text">1 an</p><p class="full-width-text">Formation :<br />700 heures&nbsp;</p><p class="full-width-text">Stage :<br />500 heures</p></td><td><ul><li>Le Titre</li></ul><p>1 an</p><p>Formation :<br />360 heures&nbsp;</p><p>Stage :<br />400 heures</p></td><td><ul><li>Le Titre</li></ul><p class="full-width-text">1 an</p><p class="full-width-text">Formation :<br />458 heures&nbsp;</p><p class="full-width-text">Stage :<br />490 heures&nbsp;</p></td></tr></tbody></table>
+ESARP
+{: .full-width-text}
+
+* Paris{: .full-width-text}
+* CQP<br>Dur&eacute;e : 6 mois<br>Formation : 360 heures<br>Stage : 280 heures{: .full-width-text}
+* Titre<br>Dur&eacute;e : 1 an<br>Formation : 700 heures<br>Stage : 420 heures{: .full-width-text}
+
+IFAR
+{: .full-width-text}
+
+* Montpellier{: .full-width-text}
+* CQP<br>Dur&eacute;e : 6 mois<br>Formation : 360 heures<br>Stage : 280 heures{: .full-width-text}
+* Titre<br>Dur&eacute;e : 1 an<br>FOrmation : 700 heures<br>Stage : 500 heures{: .full-width-text}
+
+Panth&eacute;on-Assas
+{: .full-width-text}
+
+* Melun{: .full-width-text}
+* CQP<br>Dur&eacute;e : 1 an&nbsp;<br>Formation : 230 heures<br>Stage : 0 heure{: .full-width-text}
+* Titre<br>Dur&eacute;e : 1 an<br>Formation : 360 heures<br>Stage : 400 heures{: .full-width-text}
+
+Universit&eacute; de N&icirc;mes
+{: .full-width-text}
+
+* N&icirc;mes{: .full-width-text}
+* Titre<br>Dur&eacute;e : 1 an<br>Formation : 458 heures<br>Stage : 490 heures{: .full-width-text}
 
 **L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
