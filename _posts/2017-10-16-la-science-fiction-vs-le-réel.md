@@ -32,7 +32,7 @@ Vous arrive-t-il souvent de voir un homme habill&eacute; d’un long trench, coi
 Mais quelle est la diff&eacute;rence entre ce que nous pouvons voir &agrave; la t&eacute;l&eacute;vision via des films et s&eacute;ries et de ce que nous pouvons lire face &agrave; la r&eacute;alit&eacute; ?
 {: .full-width-text}
 
-**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
+**Un d&eacute;tective dans la vie r&eacute;elle est-il vraiment un Holmes, un Poirot ou une Marple ?**<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw78utpchn3ee3p75nkcx3n6ru7cebh6tq74dtge9h72t34e8v3gx1kc9jk8xtq6huk6rb3chm72tb4ertp6u3n6tuq8u38cnpqcutmegtkgt1hd9rkgxkbc8v6gxtqcdt6gw34ehq3ec3metrkedbjddhp6rke6tw6gwb3cnh6gdkme4vk8t3mcxjkju1q61t78x3571v36tvr65np6ebadcw7gx3gccuq8dk7exnk6rv8drtp6y326hj66xkgc5v6pw1pe9u3ee3jd1t66vkm6xhp8utncnkq8w1megtpat1te8vp2y9hddhqguhpexw78w1pd1v3cd3475r3cdbp6dhqectk6tj74uv3egtp4t34d1rp2rvpcgv78x1qc5j7ccb665pkcw3jerw6ad3pe0t78cv2cdw6gw35exnpedthegvkgy1k6dk32x1pe1t7cwhp6nukce3jetr3ct3be0u74u3acdhqaw9rewtk2rv4emv6urk269hkax3gc5hq8uhdc9gq6t9k68-base32-->
 {: .full-width-text}
 
 ### La science-fiction vs le r&eacute;el
@@ -113,4 +113,4 @@ Les enqu&ecirc;tes types des films, des s&eacute;ries et des livres relatent des
 Ainsi, les d&eacute;tectives de l’&eacute;cran et des &eacute;critures sont tr&egrave;s int&eacute;ressants, mais il ne faut pas les confondre avec ceux de la vraie vie.
 {: .full-width-text}
 
-<div class="center-this-text"><strong>L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au <a href="https://dlp-investigations.fr/#contact">formulaire de contact</a>.</strong></div>
+<div class="center-this-text"><strong><strong>L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.</strong><br /><strong>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;<a href="https://dlp-investigations.fr/#contact">formulaire de contact</a>.</strong></strong></div>
