@@ -89,3 +89,6 @@ Un rapport recevable ([lien vers l’article](https://dlp-investigations.fr/la-r
 
 Par ce processus, tout le monde est gagnant : le propri&eacute;taire est &agrave; l’abri de m&eacute;saventures f&acirc;cheuses et l’agence immobili&egrave;re ou gestionnaire locatif est d&eacute;charg&eacute;e de cette v&eacute;rification qui peut &ecirc;tre lourde et longue. C’est un gain de temps pour tout le monde.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
