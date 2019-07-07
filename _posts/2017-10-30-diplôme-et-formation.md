@@ -76,7 +76,7 @@ IFAR
 
 * Montpellier{: .full-width-text}
 * CQP<br>Dur&eacute;e : 6 mois<br>Formation : 360 heures<br>Stage : 280 heures{: .full-width-text}
-* Titre<br>Dur&eacute;e : 1 an<br>FOrmation : 700 heures<br>Stage : 500 heures{: .full-width-text}
+* Titre<br>Dur&eacute;e : 1 an<br>Formation : 700 heures<br>Stage : 500 heures{: .full-width-text}
 
 Panth&eacute;on-Assas
 {: .full-width-text}
