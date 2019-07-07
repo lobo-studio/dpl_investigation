@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Quand je parle d’enqu&ecirc;te de solvabilit&eacute;, les personnes me regardent avec des yeux remplis d’interrogations. Certains connaissent ce type de recherche mais ne voit pas en quoi je peux aider **&laquo; Mais pourquoi tu me parles de cela ? Tu n’es pas du tout dans le secteur de la solvabilit&eacute; ! &raquo;**. Et les autres ne connaissent pas du tout ou peu &laquo; Solvabilit&eacute; …. ? A quoi cela sert ? Tu cherches quoi comme informations ? Tu organises des filatures pour &ccedil;a ?! &raquo;.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+Quand je parle d’enqu&ecirc;te de solvabilit&eacute;, les personnes me regardent avec des yeux remplis d’interrogations. Certains connaissent ce type de recherche mais ne voit pas en quoi je peux aider **&laquo; Mais pourquoi tu me parles de cela ? Tu n’es pas du tout dans le secteur de la solvabilit&eacute; \! &raquo;**. Et les autres ne connaissent pas du tout ou peu &laquo; Solvabilit&eacute; …. ? A quoi cela sert ? Tu cherches quoi comme informations ? Tu organises des filatures pour &ccedil;a ?\! &raquo;.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
 {: .full-width-text}
 
 Le m&eacute;tier de d&eacute;tective priv&eacute; n’est pas que de la filature. Nous avons aussi des recherches administratives, dont l’enqu&ecirc;te de solvabilit&eacute;. Nous la r&eacute;alisons pour des tiers qui en ont besoin, tel que pour le recouvrement ou l’ex&eacute;cution d’une d&eacute;cision de justice.
@@ -42,9 +42,6 @@ Une recherche sur tout le territoire national est extr&ecirc;mement co&ucirc;teu
 
 * La recherche de domiciliation bancaire
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/02/Recherche-compte-bancaire.jpg?resize=154%2C109&amp;ssl=1){: .wp-image-216.alignleft}
-{: .full-width-text}
-
 Cette recherche permettra de savoir o&ugrave; se situe les comptes bancaires d’une personne physique ou d’une personne morale. Pout une recherche pertinente, il faudra l’&eacute;tat civil de la personne physique et le SIREN de la personne morale. Un huissier pourra par la suite se pr&eacute;senter &agrave; la banque afin de proc&eacute;der &agrave; une saisie d’attribution.
 {: .full-width-text}
 
@@ -65,7 +62,7 @@ De plus, si vous avez d&eacute;j&agrave; des &eacute;l&eacute;ments de solvabili
 La r&eacute;alisation respecte tous les textes de lois, afin que le rapport d’enqu&ecirc;te soit recevable en justice.
 {: .full-width-text}
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=175%2C116&amp;ssl=1){: .wp-image-192.alignright}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/01/CR.jpg?resize=175%2C116&amp;ssl=1){: .wp-image-192.alignright}![](/uploads/compte-bancaire.jpg){: width="275" height="183"}
 {: .full-width-text}
 
 Cette enqu&ecirc;te de solvabilit&eacute; via ce rapport, peut &ecirc;tre n&eacute;cessaire pour recouvrer une cr&eacute;ance (facture ou loyer impay&eacute;), l’ex&eacute;cution d’une d&eacute;cision de justice, l’achat de part dans une soci&eacute;t&eacute; etc…
@@ -76,3 +73,6 @@ Le d&eacute;lai de cette enqu&ecirc;te est entre 1 et 4 semaines, en fonction de
 
 La facturation est selon les &eacute;l&eacute;ments demand&eacute;s soit au forfait. Une estimation pourra vous &ecirc;tre donn&eacute;e. Durant l’enqu&ecirc;te et selon les r&eacute;sultats, nous vous tiendrons au courant de la facture finale.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
