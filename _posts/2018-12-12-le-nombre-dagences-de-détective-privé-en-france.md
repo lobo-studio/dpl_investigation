@@ -66,3 +66,6 @@ Le secteur de la s&eacute;curit&eacute; priv&eacute;e est divis&eacute; en trois
 
 Le secteur de la s&eacute;curit&eacute; priv&eacute;e est en progression depuis les ann&eacute;es 2015. L’activit&eacute; d’enqu&ecirc;te priv&eacute;e a eu une progression d’environ 35% de 2010 &agrave; 2016.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
