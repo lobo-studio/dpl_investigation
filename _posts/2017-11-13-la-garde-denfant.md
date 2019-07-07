@@ -25,7 +25,7 @@ Un divorce ou une s&eacute;paration entra&icirc;ne beaucoup de changement de la 
 Encore r&eacute;cemment, les enfants &eacute;taient confi&eacute;s &agrave; la m&egrave;re par rapport au lien maternel. Or de plus en plus, ce fait diminue au profil de la garde partag&eacute;e ou de la garde exclusive du p&egrave;re. Cela est tr&egrave;s bien illustr&eacute; par les chiffres publi&eacute;s en 2015 des divorces et gardes d’enfants prononc&eacute;s en 2009 par l’INSEE.
 {: .full-width-text}
 
-### <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32--><br>Quelques chiffres
+### <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32--><br>Quelques chiffres
 {: .full-width-text}
 
 En 2009, 152 000 enfants mineurs ont &eacute;t&eacute; secou&eacute;s par le divorce de leurs parents, soit deux tiers des divorces. En ce qui concerne la rupture d’un PCS, le nombre d’enfant mineurs sont au nombre de 5 100, ils ont en moyenne 9 ans.<br>A partir de 13 ans, l’enfant est jug&eacute; apte &agrave; donner sa pr&eacute;f&eacute;rence de garde, sinon c’est aux parents avec l’accord du juge qui en d&eacute;cide.
@@ -44,7 +44,7 @@ Apr&egrave;s 1 an
 * 5% des fratries sont s&eacute;par&eacute;s dont 8% concernent les familles de plus de 2 enfants
 * 17% des gardes altern&eacute;es sont li&eacute;es aux familles de plus de 2 enfants, ce pourcentage diminue par rapport &agrave; la taille de la famille
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=440%2C452&amp;ssl=1){: .wp-image-146.aligncenter srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=292%2C300&amp;ssl=1 292w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?w=486&amp;ssl=1 486w" sizes="(max-width: 440px) 100vw, 440px"}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=440%2C452&amp;ssl=1){: .wp-image-146.aligncenter srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?resize=292%2C300&amp;ssl=1 292w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2017/11/Résidence-des-mineurs.jpg?w=486&amp;ssl=1 486w" sizes="(max-width: 440px) 100vw, 440px"}![](/uploads/répartitions-des-mineurs.JPG){: width="484" height="355"}
 {: .full-width-text}
 
 ### Le support d’un d&eacute;tective priv&eacute;
@@ -80,3 +80,6 @@ Enfin, nous pouvons aussi mener des investigations afin d’apporter les preuves
 
 Il y a aussi les conditions de vie de l’enfant. Il peut &ecirc;tre cit&eacute; les besoins comme une &eacute;cole plus ch&egrave;re, ou des activit&eacute;s extra-scolaires n&eacute;cessaires &agrave; son d&eacute;veloppement.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
