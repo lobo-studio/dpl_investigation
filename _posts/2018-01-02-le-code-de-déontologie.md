@@ -23,10 +23,10 @@ Plusieurs fois, les personnes m’ont dit &laquo; Mais les d&eacute;tectives… 
 Depuis 2012, les d&eacute;tectives ont un code de D&eacute;ontologie. Ce dernier se situe dans le Livre VI du code de la S&eacute;curit&eacute; Int&eacute;rieure, Titre III, Chapitre Ier. Outre cela, nous devons aussi respecter les lois fran&ccedil;aises, dont la vie priv&eacute;e ou encore le droit &agrave; l’image.
 {: .full-width-text}
 
-Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+Les mots cl&eacute;s correspondant aux 31 articles, divis&eacute; en 5 sous-sections du code de D&eacute;ontologie donnent une id&eacute;e de la teneur de ce dernier. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
 {: .full-width-text}
 
-# <u><img class="wp-image-180 alignright" alt="" srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" width="306" height="139" src="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /></u>
+# <u><img class="wp-image-180 alignright" alt="" srcset="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?w=334&amp;ssl=1 334w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" width="306" height="139" src="https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2017/12/csi.png?resize=306%2C139&amp;ssl=1" /><img src="/uploads/csi.png" width="334" height="151" /></u>
 {: .full-width-text}
 
 ### Les dispositions g&eacute;n&eacute;rales
@@ -94,3 +94,6 @@ Ces derni&egrave;res sont
 * La **pr&eacute;vention du conflit d’int&eacute;r&ecirc;t** envers les clients (R631-29)
 * Le **contrat** avec une mission d&eacute;volue et un cadre juridique (R631-30)
 * La **justification des r&eacute;mun&eacute;rations** qui est un &eacute;tat pr&eacute;cis des heures effectu&eacute;s avec la somme re&ccedil;ue et &agrave; venir (R631-31)
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
