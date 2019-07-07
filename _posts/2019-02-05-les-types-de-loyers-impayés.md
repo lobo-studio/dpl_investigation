@@ -5,40 +5,43 @@ image_preview_image_path: /assets/img/prêt bancaire.jpg
 permalink: '/blog/:title'
 ---
 
-L’expression loyers impayés est très souvent utilisée pour l’immobilier. Cependant, il existe d’autres types de loyers impayés. Nous pouvons citer entre autres les loyers bancaires dans le cadre des prêts, les loyers de location de biens de consommation comme le high-tech, l’électroménager, …
+L’expression loyers impay&eacute;s est tr&egrave;s souvent utilis&eacute;e pour l’immobilier. Cependant, il existe d’autres types de loyers impay&eacute;s. Nous pouvons citer entre autres les loyers bancaires dans le cadre des pr&ecirc;ts, les loyers de location de biens de consommation comme le high-tech, l’&eacute;lectrom&eacute;nager, …
 
-Dans tous les cas, la personne s’engage à payer un loyer en fonction d’un échéancier établi par l’organisme financier.
+Dans tous les cas, la personne s’engage &agrave; payer un loyer en fonction d’un &eacute;ch&eacute;ancier &eacute;tabli par l’organisme financier.
 
-Mais **qu’est-ce qu’un loyer impayé d’un point de vue immobilier, bancaire et de biens de consommation ?** Comment un détective privé peut apporter les pièces manquantes du puzzle au dossier ?
+Mais **qu’est-ce qu’un loyer impay&eacute; d’un point de vue immobilier, bancaire et de biens de consommation ?** Comment un d&eacute;tective priv&eacute; peut apporter les pi&egrave;ces manquantes du puzzle au dossier ?
 
-### Les différents types de loyers impayés les plus connus
+### Les diff&eacute;rents types de loyers impay&eacute;s les plus connus
 
-Les loyers impayés les plus connus et fréquents concernent l’immobilier. Cela désigne la situation où votre locataire ne vous paye plus les loyers, voire part sans donner son nouveau lieu de résidence. Il est donc en NPAI, n’habite pas à l’adresse indiquée, ou PSA, parti sans laisser d’adresse ([lien vers l’article](https://dlp-investigations.fr/recherche-de-debiteur/)).
+Les loyers impay&eacute;s les plus connus et fr&eacute;quents concernent l’immobilier. Cela d&eacute;signe la situation o&ugrave; votre locataire ne vous paye plus les loyers, voire part sans donner son nouveau lieu de r&eacute;sidence. Il est donc en NPAI, n’habite pas &agrave; l’adresse indiqu&eacute;e, ou PSA, parti sans laisser d’adresse ([lien vers l’article](https://dlp-investigations.fr/recherche-de-debiteur/)).
 
-De plus en plus fréquemment, une assurance est mise en place pour éviter ce genre de situation : la GLI ou garantie contre les loyers impayés. Si le dossier correspond aux critères de cette assurance, les loyers seront dédommagés auprès du propriétaire du logement ([lien vers l’article](https://dlp-investigations.fr/blog/locataire-parti-sans-payer)).
+De plus en plus fr&eacute;quemment, une assurance est mise en place pour &eacute;viter ce genre de situation : la GLI ou garantie contre les loyers impay&eacute;s. Si le dossier correspond aux crit&egrave;res de cette assurance, les loyers seront d&eacute;dommag&eacute;s aupr&egrave;s du propri&eacute;taire du logement ([lien vers l’article](https://dlp-investigations.fr/blog/locataire-parti-sans-payer)).
 
-Le deuxième type de loyer impayé concerne le prêt bancaire. Durant sa vie, une personne peut prendre plusieurs crédits auprès de sa banque pour acheter un bien immobilier, un crédit à la consommation etc. ….
+Le deuxi&egrave;me type de loyer impay&eacute; concerne le pr&ecirc;t bancaire. Durant sa vie, une personne peut prendre plusieurs cr&eacute;dits aupr&egrave;s de sa banque pour acheter un bien immobilier, un cr&eacute;dit &agrave; la consommation etc. ….
 
-Pour ce, il faut démontrer à sa banque que le crédit pourra être remboursé régulièrement au délai annoncé. En général, ce remboursement est mensuel. Pour ce, la banque va vérifier les revenus déclarés, le patrimoine etc.
+Pour ce, il faut d&eacute;montrer &agrave; sa banque que le cr&eacute;dit pourra &ecirc;tre rembours&eacute; r&eacute;guli&egrave;rement au d&eacute;lai annonc&eacute;. En g&eacute;n&eacute;ral, ce remboursement est mensuel. Pour ce, la banque va v&eacute;rifier les revenus d&eacute;clar&eacute;s, le patrimoine etc.
 
 ![](/assets/img/Impayé.jpg)
 
-Si les conditions ne sont pas réunies le prêt ne sera pas accordé. A l’inverse si les conditions sont réunies, le prêt sera accordé. Mais, pour plusieurs raisons, un changement de revenus ou autres, la personne peut ne plus pouvoir rembourser à chaque échéance. Il y a donc un loyer impayé.
+Si les conditions ne sont pas r&eacute;unies le pr&ecirc;t ne sera pas accord&eacute;. A l’inverse si les conditions sont r&eacute;unies, le pr&ecirc;t sera accord&eacute;. Mais, pour plusieurs raisons, un changement de revenus ou autres, la personne peut ne plus pouvoir rembourser &agrave; chaque &eacute;ch&eacute;ance. Il y a donc un loyer impay&eacute;.
 
-La troisième catégorie de loyer impayé est orientée vers la location de produit comme un véhicule via un LOA, location avec option d’achat ou leasing, ou d’électroménager ou high-tech. Dans le cas du LOA, la personne paye un loyer en fonction d’un échéancier prédéfini et sur une durée déterminée. A la fin de ce délai, la personne peut soit racheter le véhicule soit le rendre à l’établissement propriétaire.
+La troisi&egrave;me cat&eacute;gorie de loyer impay&eacute; est orient&eacute;e vers la location de produit comme un v&eacute;hicule via un LOA, location avec option d’achat ou leasing, ou d’&eacute;lectrom&eacute;nager ou high-tech. Dans le cas du LOA, la personne paye un loyer en fonction d’un &eacute;ch&eacute;ancier pr&eacute;d&eacute;fini et sur une dur&eacute;e d&eacute;termin&eacute;e. A la fin de ce d&eacute;lai, la personne peut soit racheter le v&eacute;hicule soit le rendre &agrave; l’&eacute;tablissement propri&eacute;taire.
 
-Pour la location de meuble ou d’électroménager, la personne utilise ce dernier pendant une période en payant un loyer en contrepartie. Quand il n’a plus besoin de ce meuble ou de cet électroménager, il n’a qu’à le rendre à l’établissement propriétaire.
+Pour la location de meuble ou d’&eacute;lectrom&eacute;nager, la personne utilise ce dernier pendant une p&eacute;riode en payant un loyer en contrepartie. Quand il n’a plus besoin de ce meuble ou de cet &eacute;lectrom&eacute;nager, il n’a qu’&agrave; le rendre &agrave; l’&eacute;tablissement propri&eacute;taire.
 
-### L’apport d’un détective privé
+### L’apport d’un d&eacute;tective priv&eacute;
 
-Dans ces cas de loyer impayé, la personne peut très bien arrêter de payer les locations et disparaître. Cela va entraîner différentes conséquences. Cependant, dans tous les cas l’agence DLP Investigations peut vous aider à trouver la pièce manquante du puzzle.
+Dans ces cas de loyer impay&eacute;, la personne peut tr&egrave;s bien arr&ecirc;ter de payer les locations et dispara&icirc;tre. Cela va entra&icirc;ner diff&eacute;rentes cons&eacute;quences. Cependant, dans tous les cas l’agence DLP Investigations peut vous aider &agrave; trouver la pi&egrave;ce manquante du puzzle.
 
-Une recherche de débiteur va permettre de retrouver l’adresse du locataire afin de pouvoir relancer les mises en demeure voire faire intervenir un huissier de justice afin d’établir un échéancier de recouvrement ([lien vers l’article](https://dlp-investigations.fr/recherche-de-debiteur/)).
+Une recherche de d&eacute;biteur va permettre de retrouver l’adresse du locataire afin de pouvoir relancer les mises en demeure voire faire intervenir un huissier de justice afin d’&eacute;tablir un &eacute;ch&eacute;ancier de recouvrement ([lien vers l’article](https://dlp-investigations.fr/recherche-de-debiteur/)).
 
-Une enquête de solvabilité, lors de créance importante, va permettre de savoir si une saisie peut être préparée afin de recouvrer la somme due ([lien vers l’article](https://dlp-investigations.fr/l-enquete-de-solvabilite/)).
+Une enqu&ecirc;te de solvabilit&eacute;, lors de cr&eacute;ance importante, va permettre de savoir si une saisie peut &ecirc;tre pr&eacute;par&eacute;e afin de recouvrer la somme due ([lien vers l’article](https://dlp-investigations.fr/l-enquete-de-solvabilite/)).
 
-En fonction du contrat établit au préalable, il peut avoir des intérêts à dédommager, un retour du véhicule ou du produit obligatoire. Cela va dépendre des conditions.
+En fonction du contrat &eacute;tablit au pr&eacute;alable, il peut avoir des int&eacute;r&ecirc;ts &agrave; d&eacute;dommager, un retour du v&eacute;hicule ou du produit obligatoire. Cela va d&eacute;pendre des conditions.
 
-L’agence DLP Investigations vous accompagne durant toute l’action avec son réseau d’expert composé d’avocat, d’huissier et d’agence de recouvrement, afin de trouver la meilleure solution et dans les meilleurs délais.
+L’agence DLP Investigations vous accompagne durant toute l’action avec son r&eacute;seau d’expert compos&eacute; d’avocat, d’huissier et d’agence de recouvrement, afin de trouver la meilleure solution et dans les meilleurs d&eacute;lais.
 
 Il ne faut pas oublier, que les rapports sont recevables devant les tribunaux.
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
