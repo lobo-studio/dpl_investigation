@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Une diminution anormale des stocks, du chiffre d’affaire d’une entreprise peut indiquer la **pr&eacute;sence d’un vol perp&eacute;tu&eacute; en interne ou en externe**. Ceci induit une **perte financi&egrave;re** et peut aussi entrainer une **d&eacute;gradation du climat au sein de l’entreprise** et donc porter pr&eacute;judice &agrave; cette derni&egrave;re.
+Une diminution anormale des stocks, du chiffre d’affaire d’une entreprise peut indiquer la **pr&eacute;sence d’un vol perp&eacute;tu&eacute; en interne ou en externe**. Ceci induit une **perte financi&egrave;re** et peut aussi entra&icirc;ner une **d&eacute;gradation du climat au sein de l’entreprise** et donc porter pr&eacute;judice &agrave; cette derni&egrave;re.
 {: .full-width-text}
 
 ### Les diff&eacute;rents vols
@@ -38,7 +38,7 @@ D’un autre c&ocirc;t&eacute;, il ne faut pas omettre le vol de marchandises et
 Ceux-ci concernent tout ce qui touche au fonctionnement de l’entreprise comme les ordinateurs, les imprimantes, la papeterie, et autres, en soit le vol de fournitures de bureaux. Leurs remplacements impactent les charges de la soci&eacute;t&eacute;.
 {: .full-width-text}
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/Vol-en-entreprise-300x199.jpg?resize=217%2C144&amp;ssl=1){: .wp-image-274.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/Vol-en-entreprise.jpg?resize=300%2C199&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/Vol-en-entreprise.jpg?w=425&amp;ssl=1 425w" sizes="(max-width: 217px) 100vw, 217px"}
+![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/Vol-en-entreprise-300x199.jpg?resize=217%2C144&amp;ssl=1){: .wp-image-274.alignright srcset="https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/Vol-en-entreprise.jpg?resize=300%2C199&amp;ssl=1 300w, https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/05/Vol-en-entreprise.jpg?w=425&amp;ssl=1 425w" sizes="(max-width: 217px) 100vw, 217px"}![](/uploads/couteau-dans-le-dos.jpg){: width="250" height="186"}
 {: .full-width-text}
 
 Il ne faut pas oublier le c&ocirc;t&eacute; administratif avec le vol de donn&eacute;s comme le fichier clients de la soci&eacute;t&eacute; et les coordonn&eacute;es bancaires par exemple ou encore le vol des logiciels informatiques et leurs licences.
@@ -79,3 +79,6 @@ Le rapport sera recevable en justice, pour porter plainte et pour proc&eacute;de
 
 Enfin le l’agence pourra proposer des solutions et des conseils afin de r&eacute;duire le risque de vol au sein de l’entreprise.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
