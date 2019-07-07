@@ -79,3 +79,6 @@ Nous &eacute;paulons les cr&eacute;anciers qui veulent recouvrer leurs dettes et
 
 N’oublions pas, la profession de d&eacute;tective priv&eacute; est r&eacute;glement&eacute;e et a foi de preuve devant les tribunaux.
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
