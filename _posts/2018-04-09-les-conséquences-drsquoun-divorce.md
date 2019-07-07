@@ -32,7 +32,7 @@ De mani&egrave;re g&eacute;n&eacute;rale **qu’en est-il de la prestation compe
 Lors d’un divorce, un &eacute;cart entre les deux &eacute;poux peut se cr&eacute;er. En effet, durant le mariage un des deux &eacute;poux peut ne pas travailler pour &eacute;duquer les enfants. Ainsi, il n’y a pas de salaire ni une carri&egrave;re professionnelle. C’est pour cela que pour compenser cet &eacute;cart, il y a cette prestation compensatoire.
 {: .full-width-text}
 
-![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/images.jpeg?resize=220%2C146&amp;ssl=1){: .wp-image-250.alignleft}
+![](https://i2.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/images.jpeg?resize=220%2C146&amp;ssl=1){: .wp-image-250.alignleft}![](/uploads/revenus.jpg){: width="259" height="194"}
 {: .full-width-text}
 
 Lors de la demande, l’&eacute;poux concern&eacute; peut demander un montant avec son avocat. Mais le montant sera fix&eacute; ainsi que les modalit&eacute;s de versement par le juge, lors de la prononciation du divorce contentieux. Cette somme d&eacute;pend de la diff&eacute;rence des revenus entre les deux &eacute;poux, la dur&eacute;e de mariage, de l’&acirc;ge des &eacute;poux et leurs droits respectifs &agrave; la retraite.
@@ -53,9 +53,6 @@ Durant un divorce, l’une des grandes questions concerne les enfants. Effective
 M&ecirc;me apr&egrave;s, un divorce, les deux &eacute;poux ont des obligations envers leurs enfants : obligation alimentaire et de secours.
 {: .full-width-text}
 
-![](https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/hand-in-hand-2070764_960_720.jpg?resize=164%2C246&amp;ssl=1){: .wp-image-251.alignright srcset="https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/hand-in-hand-2070764_960_720.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/dlp-investigations.fr/wp-content/uploads/2018/03/hand-in-hand-2070764_960_720.jpg?w=480&amp;ssl=1 480w" sizes="(max-width: 164px) 100vw, 164px"}
-{: .full-width-text}
-
 Cela est pareil pour l’autorit&eacute; parentale. Le divorce ne supprime en rien les relations entre les enfants et les parents, relation d’aide, financi&egrave;re, d’autorit&eacute;, d’&eacute;ducation etc.
 {: .full-width-text}
 
@@ -70,3 +67,6 @@ En moyenne, la pension alimentaire est de 150 euros, soit environ 10% du salaire
 
 Vous pouvez lire l’article concernant la garde d’enfant qui est plus complet via ce [lien](/la-garde-d-enfant/).
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
