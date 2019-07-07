@@ -48,3 +48,6 @@ Si ce dernier est obtenu, une enqu&ecirc;te de solvabilit&eacute; pourra indique
 Chaque demande, chaque dossier a sa particularit&eacute;. C’est pour cela, qu’il faut les &eacute;tudier chacun pr&eacute;cis&eacute;ment. L’agence DLP Investigations vous r&eacute;pond d’un point de vue technique, humain, juridique mais aussi &eacute;value le pourcentage de r&eacute;ussite afin de voir si l’enqu&ecirc;te est pertinente ou non.
 
 Chaque enqu&ecirc;te donne lieu &agrave; un rapport recevable en justice. Si la question de base va impliquer une recherche ill&eacute;gale, l’agence DLP Investigations va trouver une alternative pour pouvoir vous apporter une r&eacute;ponse malgr&eacute; tout.
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
