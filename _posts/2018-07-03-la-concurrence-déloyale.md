@@ -41,7 +41,7 @@ Selon le Vocabulaire Juridique publi&eacute; sous la direction de G&eacute;rard 
 Toujours selon le Vocabulaire Juridique et dans un sens g&eacute;n&eacute;ral, la clause de non-concurrence est une &laquo; stipulation par laquelle un contractant se prive de la facult&eacute; d’exercer pendant une certaine p&eacute;riode et dans une aire g&eacute;ographique d&eacute;termin&eacute;e une activit&eacute; professionnelle susceptible de concurrencer celle de l’autre. &raquo;
 {: .full-width-text}
 
-La seconde d&eacute;finition de ce dictionnaire vise plus sp&eacute;cifiquement les contrats de travail. &laquo; *Clause de contrat de travail par laquelle le salari&eacute; s’engage &agrave; ne pas exercer, pendant un certain d&eacute;lai &agrave; partir de la cessation des relations de travail, une activit&eacute; semblable &agrave; celle de son employeur, pour son propre compte ou celui d’un autre employeur (obligation qui […] n’existe que si elle est stipul&eacute;e.* &raquo;
+La seconde d&eacute;finition de ce dictionnaire vise plus sp&eacute;cifiquement les contrats de travail. &laquo; *Clause de contrat de travail par laquelle le salari&eacute; s’engage &agrave; ne pas exercer, pendant un certain d&eacute;lai &agrave; partir de la cessation des relations de travail, une activit&eacute; semblable &agrave; celle de son employeur, pour son propre compte ou celui d’un autre employeur (obligation qui \[…\] n’existe que si elle est stipul&eacute;e.* &raquo;
 {: .full-width-text}
 
 En contrepartie de cette clause, le salari&eacute; aura une compensation financi&egrave;re.
@@ -56,7 +56,7 @@ En contrepartie de cette clause, le salari&eacute; aura une compensation financi
 Plusieurs de vos salari&eacute;s partent sans raison. Ce d&eacute;bauchage peut venir d’un processus d&eacute;loyal de recrutement par vos concurrents.
 {: .full-width-text}
 
-![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/06/concurrence-déloyale.jpg?resize=176%2C162&amp;ssl=1){: .size-full.wp-image-300.alignleft}
+![](https://i1.wp.com/dlp-investigations.fr/wp-content/uploads/2018/06/concurrence-déloyale.jpg?resize=176%2C162&amp;ssl=1){: .size-full.wp-image-300.alignleft}![](/uploads/balance-justice-1.png){: width="718" height="720"}
 {: .full-width-text}
 
 Vous constatez plusieurs d&eacute;nigrements &eacute;vidents pour un de vos produits voire m&ecirc;me pour votre soci&eacute;t&eacute;. Cela peut illustrer un autre type de processus d&eacute;loyal de vos concurrents.
@@ -80,5 +80,8 @@ Un salari&eacute; vous explique qu’il doit d&eacute;missionner pour des raison
 Lors de ce cas, le processus de la mission, peut &ecirc;tre compos&eacute; de filature, de recueil des t&eacute;moignages, des enqu&ecirc;tes administratives etc. Il serait int&eacute;ressant de se diriger vers une ordonnance de requ&ecirc;te. Un constat d’huissier pourra &eacute;tablir un lien contractuel pr&eacute;sent entre l’ex-salari&eacute; et le concurrent qui l’a embauch&eacute;.
 {: .full-width-text}
 
-Le non-respect de ces deux clauses peut se cumuler.
+Le non-respect de ces deux clauses peut se cumuler
 {: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
