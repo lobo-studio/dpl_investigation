@@ -19,11 +19,11 @@ Dans le cadre d’un mariage, l’article 212 du Code Civil dispose que &laquo;&
 
 Lorsqu’un doute p&egrave;se, une enqu&ecirc;te pourra confirmer ou infirmer le doute. Lors d’un doute d’une proc&eacute;dure juridique ou en dehors de celle-ci.
 
-[Lien ](https://dlp-investigations.fr/les-divorces-contentieux/)de l’article concernant le divorce contentieux
+[Lien](https://dlp-investigations.fr/les-divorces-contentieux/)de l’article concernant le divorce contentieux
 
-[Lien ](https://dlp-investigations.fr/le-divorce-par-consentement-mutuel-ou-a-l-amiable/)de l’article concernant le divorce par consentement mutuel ou &agrave; l'amiable
+[Lien](https://dlp-investigations.fr/le-divorce-par-consentement-mutuel-ou-a-l-amiable/)de l’article concernant le divorce par consentement mutuel ou &agrave; l'amiable
 
-[Lien ](https://dlp-investigations.fr/les-consequences-dun-divorce/)de l’article concernant les cons&eacute;quences du divorce&nbsp;&nbsp;
+[Lien](https://dlp-investigations.fr/les-consequences-dun-divorce/)de l’article concernant les cons&eacute;quences du divorce&nbsp;&nbsp;
 
 * Assignation
 
@@ -43,7 +43,7 @@ Lors d’une s&eacute;paration avec pr&eacute;sence d’enfant, les deux parties
 
 De plus, une enqu&ecirc;te pourra v&eacute;rifier le cadre de vie des enfants afin de savoir s’ils sont en s&eacute;curit&eacute; et dans de bonnes conditions.
 
-[Lien ](https://dlp-investigations.fr/la-garde-d-enfant/)de l’article concernant la garde d’enfant
+[Lien](https://dlp-investigations.fr/la-garde-d-enfant/)de l’article concernant la garde d’enfant
 
 * Surveillance d’un enfant mineur
 
@@ -57,14 +57,17 @@ Nous rechercherons le notaire en lien direct avec une succession ainsi que tous 
 
 Un locataire est parti sans payer, par exemple, et vous voulez le retrouver afin de recouvrer vos loyers impay&eacute;s. Une recherche d’adresse pourra vous aider.
 
-[Lien ](https://dlp-investigations.fr/recherche-de-debiteur/)de l’article concernant la recherche d’adresse ou de d&eacute;biteurs.
+[Lien](https://dlp-investigations.fr/recherche-de-debiteur/)de l’article concernant la recherche d’adresse ou de d&eacute;biteurs.
 
 * Solvabilit&eacute;
 
 Vous avez retrouv&eacute; votre locataire parti sans payer, une enqu&ecirc;te de solvabilit&eacute; vous permettra de savoir si ce dernier pourra vous rembourser, voire instaurer des saisies sur salaire.
 
-[Lien ](https://dlp-investigations.fr/l-enquete-de-solvabilite/)de l’article concernant l’enqu&ecirc;te de solvabilit&eacute;.
+[Lien](https://dlp-investigations.fr/l-enquete-de-solvabilite/)de l’article concernant l’enqu&ecirc;te de solvabilit&eacute;.
 
 Cette liste est non exhaustive et ne le sera jamais. En effet, beaucoup de prestations peuvent avoir lieu tant qu’elles rentrent dans un cadre juridique et que les r&egrave;glementations sont respect&eacute;es.<br>Un premier rendez-vous nous permettra de le savoir et de pr&eacute;voir la typologie de l’enqu&ecirc;te &agrave; mettre en place pour r&eacute;pondre aux mieux &agrave; votre demande.
 
-A la fin de toute enqu&ecirc;te, un rapport vous sera remis. Ce dernier est recevable devant les tribunaux. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+A la fin de toute enqu&ecirc;te, un rapport vous sera remis. Ce dernier est recevable devant les tribunaux.
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
