@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Une diminution anormale des stocks, du chiffre d’affaire d’une entreprise peut indiquer la **pr&eacute;sence d’un vol perp&eacute;tu&eacute; en interne ou en externe**. Ceci induit une **perte financi&egrave;re** et peut aussi entra&icirc;ner une **d&eacute;gradation du climat au sein de l’entreprise** et donc porter pr&eacute;judice &agrave; cette derni&egrave;re.
+Une diminution anormale des stocks, du chiffre d’affaires d’une entreprise peut indiquer la **pr&eacute;sence d’un vol perp&eacute;tu&eacute; en interne ou en externe**. Ceci induit une **perte financi&egrave;re** et peut aussi entra&icirc;ner une **d&eacute;gradation du climat au sein de l’entreprise** et donc porter pr&eacute;judice &agrave; cette derni&egrave;re.
 {: .full-width-text}
 
 ### Les diff&eacute;rents vols
