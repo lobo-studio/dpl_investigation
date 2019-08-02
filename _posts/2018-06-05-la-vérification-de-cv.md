@@ -94,5 +94,5 @@ A compter r&eacute;ception de ces &eacute;l&eacute;ments, la v&eacute;rification
 Et enfin, ce qui est tr&egrave;s important, tous les moyens de contr&ocirc;le du salari&eacute; ou du candidat &agrave; l’embauche doivent &ecirc;tre port&eacute;s au pr&eacute;alable &agrave; sa connaissance. Si cela n’est pas le cas, les &eacute;l&eacute;ments recueillis ne pourront pas &ecirc;tre utilis&eacute;s.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
