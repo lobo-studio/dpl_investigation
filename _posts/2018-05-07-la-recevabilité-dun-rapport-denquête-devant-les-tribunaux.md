@@ -1,6 +1,6 @@
 ---
 id: 261
-title: La recevabilité d&rsquo;un rapport d&rsquo;enquête devant les tribunaux
+title: La recevabilité d'un rapport d'enquête devant les tribunaux
 date: 2018-05-07 10:00:00
 author: Delphine
 layout: post
