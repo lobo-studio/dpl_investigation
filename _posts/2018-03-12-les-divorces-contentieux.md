@@ -78,7 +78,7 @@ C’est une &eacute;tape importante et essentielle lorsqu’il y a des int&eacut
 
 * La deuxi&egrave;me &eacute;tape est l’assignation par un des &eacute;poux pour continuer la proc&eacute;dure de divorce.
 
-Celui qui a initi&eacute; la proc&eacute;dure a 3 mois post ONC, pour assigner l’autre &eacute;poux. Apr&egrave;s ce d&eacute;lais de 3 mois, le deuxi&egrave;me &eacute;poux pourra assigner l’initiateur, s’il ne l’a pas fait. Cette assignation se fait par huissier. Cette derni&egrave;re comportera toutes les demandes des effets et cons&eacute;quences du divorce.
+Celui qui a initi&eacute; la proc&eacute;dure a 3 mois post ONC, pour assigner l’autre &eacute;poux. Apr&egrave;s ce d&eacute;lai de 3 mois, le deuxi&egrave;me &eacute;poux pourra assigner l’initiateur, s’il ne l’a pas fait. Cette assignation se fait par huissier. Cette derni&egrave;re comportera toutes les demandes des effets et cons&eacute;quences du divorce.
 {: .full-width-text}
 
 Chacun des &eacute;poux devra d&eacute;fendre ses arguments et demandes. Un d&eacute;lai sera donn&eacute; aux &eacute;poux et leurs avocats pour se r&eacute;pondre.
