@@ -17,16 +17,16 @@ categories:
   - Blog
 ---
 
-L’une des premi&egrave;res questions que les personnes me posent lorsqu’elles apprennent mon m&eacute;tier est &laquo; Tes affaires, elles ne traitent que des adult&egrave;res non ? &raquo;.
+L’une des premi&egrave;res questions que les personnes me posent lorsqu’elles apprennent mon m&eacute;tier est &laquo; Tes affaires, elles ne traitent que des adult&egrave;res, non ? &raquo;.
 {: .full-width-text}
 
 Or, nous avons de plus en plus d’affaires concernant les entreprises.
 {: .full-width-text}
 
-Le divorce n’est plus trait&eacute; sous le droit p&eacute;nal depuis de nombreuses ann&eacute;es.<br>Lors du mariage, l’un des articles de droit le plus essentiel est l’article 212 du code Civil &laquo; **Les &eacute;poux se doivent mutuellement respect, fid&eacute;lit&eacute;, secours, assistance.** &raquo;.
+Le divorce n’est plus trait&eacute; sous le droit p&eacute;nal depuis de nombreuses ann&eacute;es.<br><br>Lors du mariage, l’un des articles de droit le plus essentiel est l’article 212 du Code Civil &laquo; **Les &eacute;poux se doivent mutuellement respect, fid&eacute;lit&eacute;, secours, assistance.** &raquo;.
 {: .full-width-text}
 
-Avant le divorce, il peut avoir une s&eacute;paration de corps. Ce jugement permet de mettre fin &agrave; la vie commune d’un couple mari&eacute;. Ces derniers resteront tout de m&ecirc;me mari&eacute;s sans vivre ensemble. Cette demande passe par le JAF ou juges aux affaires familiales.
+Avant le divorce, il peut y avoir une s&eacute;paration de corps. Ce jugement permet de mettre fin &agrave; la vie commune d’un couple mari&eacute;. Ces derniers resteront tout de m&ecirc;me mari&eacute;s sans vivre ensemble. Cette demande passe par le JAF ou juges aux affaires familiales.
 {: .full-width-text}
 
 ### Les 3 types de divorces contentieux
@@ -38,28 +38,28 @@ Avant le divorce, il peut avoir une s&eacute;paration de corps. Ce jugement perm
 Ces divorces sont divis&eacute;s en 2.
 {: .full-width-text}
 
-Les deux premier sont ceux o&ugrave; les &eacute;poux ne sont ni d’accord sur le fait de divorcer ni sur les causes et effets. Et le dernier les &eacute;poux sont d’accord pour divorcer mais pas sur les cons&eacute;quences qui s’en suivent.
+Deux types de divorces ceux o&ugrave; les &eacute;poux ne sont ni d’accord sur le fait de divorcer ni sur les causes et effets. Et le dernier les &eacute;poux sont d’accord pour divorcer, mais pas sur les cons&eacute;quences qui en d&eacute;coulent.
 {: .full-width-text}
 
 Le divorce pour faute
 {: .full-width-text}
 
-* Article 242 code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque des faits constitutifs d’une violation grave ou renouvel&eacute;e des devoirs et obligations du mariage sont imputables &agrave; son conjoint et rendent intol&eacute;rable le maintien de la vie commune.* &raquo;
+* Article 242 du Code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque des faits constitutifs d’une violation grave ou renouvel&eacute;e des devoirs et obligations du mariage sont imputables &agrave; son conjoint et rendent intol&eacute;rable le maintien de la vie commune.* &raquo;
 * Les violations peuvent &ecirc;tre un adult&egrave;re, une concurrence, des injures graves, un manque de respect mutuel, un manque de loyaut&eacute; ou encore une non consommation.
 
 Le divorce par alt&eacute;ration d&eacute;finitive du lien conjugal
 {: .full-width-text}
 
-* Article 237 du code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque le lien conjugal est d&eacute;finitivement alt&eacute;r&eacute;.* &raquo;
-* Cessation de la communaut&eacute; de vie entre les &eacute;poux lorsqu’ils vivent s&eacute;par&eacute; depuis 2 ans lors de l’assignation pour divorce.
+* Article 237 du Code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un des &eacute;poux lorsque le lien conjugal est d&eacute;finitivement alt&eacute;r&eacute;.* &raquo;
+* Cessation de la communaut&eacute; de vie entre les &eacute;poux lorsqu’ils vivent s&eacute;par&eacute;s depuis 2 ans lors de l’assignation pour divorce.
 
 Le divorce par acceptation du principe de la rupture du mariage
 {: .full-width-text}
 
-* Article 233 du code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un ou l’autre des &eacute;poux ou par les deux lorsqu’ils acceptent le principe de la rupture du mariage sans consid&eacute;ration des faits &agrave; l’origine de celle-ci.* &raquo;
-* Les 2 &eacute;poux veulent divorcer et sont d’accord avec le principe de rupture du mariage mais pas sur les cons&eacute;quences entrain&eacute;es par le divorce.
+* Article 233 du Code Civil &laquo; *Le divorce peut &ecirc;tre demand&eacute; par l’un ou l’autre des &eacute;poux ou par les deux lorsqu’ils acceptent le principe de la rupture du mariage sans consid&eacute;ration des faits &agrave; l’origine de celle-ci.* &raquo;
+* Les 2 &eacute;poux veulent divorcer et sont d’accord avec le principe de rupture du mariage mais pas sur les cons&eacute;quences entra&icirc;n&eacute;es par le divorce.
 
-Un d&eacute;tective via la filature ou des enqu&ecirc;tes administratives, pourra apporter des preuves manquantes ou compl&eacute;mentaires au dossier.
+Un d&eacute;tective, via la filature ou des enqu&ecirc;tes administratives, pourra apporter des preuves manquantes ou compl&eacute;mentaires au dossier.
 {: .full-width-text}
 
 ### La proc&eacute;dure des divorces contentieux
@@ -70,15 +70,15 @@ La proc&eacute;dure se d&eacute;roule en trois phases.
 
 * La premi&egrave;re est l’audience de conciliation.
 
-Si celle-ci n’aboutit pas, le juge pourra fixer dans une ordonnance de non conciliation (ONC) les mesures temporaires jusqu’&agrave; la fin de la proc&eacute;dure du divorce.
+Si celle-ci n’aboutit pas, le juge pourra fixer, dans une ordonnance de non-conciliation (ONC), les mesures temporaires jusqu’&agrave; la fin de la proc&eacute;dure du divorce.
 {: .full-width-text}
 
-C’est une &eacute;tape importante et essentielle lorsqu’il y a des int&eacute;r&ecirc;ts familiaux et patrimoniales. Il faut envisager le patrimoine dans tout son ensemble pour proc&eacute;der &agrave; la suite de la proc&eacute;dure avec s&eacute;r&eacute;nit&eacute; et faire valoir ses droits. Cette ONC ne prononce pas un divorce, le mariage reste toujours valide.
+C’est une &eacute;tape importante et essentielle lorsqu’il y a des int&eacute;r&ecirc;ts familiaux et patrimoniaux. Il faut envisager le patrimoine dans tout son ensemble pour proc&eacute;der &agrave; la suite de la proc&eacute;dure avec s&eacute;r&eacute;nit&eacute; et faire valoir ses droits. Cette ONC ne prononce pas un divorce, le mariage reste toujours valide.
 {: .full-width-text}
 
 * La deuxi&egrave;me &eacute;tape est l’assignation par un des &eacute;poux pour continuer la proc&eacute;dure de divorce.
 
-Celui qui a initi&eacute; la proc&eacute;dure a 3 mois post ONC, pour assigner l’autre &eacute;poux. Apr&egrave;s ces d&eacute;lais de 3 mois, le deuxi&egrave;me &eacute;poux pourra assigner l’initiateur, s’il ne l’a pas fait. Cette assignation se fait par huissier. Cette derni&egrave;re comportera toutes les demandes des effets et cons&eacute;quences du divorce.
+Celui qui a initi&eacute; la proc&eacute;dure a 3 mois post ONC, pour assigner l’autre &eacute;poux. Apr&egrave;s ce d&eacute;lais de 3 mois, le deuxi&egrave;me &eacute;poux pourra assigner l’initiateur, s’il ne l’a pas fait. Cette assignation se fait par huissier. Cette derni&egrave;re comportera toutes les demandes des effets et cons&eacute;quences du divorce.
 {: .full-width-text}
 
 Chacun des &eacute;poux devra d&eacute;fendre ses arguments et demandes. Un d&eacute;lai sera donn&eacute; aux &eacute;poux et leurs avocats pour se r&eacute;pondre.
@@ -90,13 +90,13 @@ Lorsque le dossier sera en &eacute;tat d’&ecirc;tre jug&eacute;, le juge prono
 Suite &agrave; ces derni&egrave;res et examen du dossier, un jugement sera rendu par le juge. Cette &eacute;tape pourra &ecirc;tre rallong&eacute;e s’il y a une demande en appel.
 {: .full-width-text}
 
-* La derni&egrave;re &eacute;tape, est la liquidation du r&eacute;gime matrimoniale.
+* La derni&egrave;re &eacute;tape, est la liquidation du r&eacute;gime matrimonial.
 
-C’est uniquement en cas de patrimoine &agrave; partager ou dettes &agrave; faire valoir &agrave; l’encontre de l’autre. S’il y a une preuve que les tentatives pour obtenir un accord amiable ont &eacute;chou&eacute;e, une saisie du juge sera effectu&eacute;e. Trouv&eacute; une solution amiable est tr&egrave;s fortement recommand&eacute;.
+C’est uniquement en cas de patrimoine &agrave; partager ou dettes &agrave; faire valoir &agrave; l’encontre de l’autre. S’il y a une preuve que les tentatives pour obtenir un accord amiable ont &eacute;chou&eacute;e, une saisie du juge sera effectu&eacute;e. Trouver une solution amiable est tr&egrave;s fortement recommand&eacute;.
 {: .full-width-text}
 
-Le rapport d’enqu&ecirc;te final pourra &ecirc;tre utilis&eacute; par les professionnels de droit durant toute la proc&eacute;dure de divorce, dans le respect de la confidentialit&eacute; et respect des libert&eacute;s fondamentales.
+Le rapport d’enqu&ecirc;te final pourra &ecirc;tre utilis&eacute; par les professionnels du droit durant toute la proc&eacute;dure de divorce, dans le respect de la confidentialit&eacute; et le respect des libert&eacute;s fondamentales.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
