@@ -7,13 +7,13 @@ image_preview_image_path: /uploads/Collaboration-2.jpg
 permalink: '/blog/:title'
 ---
 
-Beaucoup de personnes sont &eacute;tonn&eacute;s, quand j’explique, que le m&eacute;tier de d&eacute;tective priv&eacute; ou d’agent de recherche priv&eacute; est compl&eacute;mentaire au m&eacute;tier d’huissier de justice. Et pourtant ces deux activit&eacute;s forment un duo tr&egrave;s pertinent lors d’une enqu&ecirc;te ou durant une proc&eacute;dure.
+Beaucoup de personnes sont &eacute;tonn&eacute;es, quand j’explique que le m&eacute;tier de d&eacute;tective priv&eacute; ou d’agent de recherches priv&eacute;es est compl&eacute;mentaire du m&eacute;tier d’huissier de justice. Et pourtant ces deux activit&eacute;s forment un duo tr&egrave;s pertinent lors d’une enqu&ecirc;te ou durant une proc&eacute;dure.
 {: .full-width-text}
 
-**La grande diff&eacute;rence entre ces deux professions est la d&eacute;clinaison de leur qualit&eacute; \!** Effectivement l’huissier de justice est oblig&eacute; de d&eacute;cliner sa qualit&eacute; d’officier minist&eacute;riel. Alors que le d&eacute;tective priv&eacute; n’est pas oblig&eacute; de le dire ni m&ecirc;me l’objet de sa mission.
+**La grande diff&eacute;rence entre ces deux professions est la d&eacute;clinaison de leur qualit&eacute; \!** Effectivement l’huissier de justice est oblig&eacute; de d&eacute;cliner sa qualit&eacute; d’officier minist&eacute;riel. Alors que le d&eacute;tective priv&eacute; n’est pas oblig&eacute; de le dire ni m&ecirc;me de donner l’objet de sa mission.
 {: .full-width-text}
 
-Diff&eacute;rents arr&ecirc;ts de la Cour de Cassation le souligne, ainsi que la r&eacute;glementation des deux professions.
+Diff&eacute;rents arr&ecirc;ts de la Cour de Cassation le soulignent, ainsi que la r&eacute;glementation des deux professions.
 {: .full-width-text}
 
 ### Les huissiers de justice
@@ -37,10 +37,10 @@ Pour rappel, l’activit&eacute; d’huissier de justice est explicit&eacute;e d
 ![](/assets/img/huissier.jpeg)
 {: .full-width-text}
 
-Ainsi, dans l’administration de la preuve, l’huissier de justice a une obligation de loyaut&eacute;, il est tenu &nbsp;syst&eacute;matiquement &agrave; d&eacute;cliner sa qualit&eacute; d’officier minist&eacute;riel.
+Ainsi, dans l’administration de la preuve, l’huissier de justice a une obligation de loyaut&eacute;, il est tenu syst&eacute;matiquement de d&eacute;cliner sa qualit&eacute; d’officier minist&eacute;riel.
 {: .full-width-text}
 
-Cette ordonnance a &eacute;t&eacute; pr&eacute;cis&eacute; entre autres par l’arr&ecirc;t de la chambre sociale de la Cour de Cassation du 05 juillet 1995, pourvoir n&deg;92-40050 :
+Cette ordonnance a &eacute;t&eacute; pr&eacute;cis&eacute;e entre autre par l’arr&ecirc;t de la chambre sociale de la Cour de Cassation du 05 juillet 1995, pourvoir n&deg;92-40050 :
 {: .full-width-text}
 
 &laquo; \[…\]&nbsp;*Attendu cependant que manque &agrave; ses obligations professionnelles l'huissier de justice, commis en sa qualit&eacute; d'officier minist&eacute;riel, dans le cadre de l'ordonnance du 2 novembre 1945, pour effectuer des constatations purement mat&eacute;rielles, qui prend une fausse qualit&eacute; pour obtenir des renseignements d'un interlocuteur ; qu'il en r&eacute;sulte que le proc&egrave;s-verbal de constat qu'il a &eacute;tabli dans ces conditions ne peut &ecirc;tre retenu comme preuve ;* \[…\] &raquo;.
@@ -52,10 +52,10 @@ De plus, l’huissier ne peut pas recourir &agrave; des stratag&egrave;mes duran
 &laquo; \[…\] *Mais attendu d'abord, que si un constat d'huissier ne constitue pas un proc&eacute;d&eacute; clandestin de surveillance n&eacute;cessitant l'information pr&eacute;alable du salari&eacute;, en revanche il est interdit &agrave; cet officier minist&eacute;riel d'avoir recours &agrave; un stratag&egrave;me pour recueillir une preuve ;&nbsp;*\[…\] &raquo;.
 {: .full-width-text}
 
-Par tous ces arr&ecirc;ts, l’huissier de justice est comp&eacute;tent pour r&eacute;aliser des constats ayant force probante jusqu’&agrave; preuve du contraire, que ce soit en mati&egrave;re civil, commerciale ou social.
+Par tous ces arr&ecirc;ts, l’huissier de justice est comp&eacute;tent pour r&eacute;aliser des constats ayant force probante jusqu’&agrave; preuve du contraire, que ce soit en mati&egrave;re civile, commerciale ou sociale.
 {: .full-width-text}
 
-Le d&eacute;tective priv&eacute; ou agent de recherche priv&eacute; est une autre activit&eacute; o&ugrave; la collecte de preuve est essentielle. Par plusieurs biais, ces deux professions ne sont pas rivales, mais bel et bien compl&eacute;mentaire.
+Le d&eacute;tective priv&eacute; ou agent de recherches priv&eacute;es est une autre activit&eacute; o&ugrave; la collecte de preuve est essentielle. Par plusieurs biais, ces deux professions ne sont pas rivales, mais bel et bien compl&eacute;mentaires.
 {: .full-width-text}
 
 ### Les d&eacute;tectives priv&eacute;s
@@ -73,25 +73,25 @@ La conclusion est donc que le d&eacute;tective priv&eacute; est le seul professi
 Afin de pouvoir exercer ce m&eacute;tier et &ecirc;tre soumis &agrave; cet article, il y a certaines conditions.
 {: .full-width-text}
 
-Il faut dans un premier temps, que la personne ait suivi la formation de d&eacute;tective priv&eacute; et soit dipl&ocirc;m&eacute;e ([lien vers l’article](https://dlp-investigations.fr/diplome-et-formation/)). De plus, cette derni&egrave;re doit &ecirc;tre agr&eacute;e et autoris&eacute;e par le CNAPS ou Conseil Nationale des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; ([lien vers l’article](https://dlp-investigations.fr/le-cnaps/)) et bien entendu respecter toutes les r&egrave;glementations dont le code de D&eacute;ontologie ([lien vers l’article](https://dlp-investigations.fr/le-code-de-deontologie/)).
+Il faut dans un premier temps, que la personne ait suivi la formation de d&eacute;tective priv&eacute; et soit dipl&ocirc;m&eacute;e ([lien vers l’article](https://dlp-investigations.fr/diplome-et-formation/)). De plus, cette derni&egrave;re doit &ecirc;tre agr&eacute;&eacute;e et autoris&eacute;e par le CNAPS ou Conseil Nationale des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; ([lien vers l’article](https://dlp-investigations.fr/le-cnaps/)) et bien entendu respecter toutes les r&eacute;glementations dont le code de D&eacute;ontologie ([lien vers l’article](https://dlp-investigations.fr/le-code-de-deontologie/)).
 {: .full-width-text}
 
-Il est important de v&eacute;rifier ces diff&eacute;rents points avec de faire appel &agrave; une agence de d&eacute;tective priv&eacute;.
+Il est important de v&eacute;rifier ces diff&eacute;rents points avant de faire appel &agrave; une agence de d&eacute;tective priv&eacute;.
 {: .full-width-text}
 
 ![](/assets/img/CR.jpg)
 {: .full-width-text}
 
-Les rapports des d&eacute;tectives priv&eacute;s sont recevables en justice par l’ensemble de ces points ([lien vers l’article](https://dlp-investigations.fr/la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/)).
+Les rapports des d&eacute;tectives priv&eacute;s sont recevables en justice pour l’ensemble de ces points ([lien vers l’article](https://dlp-investigations.fr/la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/)).
 {: .full-width-text}
 
 ### La compl&eacute;mentarit&eacute; des deux professions
 {: .full-width-text}
 
-D’une part nous avons des constatations qui font foi jusqu’&agrave; preuve du contraire et de l’autre un professionnel qui peut proc&eacute;der &agrave; des investigations avant une constatations pour quelle soit la plus pertinente.
+D’une part nous avons des constatations qui font foi jusqu’&agrave; preuve du contraire et de l’autre un professionnel qui peut proc&eacute;der &agrave; des investigations avant une constatation pour qu'elle soit la plus pertinente.
 {: .full-width-text}
 
-Gr&acirc;ce &agrave; cette enqu&ecirc;te, l’huissier de justice saura o&ugrave; aller, quand aller et quoi voir. Ainsi la constatation devient chirurgicale et tr&egrave;s int&eacute;ressante. Les conditions seront toutes respect&eacute;es cependant.
+Gr&acirc;ce &agrave; cette enqu&ecirc;te, l’huissier de justice saura o&ugrave; aller, quand et quoi voir. Ainsi la constatation devient chirurgicale et tr&egrave;s int&eacute;ressante. Les conditions seront toutes respect&eacute;es cependant.
 {: .full-width-text}
 
 Il ne faut donc pas h&eacute;siter &agrave; faire travailler ce duo sur les dossiers qui le n&eacute;cessitent, pour une meilleure pr&eacute;cision du rendu.
