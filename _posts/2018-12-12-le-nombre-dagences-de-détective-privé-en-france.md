@@ -5,19 +5,19 @@ image_preview_image_path: /assets/img/nombre de détective privé.jpg
 permalink: '/blog/:title'
 ---
 
-L’une des questions la plus pos&eacute;e est : &laquo; C’est la premi&egrave;re fois que je rencontre un d&eacute;tective priv&eacute;, **combien y a-t-il d’agences en France et &agrave; Paris ?**&nbsp;&raquo;.
+L’une des questions la plus pos&eacute;e est : &laquo; C’est la premi&egrave;re fois que je rencontre un d&eacute;tective priv&eacute;, **combien y a-t-il d’agences en France et &agrave; Paris ?**&nbsp;&raquo;
 {: .full-width-text}
 
-En France, il y a 4 centres de formation ([lien vers l’article](https://dlp-investigations.fr/diplome-et-formation/)) avec des promotions d’environ 20 &eacute;l&egrave;ves par an. D’un point de vue statistique, 3 ans plus tard, seulement un tiers travaille encore en tant que d&eacute;tective priv&eacute;.
+En France, il y a 4 centres de formations ([lien vers l’article](https://dlp-investigations.fr/diplome-et-formation/)) avec des promotions d’environ 20 &eacute;l&egrave;ves par an. D’un point de vue statistique, 3 ans plus tard, seulement un tiers travaille encore en tant que d&eacute;tective priv&eacute;.
 {: .full-width-text}
 
 Toute agence de d&eacute;tective priv&eacute; doit &ecirc;tre dot&eacute;e d’une autorisation d’exercer d&eacute;livr&eacute;e par le CNAPS, ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute;.
 {: .full-width-text}
 
-### Liste des autorisations du CNAPS pour les agences de d&eacute;tective priv&eacute;s
+### Liste des autorisations du CNAPS pour les agences de d&eacute;tective priv&eacute;
 {: .full-width-text}
 
-Depuis sa cr&eacute;ation en janvier 2012 le CNAPS, ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; ([lien vers l’article](https://dlp-investigations.fr/le-cnaps/)), r&eacute;gule la profession via un agr&eacute;ment ou AGD pour le dirigeant de la soci&eacute;t&eacute; et une autorisation ou AUT pour l’agence. Si une soci&eacute;t&eacute; poss&egrave;de plusieurs agences, il faudra une autorisation pour chacune d’entre elles.
+Depuis sa cr&eacute;ation en janvier 2012, le CNAPS, ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; ([lien vers l’article](https://dlp-investigations.fr/le-cnaps/)), r&eacute;gule la profession via un agr&eacute;ment ou AGD pour le dirigeant de la soci&eacute;t&eacute; et une autorisation ou AUT pour l’agence. Si une soci&eacute;t&eacute; poss&egrave;de plusieurs agences, il faudra une autorisation pour chacune d’entre elles.
 {: .full-width-text}
 
 Chaque autorisation est transmise &agrave; la suite d’une demande de la part du dirigeant de l’agence. Lors d’une cessation d’activit&eacute;, le dirigeant doit aussi pr&eacute;venir le CNAPS.
@@ -51,7 +51,7 @@ Il faut pr&eacute;ciser qu’en Ile-de-France, Paris est la ville o&ugrave; il y
 ### Etude de l’INSEE &laquo; La s&eacute;curit&eacute; : un secteur toujours en plein essor &raquo; dat&eacute;e du 18 octobre 2016
 {: .full-width-text}
 
-L’INSEE, ou Institut National de la Statistique et des Etudes Economique a r&eacute;alis&eacute; une &eacute;tude du secteur de la s&eacute;curit&eacute; priv&eacute;e contr&ocirc;l&eacute; par le CNAPS.
+L’INSEE, ou Institut National de la Statistique et des Etudes Economiques a r&eacute;alis&eacute; une &eacute;tude du secteur de la s&eacute;curit&eacute; priv&eacute;e contr&ocirc;l&eacute; par le CNAPS.
 {: .full-width-text}
 
 Par rapport &agrave; la nomenclature APE ou NAF, le secteur &laquo; Enqu&ecirc;tes et s&eacute;curit&eacute; &raquo; correspond &agrave; la division 80.
@@ -60,12 +60,12 @@ Par rapport &agrave; la nomenclature APE ou NAF, le secteur &laquo; Enqu&ecirc;t
 Le secteur de la s&eacute;curit&eacute; priv&eacute;e est divis&eacute; en trois activit&eacute;s :
 {: .full-width-text}
 
-* La s&eacute;curit&eacute; priv&eacute;e, code APE 8010Z, repr&eacute;sente environ 77.5% du chiffre d’affaire.<br>Elle concerne les services de garde et de patrouille, les transports de fonds et les agents de s&eacute;curit&eacute;.<br>&nbsp;
-* Les syst&egrave;mes de s&eacute;curit&eacute;, code APE 8020Z, repr&eacute;sentent 19.5% du chiffre d’affaire.<br>Cela correspond aux op&eacute;rateurs de surveillance et de t&eacute;l&eacute;surveillance des syst&egrave;mes de s&eacute;curit&eacute;.<br>&nbsp;
-* Les activit&eacute;s d’enqu&ecirc;te, code APE 8030Z, repr&eacute;sentent 3% du chiffre d’affaire.<br>Ces derni&egrave;res correspondent aux d&eacute;tectives priv&eacute;s.
+* La s&eacute;curit&eacute; priv&eacute;e, code APE 8010Z, repr&eacute;sente environ 77.5% du chiffre d’affaires.<br>Elle concerne les services de garde et de patrouille, les transports de fonds et les agents de s&eacute;curit&eacute;.<br>&nbsp;
+* Les syst&egrave;mes de s&eacute;curit&eacute;, code APE 8020Z, repr&eacute;sentent 19.5% du chiffre d’affaires.<br>Cela correspond aux op&eacute;rateurs de surveillance et de t&eacute;l&eacute;surveillance des syst&egrave;mes de s&eacute;curit&eacute;.<br>&nbsp;
+* Les activit&eacute;s d’enqu&ecirc;te, code APE 8030Z, repr&eacute;sentent 3% du chiffre d’affaires.<br>Ces derni&egrave;res correspondent aux d&eacute;tectives priv&eacute;s.
 
 Le secteur de la s&eacute;curit&eacute; priv&eacute;e est en progression depuis les ann&eacute;es 2015. L’activit&eacute; d’enqu&ecirc;te priv&eacute;e a eu une progression d’environ 35% de 2010 &agrave; 2016.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
