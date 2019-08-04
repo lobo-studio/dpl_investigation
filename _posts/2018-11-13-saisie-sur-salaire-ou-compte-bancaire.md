@@ -8,7 +8,7 @@ permalink: '/blog/:title'
 Vous avez une cr&eacute;ance aupr&egrave;s d’un locataire parti sans payer de plusieurs mois ? Vous avez r&eacute;ussi &agrave; avoir une ordonnance ex&eacute;cutoire d’injonction de payer aupr&egrave;s des instances mais votre ancien locataire ne bouge toujours pas ?
 {: .full-width-text}
 
-Dans certains cas de recouvrement, les &eacute;ch&eacute;anciers ne fonctionnement pas, ou le cr&eacute;ancier n’est pas en mesure d’effectuer le remboursement. Une saisie peut &ecirc;tre mise en place pour plus d’efficacit&eacute; gr&acirc;ce &agrave; un titre ex&eacute;cutoire.
+Dans certains cas de recouvrement, les &eacute;ch&eacute;anciers ne fonctionnent pas, ou le cr&eacute;ancier n’est pas en mesure d’effectuer le remboursement. Une saisie peut &ecirc;tre mise en place pour plus d’efficacit&eacute; gr&acirc;ce &agrave; un titre ex&eacute;cutoire.
 {: .full-width-text}
 
 **Comment se passe une saisie ? Qu’est ce qui peut &ecirc;tre saisi ?**
@@ -30,12 +30,12 @@ Dans les sommes partiellement saisissables nous pouvons citer :
 Dans les sommes insaisissables, nous pouvons &eacute;num&eacute;rer :
 {: .full-width-text}
 
-* Revenu de solidarit&eacute; active ou RSA pour une personne seule
+* Revenu de Solidarit&eacute; Active ou RSA pour une personne seule
 * Prime d’activit&eacute;
 * Indemnit&eacute; en capital ou rente pour accident de travail
 * Indemnit&eacute; de d&eacute;part cons&eacute;cutif &agrave; la situation &eacute;conomique de l’entreprise
 
-La saisie sur salaire s’effectue apr&egrave;s l’&eacute;chec d’une conciliation entre les 2 parties. La saisie est prononc&eacute;e par le juge, sous forme d’ordonnance. Le tribunal adressera un acte de saisie &agrave; l’employeur du d&eacute;biteur via une lettre recommand&eacute;e. A compter de ce dernier, l’employeur devra verser, tous les mois, au tribunal, la somme d&ucirc; en fonction du salaire annuel.
+La saisie sur salaire s’effectue apr&egrave;s l’&eacute;chec d’une conciliation entre les 2 parties. La saisie est prononc&eacute;e par le juge, sous forme d’ordonnance. Le tribunal adressera un acte de saisie &agrave; l’employeur du d&eacute;biteur via une lettre recommand&eacute;e. A compter de cette lettre, l’employeur devra verser, tous les mois, au tribunal, la somme due en fonction du salaire annuel.
 {: .full-width-text}
 
 La somme saisissable du salaire se calcule en fonction du salaire per&ccedil;u pendant les 12 mois avant la notification de saisie. Cependant les aides financi&egrave;res comme les allocations familiales, ne sont pas prises en compte pour d&eacute;terminer le revenu net annuel.
@@ -71,7 +71,7 @@ Afin de r&eacute;aliser des saisies sur salaire et comptes bancaires, il faut av
 Une enqu&ecirc;te compl&egrave;te nous permettra de trouver ces &eacute;l&eacute;ments et de les transmettre sous la forme d’un rapport qui sera recevable en justice.
 {: .full-width-text}
 
-L’agence DLP Investigations vous &eacute;coute, vous conseil et vous accompagne durant toutes vos questions et les recherches en lien.
+L’agence DLP Investigations vous &eacute;coute, r&eacute;pond &agrave; vos questions, vous conseille et vous accompagne durant les recherches.
 {: .full-width-text}
 
 Nous &eacute;paulons les cr&eacute;anciers qui veulent recouvrer leurs dettes et nous assistons les professionnels de droit tel que les huissiers afin que les sommes de leurs clients puissent &ecirc;tre r&eacute;cup&eacute;r&eacute;es.
@@ -80,5 +80,5 @@ Nous &eacute;paulons les cr&eacute;anciers qui veulent recouvrer leurs dettes et
 N’oublions pas, la profession de d&eacute;tective priv&eacute; est r&eacute;glement&eacute;e et a foi de preuve devant les tribunaux.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
