@@ -23,7 +23,7 @@ De plus en plus d’agences immobili&egrave;res ou gestionnaires de biens locati
 ![](/assets/img/Logements .jpg)
 {: .full-width-text}
 
-Pour obtenir une location, le dossier peut contenir des informations enrob&eacute;es voire l&eacute;g&egrave;rement am&eacute;lior&eacute;s, mais d’autres peuvent &ecirc;tre soumises &agrave; &laquo; faux et usage de faux &raquo;, ce qui est p&eacute;nalement r&eacute;pressible.
+Pour obtenir une location, le dossier peut contenir des informations enrob&eacute;es voire l&eacute;g&egrave;rement am&eacute;lior&eacute;es, mais d’autres peuvent &ecirc;tre soumises &agrave; &laquo; faux et usage de faux &raquo;, ce qui est p&eacute;nalement r&eacute;pressible.
 {: .full-width-text}
 
 Les plus connus sont :
