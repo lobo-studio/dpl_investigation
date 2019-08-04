@@ -45,7 +45,7 @@ Lorsque le recouvrement amiable &eacute;choue, le particulier ou l’entreprise 
 
 Le d&eacute;tective priv&eacute; est en mesure de faire ces recherches. Effectivement, il dispose de ce droit gr&acirc;ce aux autorisations et &agrave; la r&eacute;glementation de sa profession ([lien vers l’article](https://dlp-investigations.fr/le-code-de-deontologie/)).
 
-Les enqu&ecirc;tes financi&egrave;re les plus connues&nbsp; :
+Les enqu&ecirc;tes financi&egrave;res les plus connues&nbsp; :
 
 * La recherche de revenus
 * La recherche de comptes bancaires
