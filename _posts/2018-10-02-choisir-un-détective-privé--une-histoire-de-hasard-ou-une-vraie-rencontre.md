@@ -35,7 +35,7 @@ Cela est identique pour la question g&eacute;ographique. Il faut &ecirc;tre s&uc
 
 Une mission peut &ecirc;tre plus ou moins urgente. Il faut donc &ecirc;tre s&ucirc;r que l’agence dispose de fileurs et d’enqu&ecirc;teurs disponibles &agrave; ce moment-l&agrave; et pour la dur&eacute;e n&eacute;cessaire.
 
-Le dernier point est le budget. Les tarifs des d&eacute;tectives priv&eacute;s sont fix&eacute;s librement, il peut &ecirc;tre int&eacute;ressant de se d&eacute;terminer un budget maximum. Il ne faut pas oublier que les prestations sont factur&eacute;es qu’importe le r&eacute;sultat, except&eacute; pour la recherche d’adresse-t&eacute;l&eacute;phone dans le cas d’une recherche de d&eacute;biteur. Rappelons-nous que les d&eacute;tectives ont une obligation de moyens et non de r&eacute;sultat.
+Le dernier point est le budget. Les tarifs des d&eacute;tectives priv&eacute;s sont fix&eacute;s librement, il peut &ecirc;tre int&eacute;ressant de d&eacute;terminer un budget maximum. Il ne faut pas oublier que les prestations sont factur&eacute;es qu’importe le r&eacute;sultat, except&eacute; pour la recherche d’adresse-t&eacute;l&eacute;phone dans le cas d’une recherche de d&eacute;biteur. Rappelons-nous que les d&eacute;tectives ont une obligation de moyens et non de r&eacute;sultat.
 
 Durant la mission, surtout en cas de filature, vous pourrez demander au d&eacute;tective priv&eacute; de vous tenir au courant de la situation budg&eacute;taire. Ainsi, vous pourrez g&eacute;rer votre budget en fonction du r&eacute;sultat acquis.
 
