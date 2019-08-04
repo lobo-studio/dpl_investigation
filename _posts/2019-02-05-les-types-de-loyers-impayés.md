@@ -37,7 +37,7 @@ Une recherche de d&eacute;biteur va permettre de retrouver l’adresse du locata
 
 Une enqu&ecirc;te de solvabilit&eacute;, lors de cr&eacute;ance importante, va permettre de savoir si une saisie peut &ecirc;tre pr&eacute;par&eacute;e afin de recouvrer la somme due ([lien vers l’article](https://dlp-investigations.fr/l-enquete-de-solvabilite/)).
 
-En fonction du contrat &eacute;tablit au pr&eacute;alable, il y peut avoir des int&eacute;r&ecirc;ts &agrave; d&eacute;dommager, un retour du v&eacute;hicule ou du produit obligatoire. Cela va d&eacute;pendre des conditions.
+En fonction du contrat &eacute;tabli au pr&eacute;alable, il y peut avoir des int&eacute;r&ecirc;ts &agrave; d&eacute;dommager, un retour du v&eacute;hicule ou du produit obligatoire. Cela va d&eacute;pendre des conditions.
 
 L’agence DLP Investigations vous accompagne durant toute l’action avec son r&eacute;seau d’experts compos&eacute; d’avocats, d’huissiers et d’agences de recouvrement, afin de trouver la meilleure solution et dans les meilleurs d&eacute;lais.
 
