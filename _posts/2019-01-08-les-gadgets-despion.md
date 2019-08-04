@@ -5,9 +5,9 @@ image_preview_image_path: /assets/img/Gadgets.jpg
 permalink: '/blog/:title'
 ---
 
-Qui n’a pas vu dans les films et s&eacute;ries ou lu dans les romans, les gadgets qu’utilisent certains d&eacute;tectives dont l’un des plus connus est bien s&ucirc;r, l’Inspecteur Gadgets.
+Qui n’a pas vu dans les films et s&eacute;ries ou lu dans les romans, les gadgets qu’utilisent certains d&eacute;tectives dont l’un des plus connus est bien s&ucirc;r, l’Inspecteur Gadget.
 
-**R&eacute;guli&egrave;rement, les personnes me demandent si l’agence DLP Investigations en utilisent durant ses enqu&ecirc;tes et filatures. La r&eacute;ponse est non.**
+**R&eacute;guli&egrave;rement, des personnes me demandent si l’agence DLP Investigations en utilisent durant ses enqu&ecirc;tes et filatures. La r&eacute;ponse est non.**
 
 Certains gadgets sont ill&eacute;gaux et d’autres diminuent fortement la pertinence de notre intervention.
 
@@ -17,8 +17,8 @@ Aujourd’hui, gr&acirc;ce &agrave; des sites internet, toute personne peut ache
 
 Nous pouvons citer plusieurs exemples :
 
-* Les cam&eacute;ras espionnes dans les montres, les cl&eacute;s de voitures, les stylos, les lunettes, etc.
-* Les micros espions dans les miroirs, les cl&eacute;s, les bips, etc.
+* Les cam&eacute;ras espion dans les montres, les cl&eacute;s de voitures, les stylos, les lunettes, etc.
+* Les micros espion dans les miroirs, les cl&eacute;s, les bips, etc.
 * …
 
 ![](/assets/img/Micro espion.jpg)
@@ -29,7 +29,7 @@ Les trouver est extr&ecirc;mement simple, les acheter ne co&ucirc;te rien, la r&
 
 Cependant, il y a des r&eacute;glementations fran&ccedil;aises et europ&eacute;ennes qu’il faut prendre en compte et respecter. D’o&ugrave; le bien-fond&eacute; de faire appel &agrave; un d&eacute;tective priv&eacute;, un avocat ou &agrave; un huissier pour avoir des conseils avis&eacute;s.
 
-L’exemple le plus illustratif est la balise pour g&eacute;olocaliser une voiture.
+La meilleure illustration est la balise pour g&eacute;olocaliser une voiture.
 
 Dans certains dossiers comme les relations extra-conjugales, le client nous demande si nous pouvons g&eacute;olocaliser son ou sa conjointe afin de conna&icirc;tre ses d&eacute;placements. Mais c’est interdit \!
 
