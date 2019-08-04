@@ -23,7 +23,7 @@ Il faut d&eacute;montrer &agrave; sa banque que le cr&eacute;dit pourra &ecirc;t
 
 ![](/assets/img/Impayé.jpg)
 
-Si les conditions ne sont pas r&eacute;unies le pr&ecirc;t ne sera pas accord&eacute;. A l’inverse si les conditions sont r&eacute;unies, le pr&ecirc;t sera accord&eacute;. Mais, pour plusieurs raisons, un changement de revenus ou autres, la personne peut ne plus pouvoir rembourser &agrave; chaque &eacute;ch&eacute;ance. Il y a donc un loyer impay&eacute;.
+Si les conditions ne sont pas r&eacute;unies, le pr&ecirc;t ne sera pas accord&eacute;. A l’inverse si les conditions sont r&eacute;unies, le pr&ecirc;t sera accord&eacute;. Mais, pour plusieurs raisons, un changement de revenus ou autres, la personne peut ne plus pouvoir rembourser &agrave; chaque &eacute;ch&eacute;ance. Il y a donc un loyer impay&eacute;.
 
 La troisi&egrave;me cat&eacute;gorie de loyer impay&eacute; est orient&eacute;e vers la location de produit comme un v&eacute;hicule via un LOA, Location avec Option d’Achat ou leasing, de l’&eacute;lectrom&eacute;nager ou des produits high-tech. Dans le cas du LOA, la personne paye un loyer en fonction d’un &eacute;ch&eacute;ancier pr&eacute;d&eacute;fini et sur une dur&eacute;e d&eacute;termin&eacute;e. A la fin de ce d&eacute;lai, la personne peut soit racheter le v&eacute;hicule soit le rendre &agrave; l’&eacute;tablissement propri&eacute;taire.
 
