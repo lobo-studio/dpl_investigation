@@ -33,7 +33,7 @@ Pour ce, il faut conna&icirc;tre l’employeur de la personne ainsi que les reve
 
 Pour certains dossiers, des demandes particuli&egrave;res peuvent &ecirc;tre n&eacute;cessaires. En effet, chaque dossier demande une prestation sur-mesure en fonction des r&eacute;els besoins. Avec le cabinet d’avocat nous &eacute;num&eacute;rons les points o&ugrave; il faut obtenir des r&eacute;ponses ou v&eacute;rifier des faits. Par la suite, nous organisons la prestation en fonction de cela.
 
-Ces demandes peuvent aller de la filature afin de comparer les conditions de vie r&eacute;elles et celles dites, ou pour v&eacute;rifier une concurrence d&eacute;loyale &agrave; la v&eacute;rification de pr&eacute;-embauche en passant par la recherche d’h&eacute;ritier.
+Ces demandes peuvent aller de la filature afin de comparer les conditions de vie r&eacute;elles et celles dites, ou pour v&eacute;rifier une concurrence d&eacute;loyale &agrave; la v&eacute;rification de pr&eacute;-embauche en passant par la recherche d’h&eacute;ritiers.
 
 Une liste exhaustive des prestations faisables n’est pas envisageable. Effectivement, tant qu’il y a un lien l&eacute;gitime et que le cadre juridique est l&eacute;gal, toutes les missions sont possibles. Il faut r&eacute;fl&eacute;chir &agrave; la faisabilit&eacute; et au pourcentage de r&eacute;ussite avant de la mettre en place.
 
