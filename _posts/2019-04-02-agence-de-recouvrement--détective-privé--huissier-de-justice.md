@@ -51,7 +51,7 @@ Les enqu&ecirc;tes financi&egrave;res les plus connues&nbsp; :
 * La recherche de comptes bancaires
 * La recherche de patrimoine immobilier
 
-Toute enqu&ecirc;te d’un d&eacute;tective priv&eacute; donne lieu &agrave; un rapport recevable en justice ([lien vers l’article](https://dlp-investigations.fr/la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/)), qui pourra &ecirc;tre utiliser lors du recouvrement judiciaire.
+Toute enqu&ecirc;te d’un d&eacute;tective priv&eacute; donne lieu &agrave; un rapport recevable en justice ([lien vers l’article](https://dlp-investigations.fr/la-recevabilite-dun-rapport-denquete-devant-les-tribunaux/)), qui pourra &ecirc;tre utilis&eacute; lors du recouvrement judiciaire.
 
 ### L’huissier de justice
 
