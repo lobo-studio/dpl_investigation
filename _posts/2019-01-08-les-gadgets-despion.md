@@ -47,7 +47,7 @@ De plus, un d&eacute;tective priv&eacute; peut collaborer avec les avocats et le
 
 Toute personne qui peut acheter ce type de gadget pense devenir un d&eacute;tective priv&eacute; voire un Sherlock Holmes en herbe. Mais ce n’est pas le cas.
 
-Rappel : Pour devenir d&eacute;tective priv&eacute; il faut suivre une formation et valider un dipl&ocirc;me (lien vers l’article), puis &ecirc;tre agr&eacute;&eacute; et autoris&eacute; par le CNAPS ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; (lien vers l’article) pour exercer.
+Rappel : Pour devenir d&eacute;tective priv&eacute; il faut suivre une formation et valider un dipl&ocirc;me (lien vers l’article), puis &ecirc;tre agr&eacute;&eacute; et autoris&eacute; par le CNAPS ou Conseil National des Activit&eacute;s Priv&eacute;es de S&eacute;curit&eacute; ([lien vers l’article](https://dlp-investigations.fr/le-cnaps/)) pour exercer.
 
 **L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
