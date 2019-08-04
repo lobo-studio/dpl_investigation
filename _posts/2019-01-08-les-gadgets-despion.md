@@ -39,7 +39,7 @@ D’autres clients viennent nous voir et nous disent qu’ils ont d&eacute;j&agr
 
 Outre le fait que certains gadgets ne sont pas tr&egrave;s performants, ni une grande autonomie et que leur utilisation rel&egrave;ve plus du loisir, il n’est pas n&eacute;cessaire d’en avoir pour obtenir des r&eacute;ponses.
 
-Les d&eacute;tectives priv&eacute;s sont form&eacute;s, th&eacute;oriquement et sur le terrain pour r&eacute;pondre aux questions d’un dossier afin de trouver la pi&egrave;ce manquante. Ils n’ont donc pas besoin de gadgets pour accomplir leur mission. Cela peut m&ecirc;me alt&eacute;r&eacute; leur travail.
+Les d&eacute;tectives priv&eacute;s sont form&eacute;s, th&eacute;oriquement et sur le terrain, pour r&eacute;pondre aux questions d’un dossier afin de trouver la pi&egrave;ce manquante. Ils n’ont donc pas besoin de gadgets pour accomplir leur mission. Cela peut m&ecirc;me alt&eacute;r&eacute; leur travail.
 
 Un fileur proc&egrave;de &agrave; des filatures ([lien vers l’article](https://dlp-investigations.fr/la-filature/)) afin d’observer les faits et gestes d’une personne et de retranscrire objectivement cela dans un rapport de mission tr&egrave;s pr&eacute;cis. Il a des strat&eacute;gies, des techniques pour obtenir les r&eacute;sultats les plus pertinents en fonction de la demande.
 
