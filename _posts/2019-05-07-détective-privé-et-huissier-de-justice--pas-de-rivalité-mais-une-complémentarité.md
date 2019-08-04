@@ -91,11 +91,11 @@ Les rapports des d&eacute;tectives priv&eacute;s sont recevables en justice pour
 D’une part nous avons des constatations qui font foi jusqu’&agrave; preuve du contraire et de l’autre un professionnel qui peut proc&eacute;der &agrave; des investigations avant une constatation pour qu'elle soit la plus pertinente.
 {: .full-width-text}
 
-Gr&acirc;ce &agrave; cette enqu&ecirc;te, l’huissier de justice saura o&ugrave; aller, quand et quoi voir. Ainsi la constatation devient chirurgicale et tr&egrave;s int&eacute;ressante. Les conditions seront toutes respect&eacute;es cependant.
+Gr&acirc;ce &agrave; cette enqu&ecirc;te, l’huissier de justice saura o&ugrave; aller, quand et quoi voir. Ainsi, la constatation devient chirurgicale et tr&egrave;s int&eacute;ressante. Les conditions seront toutes respect&eacute;es cependant.
 {: .full-width-text}
 
 Il ne faut donc pas h&eacute;siter &agrave; faire travailler ce duo sur les dossiers qui le n&eacute;cessitent, pour une meilleure pr&eacute;cision du rendu.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
