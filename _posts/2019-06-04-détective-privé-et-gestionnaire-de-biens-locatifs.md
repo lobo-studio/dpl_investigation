@@ -31,7 +31,7 @@ Les plus connus sont :
 
 * La colocation dissimul&eacute;e
 
-Beaucoup d’agences ou de particuliers sont r&eacute;calcitrant &agrave; la colocation. Pour parer cela, soit la location est au nom d’une seule personne sur les deux, soit au nom des deux mais sous forme de conjoints.
+Beaucoup d’agences ou de particuliers sont r&eacute;calcitrants &agrave; la colocation. Pour parer cela, soit la location est au nom d’une seule personne sur les deux, soit au nom des deux mais sous forme de conjoints.
 {: .full-width-text}
 
 * L’&eacute;tudiant sur le papier
