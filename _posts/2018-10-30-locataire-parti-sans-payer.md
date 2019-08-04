@@ -17,11 +17,11 @@ Dans le cas du secteur priv&eacute;, le locataire est en impay&eacute; d&egrave;
 
 Dans le cadre d’une aide de la CAF vers&eacute;e directement au bailleur, le locataire est en impay&eacute; s’il n’a pas r&eacute;gl&eacute; 2 mois complets de loyers ou bien 3 mois r&eacute;siduels.
 
-Afin de se prot&eacute;ger et d’&eacute;viter les loyers impay&eacute;s, le bailleur peut mettre en place une garantie contre loyers impay&eacute;s ou GLI. Cette garantie d&eacute;pend de chaque assureur. Elle rembourse les loyers impay&eacute;s au bailleur et r&egrave;gle les frais de contentieux en cas de litige.
+Afin de se prot&eacute;ger et d’&eacute;viter les loyers impay&eacute;s, le bailleur peut mettre en place une Garantie contre Loyers Impay&eacute;s ou GLI. Cette garantie d&eacute;pend de chaque assureur. Elle rembourse les loyers impay&eacute;s au bailleur et r&egrave;gle les frais de contentieux en cas de litige.
 
 Certains assureurs proposent en plus des frais de remboursement de d&eacute;t&eacute;rioration apr&egrave;s le d&eacute;part du locataire, l’indemnisation du bailleur en cas de d&eacute;c&egrave;s ou d&eacute;part pr&eacute;matur&eacute; du locataire ou encore l’assurance pour vacance locative lorsqu’il y a un laps de temps entre 2 locations.
 
-Pour mettre en place cette assurance il faut que le locataire remplisse certains crit&egrave;res comme poss&eacute;der un CDI par exemple. Le bailleur doit aussi se conformer &agrave; certaines conditions, tel que louer un logement aux normes, int&eacute;grer une clause r&eacute;solutoire pour d&eacute;faut de paiement des loyers dans le contrat de bail et constituer un dossier complet sur le locataire avec des pi&egrave;ces justifiants la solvabilit&eacute; de ce dernier.
+Pour mettre en place cette assurance il faut que le locataire remplisse certains crit&egrave;res comme poss&eacute;der un CDI par exemple. Le bailleur doit aussi se conformer &agrave; certaines conditions, tel que louer un logement aux normes, int&eacute;grer une clause r&eacute;solutoire pour d&eacute;faut de paiement des loyers dans le contrat de bail et constituer un dossier complet sur le locataire avec des pi&egrave;ces justifiant la solvabilit&eacute; de ce dernier.
 
 ### Les possibilit&eacute;s de recouvrement
 
@@ -33,9 +33,9 @@ Si la solution amiable ne donne rien, il faut passer &agrave; une proc&eacute;du
 
 ![](/assets/img/Recherche compte bancaire.jpg)
 
-Le recours doit &ecirc;tre d&eacute;pos&eacute; aupr&egrave;s du greffe du tribunal comp&eacute;tent par rapport au lieu de la location. Selon le montant de l’impay&eacute;, le tribunal est diff&eacute;rent. Si la somme est inf&eacute;rieure &agrave; 10 000 euros &ccedil;a sera le tribunal d’instance qui sera comp&eacute;tent. Si la somme est sup&eacute;rieure &agrave; ce m&ecirc;me montant, il faudra aller devant le tribunal de grande instance. En cas de litige commercial, le tribunal de commerce sera comp&eacute;tent.
+Le recours doit &ecirc;tre d&eacute;pos&eacute; aupr&egrave;s du greffe du tribunal comp&eacute;tent par rapport au lieu de la location. Selon le montant de l’impay&eacute;, le tribunal est diff&eacute;rent. Si la somme est inf&eacute;rieure &agrave; 10 000 euros c'est le Tribunal d’Instance qui sera comp&eacute;tent. Si la somme est sup&eacute;rieure &agrave; ce m&ecirc;me montant, il faudra aller devant le Tribunal de Grande Instance. En cas de litige commercial, le Tribunal de Commerce sera comp&eacute;tent.
 
-Si 1 mois apr&egrave;s l’injonction de payer, le locataire n’a toujours pas r&eacute;pondu, le bailleur peut demander au greffe d’apposer la formule ex&eacute;cutoire sur l’ordonnance d’injonction de payer. Il y aura donc une valeur de jugement.
+Si 1 mois apr&egrave;s l’injonction de payer, le locataire n’a toujours pas r&eacute;pondu, le bailleur peut demander au greffe d’apposer la formule ex&eacute;cutoire sur l’ordonnance d’injonction de payer. Elle aura donc une valeur de jugement.
 
 ### L’apport du d&eacute;tective priv&eacute;
 
@@ -47,9 +47,9 @@ DLP Investigations est au c&ocirc;t&eacute; de tous les acteurs pour retrouver l
 
 Au-del&agrave; de cette action, pour de grosses cr&eacute;ances, DLP Investigations peut r&eacute;aliser une enqu&ecirc;te de solvabilit&eacute; afin de s’assurer que le locataire a de quoi rembourser le bailleur. Cette enqu&ecirc;te de solvabilit&eacute; ([lien vers l’article](https://dlp-investigations.fr/l-enquete-de-solvabilite/){: target="_blank"}) indiquera les revenus et les comptes bancaires du locataire.
 
-Si l’huissier n’obtient pas le remboursement total ou la mise en place d’un &eacute;ch&eacute;ancier, une saisie sur salaire ou sur compte bancaire peut &ecirc;tre r&eacute;alis&eacute; par ce dernier.
+Si l’huissier n’obtient pas le remboursement total ou la mise en place d’un &eacute;ch&eacute;ancier, une saisie sur salaire ou sur compte bancaire peut &ecirc;tre r&eacute;alis&eacute;e par ce dernier.
 
 Les &eacute;l&eacute;ments trouv&eacute;s par DLP Investigations sont recevables en justice, donc devant les tribunaux, &eacute;tant donn&eacute; que la profession de d&eacute;tective priv&eacute; est r&eacute;glement&eacute;e.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseil et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
