@@ -58,10 +58,10 @@ Dans le cadre de la seconde possibilit&eacute;, via un avocat, un jugement ex&ea
 Si ce jugement est obtenu, une enqu&ecirc;te de solvabilit&eacute; pourra indiquer o&ugrave; des saisies peuvent &ecirc;tre effectu&eacute;es pour obtenir les sommes dues.
 {: .full-width-text}
 
-<div><p class="full-width-text">----------------------------------------------------------------------------------------</p></div>
-
-Chaque demande, chaque dossier a sa particularit&eacute;. C’est pour cela, qu’il faut les &eacute;tudier chacun pr&eacute;cis&eacute;ment. L’agence DLP Investigations vous r&eacute;pond d’un point de vue technique, humain, juridique mais aussi &eacute;value le pourcentage de r&eacute;ussite afin de voir si l’enqu&ecirc;te est pertinente ou non.
+&nbsp;
 {: .full-width-text}
+
+<div><p class="full-width-text">Chaque demande, chaque dossier a sa particularit&eacute;. C&rsquo;est pour cela, qu&rsquo;il faut les &eacute;tudier chacun pr&eacute;cis&eacute;ment. L&rsquo;agence DLP Investigations vous r&eacute;pond d&rsquo;un point de vue technique, humain, juridique mais aussi &eacute;value le pourcentage de r&eacute;ussite afin de voir si l&rsquo;enqu&ecirc;te est pertinente ou non.</p></div>
 
 Chaque enqu&ecirc;te donne lieu &agrave; un rapport recevable en justice. Si la question de base implique une recherche ill&eacute;gale, l’agence DLP Investigations proposera une alternative pour pouvoir vous apporter une r&eacute;ponse.
 {: .full-width-text}
