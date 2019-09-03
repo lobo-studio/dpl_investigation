@@ -30,10 +30,10 @@ Nous pouvons avoir ce type de demande r&eacute;guli&egrave;rement. Pourtant, cel
 C’est pour cela que ces donn&eacute;es ne peuvent ni n’&ecirc;tre obtenues ni communiqu&eacute;es l&eacute;galement par une agence de d&eacute;tective priv&eacute;.
 {: .full-width-text}
 
-![](/assets/img/Interrogations.png){: width="960" height="330"}
+D’autres m&eacute;thodes existent pour confirmer ou informer ce doute et de mani&egrave;re recevable, l&eacute;gale et l&eacute;gitime.
 {: .full-width-text}
 
-D’autres m&eacute;thodes existent pour confirmer ou informer ce doute et de mani&egrave;re recevable, l&eacute;gale et l&eacute;gitime.
+![](/assets/img/Interrogations.png){: width="960" height="330"}
 {: .full-width-text}
 
 * Je suis le dirigeant d’une soci&eacute;t&eacute; et mes salari&eacute;s doivent utiliser des v&eacute;hicules pour notre activit&eacute;. Mais un de mes employ&eacute;s utilise la carte d’essence de la soci&eacute;t&eacute; pour faire le plein de sa propre voiture voire revendre l’essence en bidon. Est-ce qu’un d&eacute;tective priv&eacute; peut apporter la preuve pour que je puisse le licencier ?\{: .full-width-text\}
