@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Dans quel cas je peux faire appel à un détective privé ?
 image_preview_image_path: /assets/img/clients (1).jpg
 permalink: '/blog/:title'
