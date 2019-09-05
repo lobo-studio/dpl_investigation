@@ -75,11 +75,11 @@ En effet, le refus volontaire de confier l’enfant alors qu’un droit de visit
 #### Pension alimentaire
 {: .full-width-text}
 
-Enfin, nous pouvons aussi mener des investigations afin d’apporter les preuves d’un changement de conditions de vie du parent. Cela peut &ecirc;tre en fonction de la situation financi&egrave;re (nouveau travail, augmentation de salaire...) ou si ce dernier n’a plus &agrave; payer un appartement et des charges.
+Enfin, nous pouvons aussi mener des investigations afin d’apporter les preuves d’un changement de conditions de vie du parent. Cela peut &ecirc;tre en fonction de la situation financi&egrave;re (nouveau travail, augmentation de salaire…) ou si ce dernier n’a plus &agrave; payer un appartement et des charges.
 {: .full-width-text}
 
 Il y a aussi les conditions de vie de l’enfant. Il peut &ecirc;tre cit&eacute; les besoins comme une &eacute;cole plus ch&egrave;re ou des activit&eacute;s extra-scolaires n&eacute;cessaires &agrave; son d&eacute;veloppement.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
