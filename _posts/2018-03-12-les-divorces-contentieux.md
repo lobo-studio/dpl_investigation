@@ -98,5 +98,5 @@ C’est uniquement en cas de patrimoine &agrave; partager ou dettes &agrave; fai
 Le rapport d’enqu&ecirc;te final pourra &ecirc;tre utilis&eacute; par les professionnels du droit durant toute la proc&eacute;dure de divorce, dans le respect de la confidentialit&eacute; et le respect des libert&eacute;s fondamentales.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
