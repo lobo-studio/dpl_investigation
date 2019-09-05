@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratique la filature, les personnes me regardent avec des yeux ronds comme des billes, **&laquo; Mais tu suis des personnes dans la rue &agrave; moto ?&nbsp;&raquo;** Eh bien oui \! Mais dans certaines conditions.
+Lorsque j’explique que je suis d&eacute;tective priv&eacute; et que je pratique la filature, les personnes me regardent avec des yeux ronds comme des billes, **&laquo; Mais tu suis des personnes dans la rue &agrave; moto ? &raquo;** Eh bien oui \! Mais dans certaines conditions.
 
 Un fileur doit respecter les libert&eacute;s fondamentales, la vie priv&eacute;e et le code de la route durant toute la mission. En m&ecirc;me temps, il doit observer les moindre faits et gestes et rester discret pour ne pas se faire voir.
 
@@ -51,5 +51,5 @@ Enfin, l’un des &eacute;quipements importants du fileur, surtout le fileur mot
 
 Bien s&ucirc;r, tous les mat&eacute;riels &eacute;lectroniques doivent &ecirc;tre recharg&eacute;s et entretenus avant tout d&eacute;part en mission afin d’&eacute;viter toutes surprises mal venues.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.****<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
