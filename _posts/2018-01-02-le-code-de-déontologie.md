@@ -95,5 +95,5 @@ Ces derni&egrave;res sont
 * Le **contrat** avec une mission d&eacute;volue et un cadre juridique (R631-30)
 * La **justification des r&eacute;mun&eacute;rations** qui est un &eacute;tat pr&eacute;cis des heures effectu&eacute;es avec la somme re&ccedil;ue et &agrave; venir (R631-31)
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
