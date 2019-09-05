@@ -41,5 +41,5 @@ Durant la mission, surtout en cas de filature, vous pourrez demander au d&eacute
 
 Posez toutes vos questions &agrave; votre d&eacute;tective priv&eacute; avant, pendant et apr&egrave;s la mission. Le d&eacute;tective priv&eacute; est l&agrave; pour vous conseiller et vous aider.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
