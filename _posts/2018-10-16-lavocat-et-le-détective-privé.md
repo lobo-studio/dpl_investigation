@@ -53,5 +53,5 @@ Le rapport d’enqu&ecirc;te final utilis&eacute; devant les tribunaux est divis
 
 Notre rapport sera transmis directement au cabinet d’avocat pour ne pas briser la cha&icirc;ne de confidentialit&eacute; et le secret professionnel.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
