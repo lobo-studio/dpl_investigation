@@ -105,5 +105,5 @@ Par cette compl&eacute;mentarit&eacute; et cette synergie ainsi que par l’expe
 
 L’agence DLP Investigations via son r&eacute;seau sera en mesure de vous r&eacute;pondre et de mettre cette proc&eacute;dure en place. Vos impay&eacute;s seront entre de bonnes mains et vous pourrez vous concentrer sur vos dossiers.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
