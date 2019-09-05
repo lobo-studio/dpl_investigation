@@ -66,5 +66,5 @@ Si ce jugement est obtenu, une enqu&ecirc;te de solvabilit&eacute; pourra indiqu
 Chaque enqu&ecirc;te donne lieu &agrave; un rapport recevable en justice. Si la question de base implique une recherche ill&eacute;gale, l’agence DLP Investigations proposera une alternative pour pouvoir vous apporter une r&eacute;ponse.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
