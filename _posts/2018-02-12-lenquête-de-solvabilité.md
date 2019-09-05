@@ -73,5 +73,5 @@ Le d&eacute;lai de cette enqu&ecirc;te est de 1 et &agrave; 4 semaines, en fonct
 La facturation est selon les &eacute;l&eacute;ments demand&eacute;s soit au forfait. Une estimation pourra vous &ecirc;tre donn&eacute;e. Durant l’enqu&ecirc;te et selon les r&eacute;sultats, nous vous tiendrons au courant de la facture finale.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
