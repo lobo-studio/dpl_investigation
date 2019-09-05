@@ -69,5 +69,5 @@ Cette liste est non exhaustive et ne le sera jamais. En effet, beaucoup de prest
 
 A la fin de toute enqu&ecirc;te, un rapport vous sera remis. Ce dernier est recevable devant les tribunaux.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
