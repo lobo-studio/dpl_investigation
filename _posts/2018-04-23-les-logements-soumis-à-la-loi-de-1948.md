@@ -107,5 +107,5 @@ La derni&egrave;re possibilit&eacute; pour faire appel au droit de reprise est p
 Afin de prouver un abandon de logement soumis &agrave; la loi de 1948, le d&eacute;tective priv&eacute; pourra apporter les preuves qui permettront de d&eacute;terminer les possibilit&eacute;s de d&eacute;ch&eacute;ances.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
