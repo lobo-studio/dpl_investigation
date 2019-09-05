@@ -87,5 +87,5 @@ Et inversement \! Un client peut demander &agrave; un d&eacute;tective s’il co
 Ces recommandations sont importantes, car nous fonctionnons beaucoup en r&eacute;seaux. En plus, nous connaissons la m&eacute;thode de travail de l’autre et son professionnalisme. Nous savons donc qu’il n’y aura pas de probl&egrave;me &agrave; mettre en relation telle personne avec telle autre.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
