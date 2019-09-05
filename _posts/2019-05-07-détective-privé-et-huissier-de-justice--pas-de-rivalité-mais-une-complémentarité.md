@@ -97,5 +97,5 @@ Gr&acirc;ce &agrave; cette enqu&ecirc;te, l’huissier de justice saura o&ugrave
 Il ne faut donc pas h&eacute;siter &agrave; faire travailler ce duo sur les dossiers qui le n&eacute;cessitent, pour une meilleure pr&eacute;cision du rendu.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
