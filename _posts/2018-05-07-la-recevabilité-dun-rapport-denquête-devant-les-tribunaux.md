@@ -92,5 +92,5 @@ Dans une affaire opposant un salari&eacute; &agrave; son employeur, le rapport d
 Le rapport du d&eacute;tective priv&eacute; sera donc recevable pour le c&ocirc;t&eacute; civil et p&eacute;nal du dossier, car les juges du civil et du p&eacute;nal ne sont pas tenus par le Code du Travail. Il sera aussi admissible au prud’homme, si seulement la surveillance du salari&eacute; a respect&eacute; les droits du salari&eacute;.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
