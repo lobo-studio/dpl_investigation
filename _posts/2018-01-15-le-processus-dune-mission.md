@@ -101,5 +101,5 @@ Il peut &ecirc;tre la pi&egrave;ce du puzzle manquante lors d’une instance.
 Lors de ce dernier rendez-vous, le rapport d’enqu&ecirc;te sera remis &agrave; l’avocat ou au client, ainsi que la facture finale et le r&eacute;capitulatif des heures pour les filatures.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
