@@ -80,5 +80,5 @@ Un pr&eacute;judice financier peut devenir vite dangereux pour une soci&eacute;t
 Chaque rapport d’enqu&ecirc;te remis &agrave; la fin de cette derni&egrave;re est recevable en justice. Effectivement, chacune de nos missions entre dans un cadre juridique et est l&eacute;gitime. De plus, toutes les r&eacute;glementations, dont notre code de D&eacute;ontologie sont connues et respect&eacute;es.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
