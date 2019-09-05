@@ -110,4 +110,4 @@ Les enqu&ecirc;tes des films, des s&eacute;ries et des livres relatent des crime
 Ainsi, les d&eacute;tectives de l’&eacute;cran et des romans sont tr&egrave;s int&eacute;ressants, mais il ne faut pas les confondre avec ceux de la vraie vie.
 {: .full-width-text}
 
-<div class="center-this-text"><strong><strong>L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.</strong><br /><strong>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;<a href="https://dlp-investigations.fr/#contact">formulaire de contact</a>.</strong></strong></div>
+<div class="center-this-text"><strong><strong>L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.</strong><br /><strong>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;<a href="https://dlp-investigations.fr/#contact">formulaire de contact</a>.</strong></strong></div>
