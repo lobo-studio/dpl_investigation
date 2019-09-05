@@ -17,7 +17,7 @@ categories:
   - Blog
 ---
 
-Vous avez une perte de chiffre d’affaires, vos salari&eacute;s partent en grand nombre, vos clients ne renouvellent pas leur contrat ou ne reviennent pas... Tous ces &eacute;l&eacute;ments peuvent illustrer une concurrence d&eacute;loyale
+Vous avez une perte de chiffre d’affaires, vos salari&eacute;s partent en grand nombre, vos clients ne renouvellent pas leur contrat ou ne reviennent pas… Tous ces &eacute;l&eacute;ments peuvent illustrer une concurrence d&eacute;loyale
 {: .full-width-text}
 
 **&Agrave; quoi correspondent une concurrence d&eacute;loyale et une clause de non-concurrence juridiquement ?**
@@ -83,5 +83,5 @@ Lors de ce cas, le processus de la mission, peut &ecirc;tre compos&eacute; de fi
 Le non-respect de ces deux clauses peut se cumuler
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
