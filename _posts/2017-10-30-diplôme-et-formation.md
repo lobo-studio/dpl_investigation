@@ -91,7 +91,7 @@ Aujourd’hui, il existe quatre centres de formations : Paris (Ecole Sup&eacute;
 * N&icirc;mes
 * Titre<br>Dur&eacute;e : 1 an<br>Formation : 458 heures<br>Stage : 490 heures
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
 
 <div class="csRow"><div class="csColumn" style="margin: 0px; padding: 0px; float: left; width: 23.2%;" data-csstartpoint="7" data-csendpoint="230" data-cswidth="23.2%" data-csid="359cbd23-b233-b026-9860-8b06b1880bbe"><ul></ul></div><div class="csColumn" style="margin: 0px; padding: 0px; float: left; width: 22.7%;" data-csstartpoint="494" data-csendpoint="712" data-cswidth="22.7%" data-csid="40f4dbc9-c58d-b77c-9467-b55b8d74ef69"><ul></ul><p class="full-width-text">&nbsp;</p></div></div>
