@@ -9,7 +9,7 @@ La location est quelque chose de pratique aujourd’hui. En effet, cela permet d
 
 Concernant les bailleurs, cela permet d’utiliser et faire vivre un bien immobilier que le propri&eacute;taire n’habite pas.<br>La location est donc gagnant-gagnant pour chacune des parties.
 
-Cependant, il y a des loyers impay&eacute;s…**<br>Qu’est ce qu’un impay&eacute; et comment faire le cas &eacute;ch&eacute;ant ?**
+Cependant, il y a des loyers impay&eacute;s…<br>**Qu’est ce qu’un impay&eacute; et comment faire le cas &eacute;ch&eacute;ant ?**
 
 ### Le loyer impay&eacute; et ses protections
 
@@ -51,5 +51,5 @@ Si l’huissier n’obtient pas le remboursement total ou la mise en place d’u
 
 Les &eacute;l&eacute;ments trouv&eacute;s par DLP Investigations sont recevables en justice, donc devant les tribunaux, &eacute;tant donn&eacute; que la profession de d&eacute;tective priv&eacute; est r&eacute;glement&eacute;e.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
