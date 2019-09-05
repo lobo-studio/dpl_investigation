@@ -65,5 +65,5 @@ Or gr&acirc;ce &agrave; cette loi via l’article 201, les occupants qui sont sa
 
 De plus, si les occupants irr&eacute;guliers du bien immobilier ne partent pas du logement dans le mois suivant la demande, l’huissier peut d&eacute;livrer un commandement de quitter les lieux.&nbsp; Si ces m&ecirc;mes personnes restent dans les lieux, l’huissier pourra m&ecirc;me solliciter le concours de la force publique aupr&egrave;s du pr&eacute;fet pour aider dans l’expulsion des squatteurs.
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
