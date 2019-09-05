@@ -74,5 +74,5 @@ Faire appel &agrave; un huissier permet d’&eacute;tablir des faits de mani&egr
 Dans les deux cas, le d&eacute;tective fournira un rapport pr&eacute;alablement &agrave; la venue de l’huissier. Les &eacute;l&eacute;ments essentiels seront transmis ainsi que le lieu, la date et l’heure pour une meilleure intervention.
 {: .full-width-text}
 
-**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.**<br>**N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au&nbsp;[formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
