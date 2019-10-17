@@ -32,7 +32,7 @@ L’exp&eacute;diteur de ce mail se fait passer pour un prince ou un riche h&eac
 Il existe deux demandes possibles :
 {: .full-width-text}
 
-* Avance de frais{: .full-width-text}
+* Avance de frais\{: .full-width-text\}
 
 Ce pr&eacute;tendu prince ou riche h&eacute;ritier, va vous demander d’avancer les frais pour faire passer ce transfert comme l&eacute;gal.
 {: .full-width-text}
@@ -43,7 +43,7 @@ Cela concerne les frais d’avocat pour r&eacute;aliser les papiers du transfert
 Bref tout ce qui peut &ecirc;tre en lien avec un tel transfert.
 {: .full-width-text}
 
-* Num&eacute;ro de compte{: .full-width-text}
+* Num&eacute;ro de compte\{: .full-width-text\}
 
 Dans ce cas-l&agrave;, cette m&ecirc;me personne &agrave; la fausse identit&eacute;, va vous proposer de verser directement l’argent sur votre compte bancaire. Pour cela, il lui faut vos num&eacute;ros de compte bancaire ainsi que votre pi&egrave;ce d’identit&eacute; pour confirmer votre nom et pr&eacute;nom.
 {: .full-width-text}
@@ -81,8 +81,8 @@ Pour les particuliers comme pour les professionnels, les cons&eacute;quences fin
 Dans le cadre d’une soci&eacute;t&eacute;, les employ&eacute;s peuvent recevoir ce type de mail. Il faut donc pr&eacute;venir de ces arnaques et sensibiliser toute l’&eacute;quipe. Cela est possible gr&acirc;ce &agrave; des formations.
 {: .full-width-text}
 
-Le p&ocirc;le Cyber ​​& Investigations, cr&eacute;&eacute; par l'association Shadow Moses, sp&eacute;cialis&eacute; dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;es, organisez-vous de la sensibilisation de vos menaces, mais aussi externes.
+Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses, sp&eacute;cialis&eacute;e dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser vous et votre &eacute;quipe pour lutter contre les menaces internes mais aussi externes.
 {: .full-width-text}
 
-**L'agence DLP Investigations and sa g&eacute;rante Delphine de La Porte vous conseille et vous accompagne dans vos dossiers. N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact) .**
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact).**
 {: .center-this-text}
