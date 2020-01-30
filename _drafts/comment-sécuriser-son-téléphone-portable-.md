@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment sécuriser son téléphone portable\_?"
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/smartophone.jpg
 permalink: '/blog/:title'
 ---
 
@@ -70,6 +70,8 @@ Le chiffrage des donn&eacute;es sur un t&eacute;l&eacute;phone portable va perme
 * Installer les mises &agrave; jour
 
 Vous avez encore une demande de mise &agrave; jour sur votre t&eacute;l&eacute;phone, et vous ne voulez pas la faire car elle va vous g&ecirc;ner pendant 3 minutes ? Erreur \! Ces mises &agrave; jour de s&eacute;curit&eacute; corrigent les bugs mais aussi les failles de s&eacute;curit&eacute; que votre syst&egrave;me d’exploitation peut avoir.
+
+![](/assets/img/mise à jour smartphone.png){: width="512" height="512"}
 
 * Faire des sauvegardes
 
