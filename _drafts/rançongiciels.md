@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rançongiciels
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/ransomware .jpg
 permalink: '/blog/:title'
 ---
 
@@ -65,6 +65,8 @@ Aujourd’hui, nous &eacute;teignons tr&egrave;s peu nos ordinateurs et encore m
 
 D&egrave;s que nous ne les utilisons pas, il est raisonnable de les &eacute;teindre. Ainsi cela permet de diminuer les risques d’infection.
 
+![](/assets/img/ransomware.jpg){: width="310" height="163"}
+
 ### Comment faire si notre machine est infect&eacute;e ?
 
 Si votre machine est infect&eacute;e par un ran&ccedil;ongiciel ou ransomware, vous devez avoir plusieurs r&eacute;flexes pour pr&eacute;server au maximum vos donn&eacute;es mais aussi l’int&eacute;grit&eacute; de votre machine.
@@ -78,3 +80,9 @@ Si votre machine est infect&eacute;e par un ran&ccedil;ongiciel ou ransomware, v
 * &Ecirc;tre assist&eacute; par des personnes qualifi&eacute;es pour vous aider.
 
 Dans le cadre d’une infection, n’oubliez pas que vous n’&ecirc;tes pas seul, nous pouvons vous aider afin de minimiser les risques et les d&eacute;g&acirc;ts.
+
+Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses, sp&eacute;cialis&eacute;e dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser vous et votre &eacute;quipe pour lutter contre les menaces internes mais aussi externes.
+{: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
