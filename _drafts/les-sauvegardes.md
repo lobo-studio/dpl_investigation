@@ -47,9 +47,9 @@ Il est donc n&eacute;cessaire de prioriser les donn&eacute;es &agrave; sauvegard
 
 Faites-vous une liste des appareils et donn&eacute;es &agrave; prot&eacute;ger obligatoirement. Pour vous aider, voici quelques questions &agrave; se poser :
 
-&laquo; Quelles sont les donn&eacute;es que je ne peux pas r&eacute;cup&eacute;rer ailleurs ?&nbsp;&raquo;
+&laquo; Quelles sont les donn&eacute;es que je ne peux pas r&eacute;cup&eacute;rer ailleurs ? &raquo;
 
-&laquo; Quelles sont les donn&eacute;es que je consulte r&eacute;guli&egrave;rement ou qui me sont souvent demand&eacute;es ?&nbsp;&raquo;.
+&laquo; Quelles sont les donn&eacute;es que je consulte r&eacute;guli&egrave;rement ou qui me sont souvent demand&eacute;es ? &raquo;.
 
 * Une sauvegarde adapt&eacute;e au besoin
 
@@ -110,5 +110,11 @@ Il est donc pertinent de sauvegarder aussi le logiciel avec les donn&eacute;es.
 N’h&eacute;sitez pas &agrave; regarder les syst&egrave;mes d’exploitation de vos appareils. Certaines applications permettent &agrave; ces derniers de fonctionner. Sans elles, l’appareil sera une coquille vide.
 
 Shadow Moses fait tr&egrave;s attention &agrave; vos sauvegardes et met en place ces derni&egrave;res en fonction de vos r&eacute;els besoins et vous aide &agrave; trouver les meilleures solutions.
+
+Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses, sp&eacute;cialis&eacute;e dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser vous et votre &eacute;quipe pour lutter contre les menaces internes mais aussi externes.
+{: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
 
 &nbsp;
