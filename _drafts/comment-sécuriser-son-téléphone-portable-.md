@@ -115,10 +115,8 @@ Pensez &agrave; mettre un mot de passe sur cette note et &agrave; la chiffrer. A
 
 &nbsp;
 
-Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses sp&eacute;cialis&eacute;e dans la cybers&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser, vous et votre &eacute;quipe, pour lutter contre les menaces internes mais aussi externes.
+Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses, sp&eacute;cialis&eacute;e dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser vous et votre &eacute;quipe pour lutter contre les menaces internes mais aussi externes.
+{: .full-width-text}
 
-&nbsp;
-
-L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.
-
-N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au formulaire de contact.
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
