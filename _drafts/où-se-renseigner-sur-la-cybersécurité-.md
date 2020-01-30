@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Où se renseigner sur la cybersécurité\_?"
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/cybersécurité.png
 permalink: '/blog/:title'
 ---
 
@@ -81,7 +81,7 @@ Ce site fran&ccedil;ais fournit des informations pr&eacute;cises quotidiennement
 
 La partie Cybers&eacute;curit&eacute; est tr&egrave;s int&eacute;ressante et fournit beaucoup d’informations pertinentes pour la vie de tous les jours.
 
-*&laquo; L'Usine Digitale, c'est le m&eacute;dia de la transformation num&eacute;rique.Dans les entreprises, le digital change tout : les business mod&egrave;les, les mani&egrave;res d'innover, de vendre, de travailler... La r&eacute;daction de L'Usine Digitale d&eacute;niche et raconte les bonnes pratiques qu'adoptent les "vieilles" entreprises face &agrave; cette d&eacute;ferlante. Elle d&eacute;crypte ce que font les acteurs du num&eacute;rique, pure players ou pas, et analyse leurs march&eacute;s, leur &eacute;tat de sant&eacute;, leurs originalit&eacute;s. Big Data, Cloud, open source, &eacute;conomie du partage, objets connect&eacute;s... L'Usine Digitale permet aux professionnels de tous les secteurs de se mettre en permanence &agrave; jour sur la transformation num&eacute;rique en s'inspirant des meilleures pratiques. &raquo;*
+*&laquo; L'Usine Digitale, c'est le m&eacute;dia de la transformation num&eacute;rique.Dans les entreprises, le digital change tout : les business mod&egrave;les, les mani&egrave;res d'innover, de vendre, de travailler… La r&eacute;daction de L'Usine Digitale d&eacute;niche et raconte les bonnes pratiques qu'adoptent les "vieilles" entreprises face &agrave; cette d&eacute;ferlante. Elle d&eacute;crypte ce que font les acteurs du num&eacute;rique, pure players ou pas, et analyse leurs march&eacute;s, leur &eacute;tat de sant&eacute;, leurs originalit&eacute;s. Big Data, Cloud, open source, &eacute;conomie du partage, objets connect&eacute;s… L'Usine Digitale permet aux professionnels de tous les secteurs de se mettre en permanence &agrave; jour sur la transformation num&eacute;rique en s'inspirant des meilleures pratiques. &raquo;*
 
 [https://www.usine-digitale.fr/cybersecurite/](https://www.usine-digitale.fr/cybersecurite/)
 
@@ -127,3 +127,9 @@ Ce magazine permet une analyse approfondie de l’actualit&eacute; via des exper
 *Infosecurity Magazine also provides free educational content featuring: &nbsp;an established webinar channel, whitepaper syndication programs & industry leading virtual conferences all of which are endorsed by all major industry accreditation bodies, making Infosecurity Magazine a key learning resource for industry professionals.&raquo;*
 
 [https://www.infosecurity-magazine.com/](https://www.infosecurity-magazine.com/)
+
+Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses, sp&eacute;cialis&eacute;e dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser vous et votre &eacute;quipe pour lutter contre les menaces internes mais aussi externes.
+{: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
