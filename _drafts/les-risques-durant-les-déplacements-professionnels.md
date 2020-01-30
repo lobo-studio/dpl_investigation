@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les risques durant les déplacements professionnels
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/vpn internet.jpg
 permalink: '/blog/:title'
 ---
 
@@ -43,6 +43,8 @@ Les wifi publics peuvent cacher des personnes malveillantes qui vont r&eacute;cu
 
 Nous vous conseillons d’utiliser plut&ocirc;t votre t&eacute;l&eacute;phone portable pour cr&eacute;er un point d’acc&egrave;s pour votre ordinateur. Cela vous permettra de ne pas vous connecter au wifi.
 
+![](/assets/img/VPN.jpg){: width="311" height="162"}
+
 Si &agrave; l’&eacute;tranger vous n’avez pas d’autre choix que de vous connecter au wifi de l’h&ocirc;tel, v&eacute;rifiez bien que ce soit le bon et non un faux. De plus, utilisez un VPN, ou r&eacute;seau priv&eacute; virtuel, qui va ajouter une couche de cryptage et de s&eacute;curit&eacute;. Enfin, &eacute;viter au maximum de vous connecter &agrave; vos comptes avec identifiants et mot de passe ainsi que d’utiliser vos donn&eacute;es bancaires.
 
 * Les cadeaux empoisonn&eacute;s
@@ -66,3 +68,9 @@ Si tous vos documents sont sur un Cloud, connectez-vous via &agrave; un r&eacute
 Pr&eacute;parer un d&eacute;placement professionnel ou partir en vacances avec son travail est tr&egrave;s important. Cela vous &eacute;vitera de perdre du mat&eacute;riel qui a un co&ucirc;t et des donn&eacute;es qui repr&eacute;sentent de l’argent ainsi que votre r&eacute;putation.
 
 Former votre &eacute;quipe est aussi essentiel pour qu’elle puisse adopter les bons gestes et savoir ce qu’il faut &eacute;viter. Ainsi, pas de mauvaise surprise. Nous pouvons vous proposer une formation dans ce but.
+
+Le p&ocirc;le Cyber & Investigations, cr&eacute;&eacute; par l’association de Shadow Moses, sp&eacute;cialis&eacute;e dans la cyber-s&eacute;curit&eacute;, et DLP Investigations, agence de d&eacute;tectives priv&eacute;s, vous proposent de vous sensibiliser vous et votre &eacute;quipe pour lutter contre les menaces internes mais aussi externes.
+{: .full-width-text}
+
+**L'agence DLP Investigations et sa g&eacute;rante Delphine de La Porte vous conseillent et vous accompagnent dans vos dossiers.<br>N'h&eacute;sitez pas &agrave; nous contacter gr&acirc;ce au [formulaire de contact](https://dlp-investigations.fr/#contact).**
+{: .center-this-text}
