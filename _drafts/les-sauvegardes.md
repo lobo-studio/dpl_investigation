@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les sauvegardes
-image_preview_image_path: /assets/img/blog-1.jpg
+image_preview_image_path: /assets/img/sauvegarde cloud.jpg
 permalink: '/blog/:title'
 ---
 
@@ -60,6 +60,8 @@ La plus classique est de faire des copier-coller de ses donn&eacute;es sur des d
 Si vous voulez souscrire &agrave; des services, il faut identifier et d&eacute;terminer les fonctionnalit&eacute;s d&eacute;sir&eacute;es ainsi que l’espace de stockage n&eacute;cessaire.
 
 Shadow Moses pourra vous accompagner dans cette r&eacute;flexion pour trouver la meilleure solution selon vos r&eacute;els besoins.
+
+![](/assets/img/sauvegardes.jpg){: width="259" height="194"}
 
 * Des sauvegardes planifi&eacute;es
 
