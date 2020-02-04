@@ -8,7 +8,7 @@ permalink: '/blog/:title'
 Moins connu que la fraude &laquo; au pr&eacute;sident &raquo;, l’arnaque &laquo; &agrave; la nig&eacute;riane &raquo; est tout aussi dangereuse.
 {: .full-width-text}
 
-**En 2016, Interpol a arr&ecirc;t&eacute; un homme soup&ccedil;onn&eacute; d’avoir utilis&eacute; l’arnaque &laquo; &agrave; la nig&eacute;riane &raquo; et pi&eacute;g&eacute; des centaines de victimes pour un montant sup&eacute;rieur &agrave; 53 millions** d’euros.
+**En 2016, Interpol a arr&ecirc;t&eacute; un homme soup&ccedil;onn&eacute; d’avoir utilis&eacute; l’arnaque &laquo; &agrave; la nig&eacute;riane &raquo; et pi&eacute;g&eacute; des centaines de victimes pour un montant sup&eacute;rieur &agrave; 53 millions** **d’euros.**
 {: .full-width-text}
 
 Cette arnaque au mail, aussi appel&eacute; fraude 419 ou scam 419, en lien avec le num&eacute;ro de l’article du Code p&eacute;nal nig&eacute;rian sanctionnant ce type de fraude, peut provoquer un pr&eacute;judice financier important.
